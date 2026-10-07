@@ -16,7 +16,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  275,
         "description":  "Meet Mochi - this vinyl keychain brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -31,7 +31,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  488,
         "description":  "The framed blanket every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -46,7 +46,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  430,
         "description":  "Bring home Luna in mini form! This projector is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -61,7 +61,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  429,
         "description":  "Say hello to your new favorite duffel bag! Doodle shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -76,7 +76,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  21,
         "description":  "The signed art print every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -91,7 +91,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  223,
         "description":  "Say hello to your new favorite hoodie! Bumble shines in this summer design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -106,7 +106,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  310,
         "description":  "Bumble is ready for adventure in this hardcover washi tape. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -121,7 +121,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  314,
         "description":  "Add some Bloop to your life with this jumbo plushie. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -136,7 +136,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  200,
         "description":  "A must-have for any Bloopville fan. This vinyl pencil case features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -151,7 +151,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  419,
         "description":  "Say hello to your new favorite wall art! Pip shines in this minimalist design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -166,7 +166,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  276,
         "description":  "Meet Pebble - this bluetooth led lamp brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -181,7 +181,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  157,
         "description":  "A must-have for any Bloopville fan. This kids cosmetic bag features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -196,7 +196,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  111,
         "description":  "Officially licensed Bloopville mini figure. glow finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -211,7 +211,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  65,
         "description":  "Add some Bloop to your life with this cropped beanie. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -226,7 +226,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  367,
         "description":  "A must-have for any Bloopville fan. This spiral pen set features Mochi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -241,7 +241,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  421,
         "description":  "Officially licensed Bloopville plush. jumbo finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -256,7 +256,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  340,
         "description":  "Add some Bloop to your life with this limited keychain. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -271,7 +271,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  370,
         "description":  "Add some Bloop to your life with this minimalist wall art. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -286,7 +286,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  188,
         "description":  "Say hello to your new favorite led lamp! Twinkle shines in this wireless design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -301,7 +301,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  22,
         "description":  "Say hello to your new favorite duffel bag! Doodle shines in this insulated design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -316,7 +316,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  13,
         "description":  "Bring home Mochi in vintage form! This enamel pin is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -331,7 +331,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  105,
         "description":  "A must-have for any Bloopville fan. This graphic t-shirt features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -346,7 +346,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  396,
         "description":  "The kraft binder every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -361,7 +361,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  18,
         "description":  "Say hello to your new favorite plush! Doodle shines in this limited edition design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -376,7 +376,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  134,
         "description":  "Officially licensed Bloopville pin set. neon finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -391,7 +391,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  41,
         "description":  "Add some Bloop to your life with this cotton towel. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -406,7 +406,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  362,
         "description":  "Officially licensed Bloopville power bank. smart finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -421,7 +421,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  221,
         "description":  "The insulated cosmetic bag every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -436,7 +436,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  232,
         "description":  "Meet Mochi - this limited mini figure brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -451,7 +451,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  280,
         "description":  "Officially licensed Bloopville beanie. oversized finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -466,7 +466,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  215,
         "description":  "Zuzu is ready for adventure in this dotted notepad. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -481,7 +481,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  271,
         "description":  "Meet Glimmer - this deluxe soft toy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -496,7 +496,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  304,
         "description":  "Bring home Glimmer in enamel form! This keychain is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -511,7 +511,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  297,
         "description":  "Bring home Pebble in minimalist form! This blanket is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -526,7 +526,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  156,
         "description":  "Add some Bloop to your life with this rgb night light. Features Sprout in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -541,7 +541,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  348,
         "description":  "The leather cosmetic bag every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -556,7 +556,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  437,
         "description":  "A must-have for any Bloopville fan. This limited coin features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -571,7 +571,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  86,
         "description":  "Meet Twinkle - this graphic onesie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -586,7 +586,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  480,
         "description":  "A must-have for any Bloopville fan. This a4 bookmark features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -601,7 +601,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  114,
         "description":  "Officially licensed Bloopville stuffed animal. jumbo finish, premium materials, and Mimi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -616,7 +616,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  67,
         "description":  "The enamel backpack every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -631,7 +631,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  32,
         "description":  "A must-have for any Bloopville fan. This minimalist towel features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -646,7 +646,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  446,
         "description":  "The wireless power bank every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -661,7 +661,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  256,
         "description":  "Say hello to your new favorite laptop sleeve! Bumble shines in this padded design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -676,7 +676,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  350,
         "description":  "Add some Bloop to your life with this signed statue. Features Zuzu in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -691,7 +691,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  466,
         "description":  "Meet Pebble - this oversized onesie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -706,7 +706,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  182,
         "description":  "Officially licensed Bloopville folder. kraft finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -721,7 +721,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  214,
         "description":  "Officially licensed Bloopville huggable. jumbo finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -736,7 +736,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  482,
         "description":  "A must-have for any Bloopville fan. This neon phone case features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -751,7 +751,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  282,
         "description":  "A must-have for any Bloopville fan. This cozy poster features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -766,7 +766,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  307,
         "description":  "Say hello to your new favorite wireless pad! Zuzu shines in this smart design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -781,7 +781,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  444,
         "description":  "Blip is ready for adventure in this insulated tote. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -796,7 +796,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  147,
         "description":  "The gold statue every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -811,7 +811,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  47,
         "description":  "Wisp is ready for adventure in this adult beanie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -826,7 +826,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  421,
         "description":  "Meet Sprinkle - this a5 pen set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -841,7 +841,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  273,
         "description":  "Add some Bloop to your life with this sparkly pillow pet. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -856,7 +856,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  115,
         "description":  "A must-have for any Bloopville fan. This matte water bottle features Sprout in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -871,7 +871,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  402,
         "description":  "Say hello to your new favorite frame! Pip shines in this decorative design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -886,7 +886,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  434,
         "description":  "Mochi is ready for adventure in this wireless charger. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -901,7 +901,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  314,
         "description":  "Add some Bloop to your life with this waterproof travel pouch. Features Twinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -916,7 +916,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  195,
         "description":  "Add some Bloop to your life with this signed figurine. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -931,7 +931,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  115,
         "description":  "Add some Bloop to your life with this oversized cap. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -946,7 +946,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  165,
         "description":  "Officially licensed Bloopville binder. lined finish, premium materials, and Zip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -961,7 +961,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  364,
         "description":  "Say hello to your new favorite huggable! Nova shines in this deluxe design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -976,7 +976,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  337,
         "description":  "Say hello to your new favorite pin set! Fizz shines in this limited design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -991,7 +991,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  464,
         "description":  "Bring home Fizz in canvas form! This mug set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1006,7 +1006,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  485,
         "description":  "Zip is ready for adventure in this smart speaker. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1021,7 +1021,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  31,
         "description":  "A must-have for any Bloopville fan. This zip laptop sleeve features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1036,7 +1036,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  306,
         "description":  "A must-have for any Bloopville fan. This vintage art print features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1051,7 +1051,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  189,
         "description":  "Meet Luna - this retro onesie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1066,7 +1066,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  362,
         "description":  "Officially licensed Bloopville pen set. a4 finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1081,7 +1081,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  59,
         "description":  "Say hello to your new favorite soft toy! Pebble shines in this jumbo design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1096,7 +1096,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  265,
         "description":  "Bring home Sprout in pastel form! This pencil case is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1111,7 +1111,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  339,
         "description":  "Add some Bloop to your life with this canvas wall art. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1126,7 +1126,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  360,
         "description":  "Officially licensed Bloopville alarm clock. smart finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1141,7 +1141,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  226,
         "description":  "Bring home Pudding in padded form! This cosmetic bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1156,7 +1156,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  191,
         "description":  "Officially licensed Bloopville figurine. exclusive finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1171,7 +1171,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  85,
         "description":  "Meet Pudding - this retro sweatshirt brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1186,7 +1186,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  17,
         "description":  "The gold-foil washi tape every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1201,7 +1201,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  263,
         "description":  "A must-have for any Bloopville fan. This jumbo huggable features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1216,7 +1216,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  6,
         "description":  "Mochi is ready for adventure in this pastel tote bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1231,7 +1231,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  223,
         "description":  "Add some Bloop to your life with this canvas rug. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1246,7 +1246,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  84,
         "description":  "Bring home Zuzu in bluetooth form! This night light is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1261,7 +1261,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  301,
         "description":  "Say hello to your new favorite travel pouch! Wisp shines in this canvas design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1276,7 +1276,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  264,
         "description":  "Add some Bloop to your life with this mini mini figure. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1291,7 +1291,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  345,
         "description":  "Add some Bloop to your life with this summer pajamas. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1306,7 +1306,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  306,
         "description":  "Add some Bloop to your life with this kraft washi tape. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1321,7 +1321,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  224,
         "description":  "A must-have for any Bloopville fan. This scented pillow pet features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1336,7 +1336,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  23,
         "description":  "Say hello to your new favorite sticker pack! Doodle shines in this limited design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1351,7 +1351,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  348,
         "description":  "Say hello to your new favorite blanket! Pudding shines in this fleece design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1366,7 +1366,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  486,
         "description":  "The wireless headphones every Bloop fan needs. Features Nova with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1381,7 +1381,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  328,
         "description":  "Bring home Pebble in kids form! This shoulder bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1396,7 +1396,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  388,
         "description":  "A must-have for any Bloopville fan. This mini coin features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1411,7 +1411,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  55,
         "description":  "Officially licensed Bloopville beanie. adult finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1426,7 +1426,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  387,
         "description":  "A must-have for any Bloopville fan. This recycled notepad features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1441,7 +1441,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  47,
         "description":  "The jumbo huggable every Bloop fan needs. Features Nova with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1456,7 +1456,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  27,
         "description":  "A must-have for any Bloopville fan. This glitter sticker pack features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1471,7 +1471,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  338,
         "description":  "Say hello to your new favorite mug set! Luna shines in this minimalist design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1486,7 +1486,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  67,
         "description":  "Sprout is ready for adventure in this portable wireless pad. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1501,7 +1501,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  302,
         "description":  "The waterproof pencil case every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "New"
     },
     {
@@ -1516,7 +1516,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  453,
         "description":  "Add some Bloop to your life with this exclusive art print. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1531,7 +1531,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  457,
         "description":  "Officially licensed Bloopville cap. graphic finish, premium materials, and Pudding\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1546,7 +1546,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  130,
         "description":  "Meet Churro - this dotted sticky notes brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -1561,7 +1561,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  300,
         "description":  "Say hello to your new favorite huggable! Pudding shines in this giant design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1576,7 +1576,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  366,
         "description":  "A must-have for any Bloopville fan. This pastel tote bag features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1591,7 +1591,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  463,
         "description":  "Add some Bloop to your life with this woven clock. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -1606,7 +1606,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  294,
         "description":  "Officially licensed Bloopville charger. wireless finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -1621,7 +1621,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  110,
         "description":  "Meet Pebble - this waterproof laptop sleeve brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1636,7 +1636,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  28,
         "description":  "Cosmo is ready for adventure in this glow enamel pin. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1651,7 +1651,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  118,
         "description":  "Add some Bloop to your life with this cozy scarf. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -1666,7 +1666,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  402,
         "description":  "Add some Bloop to your life with this hardcover planner. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1681,7 +1681,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  336,
         "description":  "Bring home Doodle in mini form! This soft toy is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1696,7 +1696,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  30,
         "description":  "Add some Bloop to your life with this neon keychain. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1711,7 +1711,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  215,
         "description":  "Say hello to your new favorite frame! Pip shines in this ceramic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1726,7 +1726,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  165,
         "description":  "Add some Bloop to your life with this touch charger. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -1741,7 +1741,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  260,
         "description":  "Say hello to your new favorite travel pouch! Mochi shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1756,7 +1756,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  236,
         "description":  "The numbered diorama every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1771,7 +1771,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  350,
         "description":  "Say hello to your new favorite jacket! Wisp shines in this winter design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1786,7 +1786,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  274,
         "description":  "Officially licensed Bloopville sketchbook. a5 finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1801,7 +1801,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  415,
         "description":  "Officially licensed Bloopville soft toy. jumbo finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -1816,7 +1816,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  319,
         "description":  "Meet Churro - this holographic pin set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1831,7 +1831,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  122,
         "description":  "Bring home Twinkle in framed form! This coaster set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1846,7 +1846,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  87,
         "description":  "Blip is ready for adventure in this rechargeable charger. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1861,7 +1861,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  65,
         "description":  "Bring home Wisp in waterproof form! This lunch box is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1876,7 +1876,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  300,
         "description":  "Officially licensed Bloopville enamel pin. signed finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1891,7 +1891,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  375,
         "description":  "Say hello to your new favorite t-shirt! Blip shines in this adult design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1906,7 +1906,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  274,
         "description":  "The recycled folder every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -1921,7 +1921,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  47,
         "description":  "A must-have for any Bloopville fan. This limited edition plush features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1936,7 +1936,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  328,
         "description":  "Bring home Nova in pastel form! This backpack is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1951,7 +1951,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  441,
         "description":  "Add some Bloop to your life with this framed wall art. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -1966,7 +1966,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  65,
         "description":  "A must-have for any Bloopville fan. This neon led lamp features Sprinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1981,7 +1981,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  490,
         "description":  "Officially licensed Bloopville cosmetic bag. kids finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -1996,7 +1996,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  242,
         "description":  "Officially licensed Bloopville mini figure. deluxe finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2011,7 +2011,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  197,
         "description":  "The cozy onesie every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2026,7 +2026,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  221,
         "description":  "The hardcover journal every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2041,7 +2041,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  476,
         "description":  "A must-have for any Bloopville fan. This glow-in-the-dark plush features Sprout in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2056,7 +2056,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  247,
         "description":  "Say hello to your new favorite mug! Doodle shines in this limited design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2071,7 +2071,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  213,
         "description":  "Meet Churro - this minimalist rug brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2086,7 +2086,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  452,
         "description":  "Meet Mimi - this sound-activated charger brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2101,7 +2101,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  104,
         "description":  "Say hello to your new favorite tote! Luna shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2116,7 +2116,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  496,
         "description":  "A must-have for any Bloopville fan. This vintage mini figure features Glimmer in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2131,7 +2131,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  114,
         "description":  "Bring home Twinkle in kids form! This t-shirt is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2146,7 +2146,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  302,
         "description":  "Glimmer is ready for adventure in this gold-foil planner. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2161,7 +2161,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  127,
         "description":  "A must-have for any Bloopville fan. This deluxe stuffed animal features Mochi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2176,7 +2176,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  440,
         "description":  "Meet Blip - this metallic pin set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2191,7 +2191,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  240,
         "description":  "Bring home Twinkle in canvas form! This coaster set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2206,7 +2206,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  180,
         "description":  "Officially licensed Bloopville wireless pad. mini finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2221,7 +2221,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  34,
         "description":  "Add some Bloop to your life with this neon lunch box. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2236,7 +2236,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  405,
         "description":  "Meet Pebble - this exclusive coin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2251,7 +2251,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  187,
         "description":  "Sprinkle is ready for adventure in this pastel onesie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2266,7 +2266,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  67,
         "description":  "The gold-foil planner every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2281,7 +2281,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  180,
         "description":  "Officially licensed Bloopville plush. glow-in-the-dark finish, premium materials, and Glimmer\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2296,7 +2296,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  415,
         "description":  "Sprinkle is ready for adventure in this limited pencil case. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2311,7 +2311,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  163,
         "description":  "Meet Glimmer - this cozy towel brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2326,7 +2326,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  351,
         "description":  "Bring home Doodle in bluetooth form! This projector is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2341,7 +2341,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  436,
         "description":  "Bumble is ready for adventure in this leather shoulder bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -2356,7 +2356,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  460,
         "description":  "Bumble is ready for adventure in this glow statue. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2371,7 +2371,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  70,
         "description":  "Meet Fizz - this summer jacket brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2386,7 +2386,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  344,
         "description":  "Meet Zip - this a5 notepad brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2401,7 +2401,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  470,
         "description":  "A must-have for any Bloopville fan. This deluxe pillow pet features Glimmer in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2416,7 +2416,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  110,
         "description":  "Cosmo is ready for adventure in this limited water bottle. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2431,7 +2431,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  380,
         "description":  "Officially licensed Bloopville cushion. fleece finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2446,7 +2446,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  104,
         "description":  "Say hello to your new favorite charger! Fizz shines in this smart design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2461,7 +2461,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  244,
         "description":  "Add some Bloop to your life with this mini pencil case. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2476,7 +2476,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  316,
         "description":  "Say hello to your new favorite poster set! Bumble shines in this exclusive design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2491,7 +2491,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  303,
         "description":  "Bring home Sprout in pastel form! This hoodie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2506,7 +2506,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  138,
         "description":  "Bring home Mimi in dotted form! This sticky notes is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2521,7 +2521,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  483,
         "description":  "Bring home Cosmo in limited edition form! This cuddle buddy is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2536,7 +2536,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  17,
         "description":  "The neon notebook every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2551,7 +2551,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  325,
         "description":  "Bring home Zip in knit form! This mug set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2566,7 +2566,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  85,
         "description":  "Say hello to your new favorite headphones! Nova shines in this rgb design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2581,7 +2581,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  210,
         "description":  "Meet Bumble - this kids laptop sleeve brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2596,7 +2596,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  164,
         "description":  "Meet Blip - this glow diorama brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2611,7 +2611,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  457,
         "description":  "Say hello to your new favorite cap! Sprout shines in this winter design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2626,7 +2626,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  256,
         "description":  "Officially licensed Bloopville sticky notes. lined finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2641,7 +2641,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  276,
         "description":  "The giant pillow pet every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2656,7 +2656,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  398,
         "description":  "Meet Doodle - this vinyl sticker pack brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2671,7 +2671,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  135,
         "description":  "A must-have for any Bloopville fan. This knit frame features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2686,7 +2686,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  112,
         "description":  "Officially licensed Bloopville charger. touch finish, premium materials, and Zip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2701,7 +2701,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  124,
         "description":  "Say hello to your new favorite backpack! Sprout shines in this padded design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2716,7 +2716,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  295,
         "description":  "Meet Pudding - this gold enamel pin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2731,7 +2731,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  125,
         "description":  "Officially licensed Bloopville sweatshirt. pastel finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2746,7 +2746,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  53,
         "description":  "Add some Bloop to your life with this lined bookmark. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2761,7 +2761,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  216,
         "description":  "Add some Bloop to your life with this deluxe plushie. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -2776,7 +2776,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  311,
         "description":  "Mimi is ready for adventure in this holographic tote bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2791,7 +2791,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  196,
         "description":  "Bring home Sprout in framed form! This blanket is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2806,7 +2806,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  57,
         "description":  "Bring home Luna in smart form! This night light is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2821,7 +2821,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  335,
         "description":  "Meet Mochi - this leather backpack brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2836,7 +2836,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  101,
         "description":  "The mini trading card every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2851,7 +2851,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  198,
         "description":  "The cozy jacket every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -2866,7 +2866,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  262,
         "description":  "Meet Sprinkle - this kraft planner brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2881,7 +2881,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  288,
         "description":  "Say hello to your new favorite plushie! Cosmo shines in this deluxe design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2896,7 +2896,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  416,
         "description":  "Mimi is ready for adventure in this matte mug. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2911,7 +2911,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  373,
         "description":  "Meet Churro - this cozy towel brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2926,7 +2926,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  300,
         "description":  "Add some Bloop to your life with this smart alarm clock. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2941,7 +2941,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  196,
         "description":  "Churro is ready for adventure in this pastel laptop sleeve. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2956,7 +2956,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  109,
         "description":  "Pip is ready for adventure in this silver trading card. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2971,7 +2971,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  259,
         "description":  "The graphic t-shirt every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -2986,7 +2986,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  65,
         "description":  "Meet Zuzu - this kraft sketchbook brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -3001,7 +3001,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  368,
         "description":  "Blip is ready for adventure in this scented plush. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3016,7 +3016,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  240,
         "description":  "Say hello to your new favorite mug! Blip shines in this holographic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3031,7 +3031,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  459,
         "description":  "Bring home Doodle in fleece form! This frame is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -3046,7 +3046,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  447,
         "description":  "The rechargeable wireless pad every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -3061,7 +3061,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  443,
         "description":  "A must-have for any Bloopville fan. This zip travel pouch features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -3076,7 +3076,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  181,
         "description":  "Bring home Zuzu in numbered form! This replica is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3091,7 +3091,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  117,
         "description":  "Bring home Sprinkle in oversized form! This onesie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3106,7 +3106,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  165,
         "description":  "Say hello to your new favorite sticky notes! Fizz shines in this a5 design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3121,7 +3121,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  305,
         "description":  "A must-have for any Bloopville fan. This collector plushie features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3136,7 +3136,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  210,
         "description":  "Bring home Blip in matte form! This backpack is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3151,7 +3151,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  313,
         "description":  "Meet Zip - this canvas wall art brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3166,7 +3166,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  251,
         "description":  "Blip is ready for adventure in this touch power bank. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3181,7 +3181,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  133,
         "description":  "Officially licensed Bloopville cosmetic bag. padded finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3196,7 +3196,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  326,
         "description":  "The limited art print every Bloop fan needs. Features Sprout with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -3211,7 +3211,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  434,
         "description":  "Add some Bloop to your life with this cropped jacket. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3226,7 +3226,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  23,
         "description":  "Say hello to your new favorite sketchbook! Sprout shines in this recycled design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3241,7 +3241,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  114,
         "description":  "Meet Wisp - this pastel plushie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3256,7 +3256,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  203,
         "description":  "Bring home Glimmer in holographic form! This keychain is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3271,7 +3271,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  272,
         "description":  "Say hello to your new favorite poster! Sprout shines in this knit design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3286,7 +3286,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  308,
         "description":  "The mini led lamp every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3301,7 +3301,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  244,
         "description":  "A must-have for any Bloopville fan. This mini pencil case features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3316,7 +3316,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  385,
         "description":  "A must-have for any Bloopville fan. This silver mini figure features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3331,7 +3331,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  475,
         "description":  "Add some Bloop to your life with this summer scarf. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -3346,7 +3346,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  391,
         "description":  "Pebble is ready for adventure in this a5 sketchbook. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3361,7 +3361,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  474,
         "description":  "Zip is ready for adventure in this giant plush. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3376,7 +3376,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  131,
         "description":  "A must-have for any Bloopville fan. This neon backpack features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3391,7 +3391,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  399,
         "description":  "The canvas poster every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3406,7 +3406,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  382,
         "description":  "Officially licensed Bloopville speaker. wireless finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3421,7 +3421,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  216,
         "description":  "Add some Bloop to your life with this zip travel pouch. Features Pip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -3436,7 +3436,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  92,
         "description":  "Say hello to your new favorite enamel pin! Luna shines in this glow design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3451,7 +3451,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  5,
         "description":  "Meet Fizz - this graphic cap brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3466,7 +3466,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  490,
         "description":  "A must-have for any Bloopville fan. This spiral notepad features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3481,7 +3481,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  72,
         "description":  "Officially licensed Bloopville pillow pet. limited edition finish, premium materials, and Luna\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3496,7 +3496,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  251,
         "description":  "Officially licensed Bloopville phone case. holographic finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3511,7 +3511,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  80,
         "description":  "Bring home Doodle in cozy form! This coaster set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3526,7 +3526,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  125,
         "description":  "Meet Luna - this mini speaker brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3541,7 +3541,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  330,
         "description":  "Add some Bloop to your life with this zip shoulder bag. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3556,7 +3556,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  230,
         "description":  "A must-have for any Bloopville fan. This exclusive diorama features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -3571,7 +3571,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  86,
         "description":  "A must-have for any Bloopville fan. This adult socks features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3586,7 +3586,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  359,
         "description":  "Bring home Pebble in hardcover form! This notepad is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -3601,7 +3601,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  141,
         "description":  "Bring home Blip in pastel form! This huggable is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3616,7 +3616,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  160,
         "description":  "A must-have for any Bloopville fan. This metallic notebook features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3631,7 +3631,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  239,
         "description":  "Add some Bloop to your life with this fleece coaster set. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -3646,7 +3646,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  449,
         "description":  "Churro is ready for adventure in this wireless projector. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3661,7 +3661,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  320,
         "description":  "Add some Bloop to your life with this leather shoulder bag. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3676,7 +3676,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  133,
         "description":  "The glow replica every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3691,7 +3691,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  188,
         "description":  "Bring home Sprout in cropped form! This socks is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3706,7 +3706,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  432,
         "description":  "Officially licensed Bloopville sticky notes. a5 finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -3721,7 +3721,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  154,
         "description":  "Meet Churro - this giant huggable brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3736,7 +3736,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  419,
         "description":  "The enamel water bottle every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3751,7 +3751,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  398,
         "description":  "Officially licensed Bloopville coaster set. framed finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3766,7 +3766,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  338,
         "description":  "Meet Doodle - this neon speaker brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3781,7 +3781,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  71,
         "description":  "Bring home Mimi in zip form! This backpack is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3796,7 +3796,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  376,
         "description":  "A must-have for any Bloopville fan. This gold figurine features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3811,7 +3811,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  158,
         "description":  "Officially licensed Bloopville beanie. retro finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3826,7 +3826,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  281,
         "description":  "A must-have for any Bloopville fan. This recycled notepad features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -3841,7 +3841,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  94,
         "description":  "Pudding is ready for adventure in this deluxe soft toy. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3856,7 +3856,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  179,
         "description":  "Meet Pip - this limited tote bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -3871,7 +3871,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  42,
         "description":  "The ceramic mug set every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3886,7 +3886,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  118,
         "description":  "Twinkle is ready for adventure in this mini projector. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3901,7 +3901,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  348,
         "description":  "Say hello to your new favorite tote! Wisp shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3916,7 +3916,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  134,
         "description":  "A must-have for any Bloopville fan. This deluxe diorama features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -3931,7 +3931,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  447,
         "description":  "A must-have for any Bloopville fan. This cozy pajamas features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3946,7 +3946,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  314,
         "description":  "Add some Bloop to your life with this pastel bookmark. Features Twinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3961,7 +3961,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  269,
         "description":  "Mimi is ready for adventure in this limited edition pillow pet. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3976,7 +3976,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  299,
         "description":  "A must-have for any Bloopville fan. This pastel notebook features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -3991,7 +3991,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  152,
         "description":  "Say hello to your new favorite poster! Pebble shines in this knit design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4006,7 +4006,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  373,
         "description":  "Sprout is ready for adventure in this rechargeable power bank. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4021,7 +4021,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  267,
         "description":  "Doodle is ready for adventure in this mini wallet. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4036,7 +4036,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  461,
         "description":  "Bumble is ready for adventure in this mini trading card. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4051,7 +4051,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  487,
         "description":  "Add some Bloop to your life with this cozy hoodie. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4066,7 +4066,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  23,
         "description":  "Say hello to your new favorite sticky notes! Sprinkle shines in this kraft design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4081,7 +4081,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  17,
         "description":  "Bring home Cosmo in scented form! This soft toy is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4096,7 +4096,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  418,
         "description":  "Say hello to your new favorite phone case! Zuzu shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -4111,7 +4111,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  474,
         "description":  "Say hello to your new favorite rug! Pip shines in this cozy design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -4126,7 +4126,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  478,
         "description":  "Officially licensed Bloopville led lamp. mini finish, premium materials, and Mimi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4141,7 +4141,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  85,
         "description":  "Meet Zuzu - this insulated travel pouch brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4156,7 +4156,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  11,
         "description":  "The mini coin every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4171,7 +4171,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  489,
         "description":  "A must-have for any Bloopville fan. This pastel sweatshirt features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -4186,7 +4186,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  91,
         "description":  "A must-have for any Bloopville fan. This a4 notepad features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4201,7 +4201,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  256,
         "description":  "Bring home Sprinkle in deluxe form! This plush is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4216,7 +4216,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  382,
         "description":  "Add some Bloop to your life with this neon sticker pack. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4231,7 +4231,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  224,
         "description":  "Meet Sprout - this fleece rug brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4246,7 +4246,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  179,
         "description":  "Add some Bloop to your life with this rechargeable alarm clock. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4261,7 +4261,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  309,
         "description":  "Mimi is ready for adventure in this mini cosmetic bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4276,7 +4276,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  237,
         "description":  "Bring home Pudding in gold form! This statue is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4291,7 +4291,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  160,
         "description":  "Officially licensed Bloopville beanie. cropped finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4306,7 +4306,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  292,
         "description":  "Blip is ready for adventure in this dotted folder. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -4321,7 +4321,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  171,
         "description":  "The pastel pillow pet every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4336,7 +4336,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  333,
         "description":  "Say hello to your new favorite backpack! Pip shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4351,7 +4351,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  6,
         "description":  "Meet Cosmo - this framed poster brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4366,7 +4366,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  451,
         "description":  "Zip is ready for adventure in this wireless speaker. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -4381,7 +4381,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  350,
         "description":  "The canvas backpack every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -4396,7 +4396,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  276,
         "description":  "Bring home Cosmo in glow form! This trading card is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -4411,7 +4411,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  188,
         "description":  "Meet Fizz - this graphic onesie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4426,7 +4426,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  409,
         "description":  "Say hello to your new favorite folder! Mimi shines in this a5 design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4441,7 +4441,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  254,
         "description":  "The collector soft toy every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -4456,7 +4456,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  314,
         "description":  "Say hello to your new favorite notebook! Pip shines in this glitter design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4471,7 +4471,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  463,
         "description":  "Add some Bloop to your life with this cotton cushion. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4486,7 +4486,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  117,
         "description":  "Officially licensed Bloopville alarm clock. sound-activated finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -4501,7 +4501,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  375,
         "description":  "Add some Bloop to your life with this canvas cosmetic bag. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4516,7 +4516,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  296,
         "description":  "Say hello to your new favorite poster set! Nova shines in this glow design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4531,7 +4531,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  333,
         "description":  "A must-have for any Bloopville fan. This cozy pajamas features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4546,7 +4546,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  391,
         "description":  "A must-have for any Bloopville fan. This a5 folder features Sprout in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4561,7 +4561,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  478,
         "description":  "Bring home Pudding in jumbo form! This huggable is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4576,7 +4576,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  118,
         "description":  "Meet Sprinkle - this enamel tote bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4591,7 +4591,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  163,
         "description":  "Meet Pudding - this minimalist frame brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4606,7 +4606,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  443,
         "description":  "Meet Pudding - this sound-activated projector brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4621,7 +4621,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  487,
         "description":  "Bring home Twinkle in pastel form! This cosmetic bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4636,7 +4636,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  338,
         "description":  "Meet Sprout - this signed poster set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4651,7 +4651,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  78,
         "description":  "Meet Fizz - this kids t-shirt brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4666,7 +4666,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  298,
         "description":  "Bring home Sprout in a5 form! This binder is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4681,7 +4681,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  483,
         "description":  "Meet Mochi - this giant snuggle pal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4696,7 +4696,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  105,
         "description":  "The matte pencil case every Bloop fan needs. Features Sprout with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4711,7 +4711,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  91,
         "description":  "The canvas rug every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4726,7 +4726,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  213,
         "description":  "Say hello to your new favorite headphones! Twinkle shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -4741,7 +4741,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  425,
         "description":  "Meet Sprout - this leather cosmetic bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -4756,7 +4756,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  228,
         "description":  "Bring home Pudding in exclusive form! This diorama is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4771,7 +4771,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  209,
         "description":  "Bring home Zip in cropped form! This t-shirt is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4786,7 +4786,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  302,
         "description":  "Bring home Doodle in a5 form! This binder is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4801,7 +4801,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  49,
         "description":  "A must-have for any Bloopville fan. This scented plushie features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -4816,7 +4816,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  436,
         "description":  "A must-have for any Bloopville fan. This vinyl backpack features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4831,7 +4831,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  370,
         "description":  "Add some Bloop to your life with this fleece coaster set. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4846,7 +4846,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  243,
         "description":  "Officially licensed Bloopville night light. neon finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -4861,7 +4861,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  80,
         "description":  "Meet Doodle - this waterproof travel pouch brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4876,7 +4876,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  259,
         "description":  "Blip is ready for adventure in this gold statue. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4891,7 +4891,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  109,
         "description":  "Officially licensed Bloopville onesie. cozy finish, premium materials, and Mimi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4906,7 +4906,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  333,
         "description":  "The gold-foil sticky notes every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4921,7 +4921,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  435,
         "description":  "A must-have for any Bloopville fan. This scented snuggle pal features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4936,7 +4936,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  306,
         "description":  "Cosmo is ready for adventure in this limited tote bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4951,7 +4951,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  340,
         "description":  "A must-have for any Bloopville fan. This canvas mug set features Sprinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -4966,7 +4966,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  127,
         "description":  "Zip is ready for adventure in this rgb charger. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4981,7 +4981,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  334,
         "description":  "Officially licensed Bloopville laptop sleeve. mini finish, premium materials, and Luna\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -4996,7 +4996,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  236,
         "description":  "Meet Pip - this limited diorama brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5011,7 +5011,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  481,
         "description":  "Add some Bloop to your life with this pastel scarf. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5026,7 +5026,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  460,
         "description":  "The recycled bookmark every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5041,7 +5041,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  353,
         "description":  "The sparkly plush every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -5056,7 +5056,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  277,
         "description":  "Wisp is ready for adventure in this pastel pin set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -5071,7 +5071,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  253,
         "description":  "A must-have for any Bloopville fan. This canvas blanket features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -5086,7 +5086,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  39,
         "description":  "Nova is ready for adventure in this neon projector. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5101,7 +5101,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  467,
         "description":  "Add some Bloop to your life with this kids cosmetic bag. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5116,7 +5116,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  431,
         "description":  "Officially licensed Bloopville enamel pin. deluxe finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5131,7 +5131,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  444,
         "description":  "Sprinkle is ready for adventure in this cropped t-shirt. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -5146,7 +5146,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  46,
         "description":  "Officially licensed Bloopville washi tape. dotted finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5161,7 +5161,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  15,
         "description":  "Officially licensed Bloopville pillow pet. glow-in-the-dark finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5176,7 +5176,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  207,
         "description":  "Mimi is ready for adventure in this pastel sticker pack. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -5191,7 +5191,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  295,
         "description":  "Doodle is ready for adventure in this ceramic blanket. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5206,7 +5206,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  400,
         "description":  "A must-have for any Bloopville fan. This rgb desk lamp features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5221,7 +5221,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  323,
         "description":  "Say hello to your new favorite shoulder bag! Pudding shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5236,7 +5236,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  469,
         "description":  "Officially licensed Bloopville replica. limited finish, premium materials, and Mimi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5251,7 +5251,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  412,
         "description":  "The cozy cap every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5266,7 +5266,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  122,
         "description":  "Churro is ready for adventure in this a4 planner. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5281,7 +5281,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  473,
         "description":  "Say hello to your new favorite plush! Churro shines in this glow-in-the-dark design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5296,7 +5296,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  341,
         "description":  "A must-have for any Bloopville fan. This neon pencil case features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5311,7 +5311,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  43,
         "description":  "A must-have for any Bloopville fan. This framed rug features Sprout in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5326,7 +5326,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  339,
         "description":  "Add some Bloop to your life with this mini projector. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -5341,7 +5341,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  94,
         "description":  "A must-have for any Bloopville fan. This neon pencil case features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5356,7 +5356,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  345,
         "description":  "Officially licensed Bloopville art print. gold finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -5371,7 +5371,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  115,
         "description":  "Meet Nova - this kids sweatshirt brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5386,7 +5386,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  48,
         "description":  "Add some Bloop to your life with this pastel sticky notes. Features Zuzu in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5401,7 +5401,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  70,
         "description":  "Officially licensed Bloopville plushie. scented finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5416,7 +5416,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  267,
         "description":  "Mochi is ready for adventure in this limited pin set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5431,7 +5431,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  490,
         "description":  "Add some Bloop to your life with this cotton wall art. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5446,7 +5446,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  484,
         "description":  "Add some Bloop to your life with this portable led lamp. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -5461,7 +5461,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  483,
         "description":  "A must-have for any Bloopville fan. This padded backpack features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5476,7 +5476,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  132,
         "description":  "A must-have for any Bloopville fan. This limited enamel pin features Glimmer in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5491,7 +5491,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  221,
         "description":  "A must-have for any Bloopville fan. This cozy cap features Luna in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5506,7 +5506,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  298,
         "description":  "Bring home Sprinkle in kraft form! This binder is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5521,7 +5521,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  467,
         "description":  "Bring home Mimi in mini form! This snuggle pal is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5536,7 +5536,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  278,
         "description":  "Add some Bloop to your life with this glitter pencil case. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -5551,7 +5551,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  234,
         "description":  "Glimmer is ready for adventure in this minimalist rug. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -5566,7 +5566,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  49,
         "description":  "Add some Bloop to your life with this sound-activated power bank. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5581,7 +5581,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  157,
         "description":  "Zuzu is ready for adventure in this padded lunch box. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5596,7 +5596,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  388,
         "description":  "Say hello to your new favorite coin! Mimi shines in this numbered design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5611,7 +5611,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  361,
         "description":  "Meet Blip - this cropped t-shirt brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -5626,7 +5626,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  99,
         "description":  "Officially licensed Bloopville washi tape. hardcover finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5641,7 +5641,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  119,
         "description":  "Bring home Wisp in collector form! This plushie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5656,7 +5656,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  209,
         "description":  "Meet Nova - this pastel backpack brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5671,7 +5671,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  475,
         "description":  "Add some Bloop to your life with this cotton mug set. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5686,7 +5686,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  127,
         "description":  "Officially licensed Bloopville speaker. touch finish, premium materials, and Pip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5701,7 +5701,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  37,
         "description":  "Say hello to your new favorite duffel bag! Pebble shines in this zip design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5716,7 +5716,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  42,
         "description":  "The numbered figurine every Bloop fan needs. Features Bumble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5731,7 +5731,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  249,
         "description":  "Bring home Cosmo in oversized form! This scarf is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5746,7 +5746,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  222,
         "description":  "Bring home Bumble in a5 form! This pen set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -5761,7 +5761,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  404,
         "description":  "Meet Pudding - this jumbo pillow pet brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5776,7 +5776,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  123,
         "description":  "Officially licensed Bloopville phone case. pastel finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5791,7 +5791,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  412,
         "description":  "Say hello to your new favorite poster! Blip shines in this woven design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -5806,7 +5806,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  267,
         "description":  "Say hello to your new favorite speaker! Fizz shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5821,7 +5821,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  322,
         "description":  "Add some Bloop to your life with this padded cosmetic bag. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5836,7 +5836,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  463,
         "description":  "Say hello to your new favorite enamel pin! Luna shines in this numbered design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -5851,7 +5851,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  261,
         "description":  "Meet Bumble - this winter pajamas brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5866,7 +5866,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  159,
         "description":  "Add some Bloop to your life with this spiral sketchbook. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5881,7 +5881,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  119,
         "description":  "A must-have for any Bloopville fan. This limited edition soft toy features Mochi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5896,7 +5896,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  34,
         "description":  "Add some Bloop to your life with this holographic mug. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5911,7 +5911,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  460,
         "description":  "Bring home Doodle in cotton form! This towel is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -5926,7 +5926,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  182,
         "description":  "Add some Bloop to your life with this sound-activated charger. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5941,7 +5941,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  484,
         "description":  "Officially licensed Bloopville duffel bag. zip finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5956,7 +5956,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  411,
         "description":  "Meet Mimi - this gold replica brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -5971,7 +5971,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  31,
         "description":  "Say hello to your new favorite t-shirt! Fizz shines in this kids design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -5986,7 +5986,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  490,
         "description":  "Officially licensed Bloopville folder. hardcover finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6001,7 +6001,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  421,
         "description":  "A must-have for any Bloopville fan. This deluxe soft toy features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6016,7 +6016,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  158,
         "description":  "Add some Bloop to your life with this limited pin set. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6031,7 +6031,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  258,
         "description":  "The knit poster every Bloop fan needs. Features Nova with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6046,7 +6046,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  476,
         "description":  "Say hello to your new favorite alarm clock! Zuzu shines in this rechargeable design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -6061,7 +6061,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  380,
         "description":  "Add some Bloop to your life with this canvas travel pouch. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6076,7 +6076,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  164,
         "description":  "Officially licensed Bloopville coin. vintage finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6091,7 +6091,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  252,
         "description":  "Meet Fizz - this graphic pajamas brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6106,7 +6106,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  48,
         "description":  "Say hello to your new favorite journal! Cosmo shines in this kraft design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6121,7 +6121,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  477,
         "description":  "The pastel huggable every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6136,7 +6136,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  90,
         "description":  "Add some Bloop to your life with this metallic tote bag. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6151,7 +6151,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  195,
         "description":  "Say hello to your new favorite rug! Nova shines in this canvas design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6166,7 +6166,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  60,
         "description":  "Glimmer is ready for adventure in this rgb led lamp. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6181,7 +6181,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  246,
         "description":  "The kids travel pouch every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -6196,7 +6196,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  317,
         "description":  "Sprout is ready for adventure in this deluxe poster set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -6211,7 +6211,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  287,
         "description":  "Say hello to your new favorite hoodie! Churro shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6226,7 +6226,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  351,
         "description":  "The dotted sketchbook every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6241,7 +6241,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  290,
         "description":  "Bring home Sprinkle in giant form! This pillow pet is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6256,7 +6256,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  7,
         "description":  "Bring home Zip in matte form! This backpack is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6271,7 +6271,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  97,
         "description":  "Add some Bloop to your life with this framed cushion. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6286,7 +6286,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  419,
         "description":  "Meet Zip - this touch power bank brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6301,7 +6301,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  113,
         "description":  "Meet Mochi - this insulated cosmetic bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6316,7 +6316,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  120,
         "description":  "A must-have for any Bloopville fan. This silver statue features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6331,7 +6331,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  218,
         "description":  "Meet Doodle - this pastel jacket brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -6346,7 +6346,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  173,
         "description":  "Add some Bloop to your life with this lined sticky notes. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6361,7 +6361,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  115,
         "description":  "Officially licensed Bloopville huggable. glow-in-the-dark finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6376,7 +6376,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  183,
         "description":  "Say hello to your new favorite mug! Churro shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6391,7 +6391,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  138,
         "description":  "Add some Bloop to your life with this canvas wall art. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6406,7 +6406,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  348,
         "description":  "Officially licensed Bloopville led lamp. smart finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6421,7 +6421,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  288,
         "description":  "A must-have for any Bloopville fan. This padded duffel bag features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6436,7 +6436,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  103,
         "description":  "Officially licensed Bloopville art print. silver finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6451,7 +6451,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  451,
         "description":  "Luna is ready for adventure in this oversized sweatshirt. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6466,7 +6466,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  283,
         "description":  "Meet Sprout - this lined folder brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -6481,7 +6481,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  109,
         "description":  "Officially licensed Bloopville stuffed animal. limited edition finish, premium materials, and Mimi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6496,7 +6496,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  427,
         "description":  "Say hello to your new favorite pencil case! Sprout shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6511,7 +6511,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  95,
         "description":  "Say hello to your new favorite towel! Luna shines in this knit design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6526,7 +6526,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  174,
         "description":  "Mochi is ready for adventure in this touch headphones. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6541,7 +6541,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  32,
         "description":  "The padded laptop sleeve every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6556,7 +6556,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  160,
         "description":  "The numbered statue every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6571,7 +6571,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  312,
         "description":  "Meet Wisp - this kids hoodie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6586,7 +6586,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  227,
         "description":  "Sprinkle is ready for adventure in this pastel folder. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6601,7 +6601,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  319,
         "description":  "Add some Bloop to your life with this collector soft toy. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6616,7 +6616,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  157,
         "description":  "Add some Bloop to your life with this matte tote bag. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6631,7 +6631,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  56,
         "description":  "Add some Bloop to your life with this fleece wall art. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6646,7 +6646,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  26,
         "description":  "Bring home Pip in mini form! This projector is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6661,7 +6661,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  70,
         "description":  "Meet Zuzu - this neon duffel bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6676,7 +6676,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  227,
         "description":  "Say hello to your new favorite poster set! Twinkle shines in this exclusive design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6691,7 +6691,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  431,
         "description":  "Add some Bloop to your life with this cozy sweatshirt. Features Pip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6706,7 +6706,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  187,
         "description":  "Say hello to your new favorite bookmark! Glimmer shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6721,7 +6721,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  59,
         "description":  "Add some Bloop to your life with this limited edition pillow pet. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6736,7 +6736,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  482,
         "description":  "Say hello to your new favorite backpack! Pip shines in this limited design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6751,7 +6751,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  146,
         "description":  "A must-have for any Bloopville fan. This knit clock features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6766,7 +6766,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  83,
         "description":  "The wireless wireless pad every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6781,7 +6781,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  493,
         "description":  "Pudding is ready for adventure in this neon laptop sleeve. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6796,7 +6796,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  360,
         "description":  "Add some Bloop to your life with this gold enamel pin. Features Sprout in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6811,7 +6811,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  227,
         "description":  "Officially licensed Bloopville jacket. cozy finish, premium materials, and Luna\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -6826,7 +6826,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  380,
         "description":  "Glimmer is ready for adventure in this spiral folder. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -6841,7 +6841,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  299,
         "description":  "Officially licensed Bloopville pillow pet. jumbo finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6856,7 +6856,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  368,
         "description":  "Add some Bloop to your life with this waterproof keychain. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6871,7 +6871,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  239,
         "description":  "Officially licensed Bloopville frame. framed finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6886,7 +6886,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  391,
         "description":  "Bring home Pebble in portable form! This desk lamp is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6901,7 +6901,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  168,
         "description":  "A must-have for any Bloopville fan. This mini lunch box features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6916,7 +6916,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  213,
         "description":  "A must-have for any Bloopville fan. This gold diorama features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6931,7 +6931,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  288,
         "description":  "Bring home Fizz in cozy form! This cap is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -6946,7 +6946,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  178,
         "description":  "Say hello to your new favorite notepad! Doodle shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6961,7 +6961,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  165,
         "description":  "Zuzu is ready for adventure in this scented plushie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6976,7 +6976,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  484,
         "description":  "Say hello to your new favorite notebook! Mochi shines in this holographic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -6991,7 +6991,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  253,
         "description":  "The woven blanket every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7006,7 +7006,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  360,
         "description":  "Say hello to your new favorite desk lamp! Pip shines in this rechargeable design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7021,7 +7021,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  294,
         "description":  "Say hello to your new favorite wallet! Zuzu shines in this waterproof design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7036,7 +7036,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  215,
         "description":  "A must-have for any Bloopville fan. This vintage replica features Luna in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7051,7 +7051,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  293,
         "description":  "A must-have for any Bloopville fan. This retro socks features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7066,7 +7066,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  352,
         "description":  "Add some Bloop to your life with this a5 notepad. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7081,7 +7081,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  245,
         "description":  "Bring home Sprout in pastel form! This snuggle pal is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7096,7 +7096,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  118,
         "description":  "Fizz is ready for adventure in this enamel tote bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7111,7 +7111,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  446,
         "description":  "Meet Wisp - this cozy poster brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7126,7 +7126,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  347,
         "description":  "A must-have for any Bloopville fan. This sound-activated power bank features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7141,7 +7141,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  237,
         "description":  "The insulated laptop sleeve every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7156,7 +7156,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  244,
         "description":  "Add some Bloop to your life with this numbered trading card. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7171,7 +7171,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  371,
         "description":  "A must-have for any Bloopville fan. This oversized socks features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7186,7 +7186,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  122,
         "description":  "Add some Bloop to your life with this spiral binder. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7201,7 +7201,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  330,
         "description":  "Sprout is ready for adventure in this mini stuffed animal. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7216,7 +7216,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  455,
         "description":  "A must-have for any Bloopville fan. This pastel backpack features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7231,7 +7231,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  437,
         "description":  "A must-have for any Bloopville fan. This cozy wall art features Luna in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7246,7 +7246,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  203,
         "description":  "A must-have for any Bloopville fan. This bluetooth speaker features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7261,7 +7261,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  246,
         "description":  "Say hello to your new favorite shoulder bag! Cosmo shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7276,7 +7276,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  56,
         "description":  "Officially licensed Bloopville figurine. exclusive finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7291,7 +7291,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  229,
         "description":  "Meet Pebble - this retro scarf brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7306,7 +7306,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  55,
         "description":  "Officially licensed Bloopville notepad. gold-foil finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7321,7 +7321,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  127,
         "description":  "Officially licensed Bloopville cuddle buddy. glow-in-the-dark finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7336,7 +7336,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  461,
         "description":  "A must-have for any Bloopville fan. This holographic water bottle features Glimmer in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7351,7 +7351,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  480,
         "description":  "Meet Twinkle - this minimalist wall art brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7366,7 +7366,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  57,
         "description":  "Add some Bloop to your life with this rgb projector. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7381,7 +7381,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  492,
         "description":  "Sprout is ready for adventure in this padded shoulder bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -7396,7 +7396,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  150,
         "description":  "Pebble is ready for adventure in this signed statue. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7411,7 +7411,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  5,
         "description":  "Bring home Cosmo in graphic form! This cap is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7426,7 +7426,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  310,
         "description":  "Officially licensed Bloopville notepad. pastel finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7441,7 +7441,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  400,
         "description":  "Bring home Zuzu in mini form! This cuddle buddy is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7456,7 +7456,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  164,
         "description":  "Bring home Pudding in waterproof form! This tote bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7471,7 +7471,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  445,
         "description":  "Officially licensed Bloopville cushion. knit finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7486,7 +7486,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  111,
         "description":  "Officially licensed Bloopville desk lamp. rechargeable finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7501,7 +7501,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  308,
         "description":  "Bring home Wisp in mini form! This shoulder bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7516,7 +7516,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  297,
         "description":  "A must-have for any Bloopville fan. This deluxe enamel pin features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7531,7 +7531,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  289,
         "description":  "The pastel jacket every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7546,7 +7546,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  323,
         "description":  "Meet Glimmer - this spiral sketchbook brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7561,7 +7561,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  398,
         "description":  "Add some Bloop to your life with this mini pillow pet. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7576,7 +7576,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  447,
         "description":  "Add some Bloop to your life with this glitter tote bag. Features Pip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7591,7 +7591,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  458,
         "description":  "Bring home Bumble in minimalist form! This rug is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -7606,7 +7606,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  445,
         "description":  "Add some Bloop to your life with this wireless led lamp. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7621,7 +7621,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  479,
         "description":  "Meet Doodle - this insulated travel pouch brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7636,7 +7636,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  305,
         "description":  "The vintage mini figure every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7651,7 +7651,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  379,
         "description":  "Bring home Luna in oversized form! This scarf is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7666,7 +7666,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  140,
         "description":  "Meet Nova - this dotted sketchbook brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7681,7 +7681,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  489,
         "description":  "Luna is ready for adventure in this glow-in-the-dark stuffed animal. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7696,7 +7696,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  87,
         "description":  "Officially licensed Bloopville keychain. holographic finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7711,7 +7711,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  312,
         "description":  "The canvas blanket every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7726,7 +7726,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  358,
         "description":  "Officially licensed Bloopville charger. mini finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7741,7 +7741,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  201,
         "description":  "A must-have for any Bloopville fan. This zip pencil case features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7756,7 +7756,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  358,
         "description":  "The deluxe statue every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7771,7 +7771,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  159,
         "description":  "Say hello to your new favorite hoodie! Zip shines in this cozy design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7786,7 +7786,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  66,
         "description":  "Add some Bloop to your life with this gold-foil planner. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7801,7 +7801,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  470,
         "description":  "A must-have for any Bloopville fan. This collector plushie features Glimmer in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7816,7 +7816,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  452,
         "description":  "Add some Bloop to your life with this holographic phone case. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7831,7 +7831,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  467,
         "description":  "The cozy rug every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7846,7 +7846,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  93,
         "description":  "Say hello to your new favorite headphones! Fizz shines in this wireless design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7861,7 +7861,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  458,
         "description":  "Wisp is ready for adventure in this zip pencil case. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7876,7 +7876,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  128,
         "description":  "Bring home Pudding in exclusive form! This coin is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7891,7 +7891,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  115,
         "description":  "Bring home Churro in retro form! This beanie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7906,7 +7906,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  66,
         "description":  "Say hello to your new favorite bookmark! Zip shines in this hardcover design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7921,7 +7921,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  377,
         "description":  "Officially licensed Bloopville plushie. mini finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7936,7 +7936,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  470,
         "description":  "Say hello to your new favorite pin set! Sprinkle shines in this vinyl design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7951,7 +7951,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  350,
         "description":  "Officially licensed Bloopville wall art. minimalist finish, premium materials, and Zip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7966,7 +7966,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  29,
         "description":  "Bring home Pudding in wireless form! This speaker is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -7981,7 +7981,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  435,
         "description":  "Doodle is ready for adventure in this waterproof backpack. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -7996,7 +7996,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  494,
         "description":  "Officially licensed Bloopville coin. silver finish, premium materials, and Pudding\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8011,7 +8011,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  73,
         "description":  "The pastel socks every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8026,7 +8026,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  160,
         "description":  "Sprout is ready for adventure in this recycled pen set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8041,7 +8041,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  331,
         "description":  "Say hello to your new favorite plushie! Fizz shines in this limited edition design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8056,7 +8056,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  425,
         "description":  "Say hello to your new favorite keychain! Fizz shines in this glitter design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -8071,7 +8071,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  286,
         "description":  "Say hello to your new favorite blanket! Sprout shines in this knit design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8086,7 +8086,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  216,
         "description":  "Add some Bloop to your life with this wireless charger. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -8101,7 +8101,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  331,
         "description":  "Officially licensed Bloopville lunch box. leather finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8116,7 +8116,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  380,
         "description":  "Nova is ready for adventure in this exclusive replica. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8131,7 +8131,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  323,
         "description":  "Add some Bloop to your life with this cropped cap. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8146,7 +8146,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  305,
         "description":  "The hardcover washi tape every Bloop fan needs. Features Mochi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8161,7 +8161,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  444,
         "description":  "The collector plushie every Bloop fan needs. Features Bumble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8176,7 +8176,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  46,
         "description":  "Add some Bloop to your life with this vinyl sticker pack. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8191,7 +8191,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  259,
         "description":  "A must-have for any Bloopville fan. This canvas clock features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8206,7 +8206,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  236,
         "description":  "Pudding is ready for adventure in this wireless wireless pad. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8221,7 +8221,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  181,
         "description":  "Add some Bloop to your life with this waterproof shoulder bag. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8236,7 +8236,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  348,
         "description":  "A must-have for any Bloopville fan. This deluxe poster set features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8251,7 +8251,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  247,
         "description":  "Bring home Blip in graphic form! This sweatshirt is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8266,7 +8266,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  266,
         "description":  "Add some Bloop to your life with this a4 notepad. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8281,7 +8281,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  14,
         "description":  "Say hello to your new favorite pillow pet! Blip shines in this limited edition design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8296,7 +8296,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  150,
         "description":  "Meet Bumble - this waterproof mug brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8311,7 +8311,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  110,
         "description":  "A must-have for any Bloopville fan. This canvas poster features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8326,7 +8326,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  296,
         "description":  "Add some Bloop to your life with this bluetooth led lamp. Features Twinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8341,7 +8341,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  201,
         "description":  "Officially licensed Bloopville wallet. pastel finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8356,7 +8356,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  442,
         "description":  "Mimi is ready for adventure in this mini mini figure. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8371,7 +8371,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  472,
         "description":  "A must-have for any Bloopville fan. This retro jacket features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8386,7 +8386,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  23,
         "description":  "A must-have for any Bloopville fan. This a4 folder features Sprinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8401,7 +8401,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  315,
         "description":  "Bring home Glimmer in collector form! This plush is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8416,7 +8416,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  90,
         "description":  "Meet Bumble - this limited notebook brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8431,7 +8431,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  427,
         "description":  "A must-have for any Bloopville fan. This fleece mug set features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8446,7 +8446,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  262,
         "description":  "Bring home Doodle in sound-activated form! This led lamp is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8461,7 +8461,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  8,
         "description":  "Meet Bumble - this canvas laptop sleeve brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8476,7 +8476,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  442,
         "description":  "Nova is ready for adventure in this silver trading card. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8491,7 +8491,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  257,
         "description":  "The winter jacket every Bloop fan needs. Features Bumble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8506,7 +8506,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  91,
         "description":  "Bring home Pip in gold-foil form! This binder is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8521,7 +8521,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  144,
         "description":  "Cosmo is ready for adventure in this giant plushie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8536,7 +8536,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  386,
         "description":  "Add some Bloop to your life with this vinyl sticker pack. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8551,7 +8551,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  253,
         "description":  "Add some Bloop to your life with this cozy towel. Features Sprout in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8566,7 +8566,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  386,
         "description":  "Officially licensed Bloopville speaker. wireless finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8581,7 +8581,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  344,
         "description":  "The canvas wallet every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8596,7 +8596,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  167,
         "description":  "A must-have for any Bloopville fan. This numbered diorama features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8611,7 +8611,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  296,
         "description":  "Officially licensed Bloopville t-shirt. winter finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8626,7 +8626,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  116,
         "description":  "Officially licensed Bloopville journal. dotted finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8641,7 +8641,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  140,
         "description":  "The scented cuddle buddy every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8656,7 +8656,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  186,
         "description":  "Blip is ready for adventure in this limited keychain. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8671,7 +8671,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  11,
         "description":  "A must-have for any Bloopville fan. This canvas clock features Luna in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8686,7 +8686,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  341,
         "description":  "Say hello to your new favorite night light! Zip shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8701,7 +8701,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  362,
         "description":  "Officially licensed Bloopville wallet. zip finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8716,7 +8716,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  343,
         "description":  "The limited poster set every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8731,7 +8731,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  147,
         "description":  "Meet Luna - this cozy jacket brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8746,7 +8746,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  478,
         "description":  "Add some Bloop to your life with this hardcover pen set. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8761,7 +8761,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  438,
         "description":  "The collector plush every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8776,7 +8776,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  108,
         "description":  "A must-have for any Bloopville fan. This holographic phone case features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8791,7 +8791,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  498,
         "description":  "Meet Twinkle - this minimalist frame brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8806,7 +8806,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  373,
         "description":  "A must-have for any Bloopville fan. This rechargeable power bank features Luna in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8821,7 +8821,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  484,
         "description":  "A must-have for any Bloopville fan. This pastel pencil case features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8836,7 +8836,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  497,
         "description":  "Bring home Sprinkle in gold form! This figurine is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8851,7 +8851,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  320,
         "description":  "A must-have for any Bloopville fan. This cozy beanie features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -8866,7 +8866,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  470,
         "description":  "Say hello to your new favorite pen set! Twinkle shines in this a5 design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -8881,7 +8881,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  273,
         "description":  "Add some Bloop to your life with this sparkly plush. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8896,7 +8896,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  161,
         "description":  "Say hello to your new favorite pencil case! Pip shines in this limited design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8911,7 +8911,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  384,
         "description":  "The minimalist mug set every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8926,7 +8926,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  273,
         "description":  "Zip is ready for adventure in this rechargeable projector. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8941,7 +8941,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  75,
         "description":  "Officially licensed Bloopville cosmetic bag. insulated finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8956,7 +8956,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  96,
         "description":  "Officially licensed Bloopville coin. numbered finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -8971,7 +8971,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  309,
         "description":  "Bumble is ready for adventure in this oversized beanie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -8986,7 +8986,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  93,
         "description":  "Mochi is ready for adventure in this gold-foil planner. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9001,7 +9001,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  55,
         "description":  "Meet Blip - this pastel pillow pet brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9016,7 +9016,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  301,
         "description":  "Say hello to your new favorite mug! Wisp shines in this glitter design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9031,7 +9031,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  332,
         "description":  "Say hello to your new favorite mug set! Mimi shines in this decorative design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9046,7 +9046,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  280,
         "description":  "Add some Bloop to your life with this bluetooth charger. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9061,7 +9061,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  449,
         "description":  "The kids cosmetic bag every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -9076,7 +9076,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  122,
         "description":  "Officially licensed Bloopville statue. glow finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9091,7 +9091,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  152,
         "description":  "Bring home Mimi in pastel form! This t-shirt is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9106,7 +9106,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  76,
         "description":  "Pebble is ready for adventure in this gold-foil notepad. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9121,7 +9121,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  161,
         "description":  "Add some Bloop to your life with this jumbo plushie. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9136,7 +9136,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  447,
         "description":  "A must-have for any Bloopville fan. This metallic notebook features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9151,7 +9151,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  443,
         "description":  "A must-have for any Bloopville fan. This fleece mug set features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9166,7 +9166,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  474,
         "description":  "The mini projector every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -9181,7 +9181,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  331,
         "description":  "Add some Bloop to your life with this leather lunch box. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9196,7 +9196,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  166,
         "description":  "Add some Bloop to your life with this silver mini figure. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9211,7 +9211,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  190,
         "description":  "Bring home Zip in adult form! This sweatshirt is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9226,7 +9226,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  143,
         "description":  "A must-have for any Bloopville fan. This kraft binder features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9241,7 +9241,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  225,
         "description":  "Bring home Bumble in scented form! This plush is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9256,7 +9256,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  94,
         "description":  "A must-have for any Bloopville fan. This waterproof backpack features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9271,7 +9271,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  128,
         "description":  "Meet Luna - this fleece blanket brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9286,7 +9286,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  410,
         "description":  "A must-have for any Bloopville fan. This rgb power bank features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9301,7 +9301,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  283,
         "description":  "Add some Bloop to your life with this kids tote. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -9316,7 +9316,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  21,
         "description":  "The limited figurine every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9331,7 +9331,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  404,
         "description":  "The cropped socks every Bloop fan needs. Features Churro with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9346,7 +9346,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  187,
         "description":  "Add some Bloop to your life with this hardcover journal. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9361,7 +9361,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  218,
         "description":  "Pip is ready for adventure in this giant soft toy. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9376,7 +9376,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  6,
         "description":  "Mochi is ready for adventure in this metallic water bottle. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9391,7 +9391,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  450,
         "description":  "Officially licensed Bloopville poster. canvas finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -9406,7 +9406,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  249,
         "description":  "Add some Bloop to your life with this wireless speaker. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9421,7 +9421,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  334,
         "description":  "Meet Blip - this mini backpack brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9436,7 +9436,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  292,
         "description":  "The exclusive trading card every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9451,7 +9451,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  203,
         "description":  "The adult beanie every Bloop fan needs. Features Mochi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9466,7 +9466,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  402,
         "description":  "The lined sticky notes every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9481,7 +9481,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  406,
         "description":  "Meet Zuzu - this jumbo plush brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -9496,7 +9496,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  474,
         "description":  "Bring home Cosmo in waterproof form! This sticker pack is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9511,7 +9511,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  303,
         "description":  "Say hello to your new favorite frame! Pip shines in this ceramic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9526,7 +9526,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  419,
         "description":  "Bring home Sprinkle in rechargeable form! This night light is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -9541,7 +9541,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  350,
         "description":  "Nova is ready for adventure in this insulated duffel bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9556,7 +9556,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  263,
         "description":  "Meet Glimmer - this numbered enamel pin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9571,7 +9571,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  444,
         "description":  "A must-have for any Bloopville fan. This winter cap features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9586,7 +9586,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  381,
         "description":  "Say hello to your new favorite notepad! Churro shines in this recycled design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9601,7 +9601,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  190,
         "description":  "Say hello to your new favorite snuggle pal! Twinkle shines in this limited edition design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9616,7 +9616,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  255,
         "description":  "Meet Bumble - this matte water bottle brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9631,7 +9631,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  366,
         "description":  "Add some Bloop to your life with this framed poster. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -9646,7 +9646,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  90,
         "description":  "Bring home Glimmer in wireless form! This projector is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9661,7 +9661,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  233,
         "description":  "Bring home Glimmer in waterproof form! This wallet is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9676,7 +9676,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  320,
         "description":  "Officially licensed Bloopville coin. signed finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -9691,7 +9691,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  465,
         "description":  "Say hello to your new favorite scarf! Pudding shines in this cropped design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -9706,7 +9706,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  142,
         "description":  "Bring home Blip in spiral form! This folder is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9721,7 +9721,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  72,
         "description":  "The collector soft toy every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9736,7 +9736,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  85,
         "description":  "Bring home Wisp in enamel form! This sticker pack is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9751,7 +9751,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  68,
         "description":  "Say hello to your new favorite poster! Wisp shines in this fleece design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9766,7 +9766,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  87,
         "description":  "The mini night light every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9781,7 +9781,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  448,
         "description":  "Cosmo is ready for adventure in this pastel lunch box. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9796,7 +9796,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  273,
         "description":  "Meet Twinkle - this glow replica brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9811,7 +9811,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  369,
         "description":  "The kids t-shirt every Bloop fan needs. Features Nova with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9826,7 +9826,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  269,
         "description":  "Say hello to your new favorite journal! Mimi shines in this recycled design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9841,7 +9841,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  176,
         "description":  "Add some Bloop to your life with this collector huggable. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9856,7 +9856,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  44,
         "description":  "Sprinkle is ready for adventure in this limited phone case. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -9871,7 +9871,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  498,
         "description":  "A must-have for any Bloopville fan. This framed wall art features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9886,7 +9886,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  95,
         "description":  "Bring home Sprinkle in portable form! This charger is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9901,7 +9901,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  447,
         "description":  "Officially licensed Bloopville laptop sleeve. zip finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -9916,7 +9916,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  333,
         "description":  "Add some Bloop to your life with this mini replica. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -9931,7 +9931,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  192,
         "description":  "The cozy cap every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9946,7 +9946,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  183,
         "description":  "Say hello to your new favorite bookmark! Nova shines in this recycled design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9961,7 +9961,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  14,
         "description":  "Bring home Zip in scented form! This stuffed animal is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -9976,7 +9976,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  367,
         "description":  "Say hello to your new favorite pencil case! Nova shines in this holographic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -9991,7 +9991,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  229,
         "description":  "The knit coaster set every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10006,7 +10006,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  244,
         "description":  "Meet Sprout - this bluetooth headphones brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10021,7 +10021,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  461,
         "description":  "Add some Bloop to your life with this neon wallet. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10036,7 +10036,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  105,
         "description":  "Meet Cosmo - this vintage poster set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10051,7 +10051,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  79,
         "description":  "Meet Cosmo - this graphic t-shirt brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10066,7 +10066,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  78,
         "description":  "A must-have for any Bloopville fan. This hardcover notepad features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10081,7 +10081,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  131,
         "description":  "Add some Bloop to your life with this scented huggable. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10096,7 +10096,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  265,
         "description":  "Meet Cosmo - this enamel keychain brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10111,7 +10111,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  102,
         "description":  "Wisp is ready for adventure in this canvas poster. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10126,7 +10126,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  153,
         "description":  "Say hello to your new favorite night light! Wisp shines in this touch design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10141,7 +10141,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  326,
         "description":  "Officially licensed Bloopville pencil case. pastel finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10156,7 +10156,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  376,
         "description":  "Meet Sprout - this limited enamel pin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10171,7 +10171,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  214,
         "description":  "Bring home Zuzu in pastel form! This jacket is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10186,7 +10186,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  130,
         "description":  "A must-have for any Bloopville fan. This kraft washi tape features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10201,7 +10201,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  298,
         "description":  "The limited edition stuffed animal every Bloop fan needs. Features Bumble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10216,7 +10216,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  449,
         "description":  "The metallic sticker pack every Bloop fan needs. Features Bumble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -10231,7 +10231,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  62,
         "description":  "Add some Bloop to your life with this minimalist coaster set. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10246,7 +10246,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  250,
         "description":  "Say hello to your new favorite speaker! Glimmer shines in this wireless design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10261,7 +10261,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  471,
         "description":  "The waterproof tote every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10276,7 +10276,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  6,
         "description":  "Bring home Nova in silver form! This poster set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10291,7 +10291,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  194,
         "description":  "Blip is ready for adventure in this kids onesie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10306,7 +10306,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  164,
         "description":  "Officially licensed Bloopville journal. gold-foil finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10321,7 +10321,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  479,
         "description":  "Bring home Mochi in mini form! This cuddle buddy is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10336,7 +10336,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  380,
         "description":  "Meet Mimi - this holographic keychain brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10351,7 +10351,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  127,
         "description":  "Meet Zip - this knit wall art brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10366,7 +10366,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  71,
         "description":  "Mochi is ready for adventure in this neon night light. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10381,7 +10381,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  385,
         "description":  "The pastel cosmetic bag every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10396,7 +10396,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  456,
         "description":  "A must-have for any Bloopville fan. This glow statue features Sprout in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10411,7 +10411,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  232,
         "description":  "A must-have for any Bloopville fan. This kids socks features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -10426,7 +10426,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  338,
         "description":  "Say hello to your new favorite notepad! Blip shines in this hardcover design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10441,7 +10441,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  100,
         "description":  "A must-have for any Bloopville fan. This collector huggable features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10456,7 +10456,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  368,
         "description":  "Say hello to your new favorite tote bag! Bumble shines in this enamel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10471,7 +10471,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  97,
         "description":  "Luna is ready for adventure in this cozy clock. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10486,7 +10486,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  9,
         "description":  "Say hello to your new favorite alarm clock! Pip shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10501,7 +10501,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  377,
         "description":  "Bring home Zip in leather form! This shoulder bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10516,7 +10516,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  118,
         "description":  "Say hello to your new favorite poster set! Churro shines in this limited design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10531,7 +10531,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  461,
         "description":  "Twinkle is ready for adventure in this winter pajamas. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10546,7 +10546,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  89,
         "description":  "Officially licensed Bloopville planner. lined finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10561,7 +10561,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  25,
         "description":  "Add some Bloop to your life with this jumbo huggable. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10576,7 +10576,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  392,
         "description":  "Say hello to your new favorite keychain! Cosmo shines in this enamel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10591,7 +10591,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  90,
         "description":  "Officially licensed Bloopville cushion. minimalist finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10606,7 +10606,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  83,
         "description":  "Sprout is ready for adventure in this bluetooth headphones. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10621,7 +10621,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  112,
         "description":  "The kids wallet every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10636,7 +10636,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  215,
         "description":  "Bring home Doodle in silver form! This diorama is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10651,7 +10651,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  60,
         "description":  "Twinkle is ready for adventure in this kids beanie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10666,7 +10666,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  488,
         "description":  "The recycled pen set every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10681,7 +10681,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  140,
         "description":  "Bring home Bumble in giant form! This plushie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10696,7 +10696,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  483,
         "description":  "A must-have for any Bloopville fan. This matte mug features Glimmer in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -10711,7 +10711,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  384,
         "description":  "Add some Bloop to your life with this cotton blanket. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10726,7 +10726,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  276,
         "description":  "Add some Bloop to your life with this rechargeable wireless pad. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10741,7 +10741,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  111,
         "description":  "Say hello to your new favorite wallet! Pebble shines in this waterproof design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10756,7 +10756,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  209,
         "description":  "Meet Pip - this limited trading card brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10771,7 +10771,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  235,
         "description":  "A must-have for any Bloopville fan. This cropped sweatshirt features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10786,7 +10786,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  389,
         "description":  "Bring home Pudding in kraft form! This journal is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10801,7 +10801,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  390,
         "description":  "Add some Bloop to your life with this collector huggable. Features Sprout in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10816,7 +10816,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  169,
         "description":  "Bring home Doodle in enamel form! This keychain is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10831,7 +10831,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  32,
         "description":  "Zuzu is ready for adventure in this minimalist coaster set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10846,7 +10846,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  106,
         "description":  "Officially licensed Bloopville desk lamp. rechargeable finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10861,7 +10861,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  204,
         "description":  "Say hello to your new favorite cosmetic bag! Glimmer shines in this waterproof design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10876,7 +10876,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  325,
         "description":  "Bring home Sprout in mini form! This poster set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10891,7 +10891,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  330,
         "description":  "Sprinkle is ready for adventure in this graphic hoodie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10906,7 +10906,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  127,
         "description":  "Add some Bloop to your life with this hardcover sketchbook. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10921,7 +10921,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  303,
         "description":  "The collector cuddle buddy every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10936,7 +10936,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  15,
         "description":  "Add some Bloop to your life with this neon phone case. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10951,7 +10951,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  69,
         "description":  "Add some Bloop to your life with this canvas clock. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10966,7 +10966,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  136,
         "description":  "Add some Bloop to your life with this touch projector. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -10981,7 +10981,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  379,
         "description":  "The canvas backpack every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -10996,7 +10996,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  472,
         "description":  "Officially licensed Bloopville figurine. deluxe finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11011,7 +11011,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  334,
         "description":  "Bring home Sprinkle in oversized form! This t-shirt is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -11026,7 +11026,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  269,
         "description":  "The kraft planner every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11041,7 +11041,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  97,
         "description":  "Officially licensed Bloopville plush. sparkly finish, premium materials, and Pudding\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11056,7 +11056,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  375,
         "description":  "Add some Bloop to your life with this matte notebook. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11071,7 +11071,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  188,
         "description":  "Say hello to your new favorite mug set! Blip shines in this minimalist design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11086,7 +11086,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  83,
         "description":  "The bluetooth power bank every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11101,7 +11101,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  498,
         "description":  "Say hello to your new favorite cosmetic bag! Mochi shines in this kids design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -11116,7 +11116,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  154,
         "description":  "Meet Glimmer - this exclusive art print brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11131,7 +11131,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  244,
         "description":  "Fizz is ready for adventure in this adult socks. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11146,7 +11146,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  348,
         "description":  "Say hello to your new favorite pen set! Mimi shines in this a4 design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11161,7 +11161,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  281,
         "description":  "The scented stuffed animal every Bloop fan needs. Features Nova with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11176,7 +11176,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  309,
         "description":  "Bring home Pebble in neon form! This pin set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11191,7 +11191,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  189,
         "description":  "Add some Bloop to your life with this woven poster. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11206,7 +11206,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  309,
         "description":  "The bluetooth speaker every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11221,7 +11221,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  476,
         "description":  "Say hello to your new favorite laptop sleeve! Pudding shines in this waterproof design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11236,7 +11236,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  343,
         "description":  "Add some Bloop to your life with this gold replica. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11251,7 +11251,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  256,
         "description":  "Meet Blip - this cropped onesie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -11266,7 +11266,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  463,
         "description":  "Mimi is ready for adventure in this gold-foil sticky notes. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11281,7 +11281,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  138,
         "description":  "Add some Bloop to your life with this mini plush. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11296,7 +11296,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  317,
         "description":  "Mochi is ready for adventure in this vinyl backpack. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11311,7 +11311,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  310,
         "description":  "The cozy frame every Bloop fan needs. Features Mochi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11326,7 +11326,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  463,
         "description":  "Bring home Churro in bluetooth form! This night light is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11341,7 +11341,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  309,
         "description":  "Cosmo is ready for adventure in this zip lunch box. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11356,7 +11356,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  212,
         "description":  "Add some Bloop to your life with this limited trading card. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11371,7 +11371,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  307,
         "description":  "Officially licensed Bloopville onesie. graphic finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11386,7 +11386,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  202,
         "description":  "Add some Bloop to your life with this dotted bookmark. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11401,7 +11401,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  32,
         "description":  "A must-have for any Bloopville fan. This sparkly cuddle buddy features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11416,7 +11416,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  80,
         "description":  "Say hello to your new favorite sticker pack! Mimi shines in this glitter design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11431,7 +11431,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  196,
         "description":  "Officially licensed Bloopville clock. canvas finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11446,7 +11446,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  227,
         "description":  "The sound-activated led lamp every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11461,7 +11461,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  297,
         "description":  "Bring home Wisp in pastel form! This wallet is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11476,7 +11476,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  310,
         "description":  "Say hello to your new favorite diorama! Mimi shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -11491,7 +11491,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  420,
         "description":  "Officially licensed Bloopville scarf. cropped finish, premium materials, and Luna\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11506,7 +11506,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  268,
         "description":  "A must-have for any Bloopville fan. This kraft folder features Mochi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11521,7 +11521,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  417,
         "description":  "The jumbo huggable every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11536,7 +11536,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  64,
         "description":  "Meet Pudding - this limited phone case brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11551,7 +11551,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  429,
         "description":  "Meet Wisp - this framed coaster set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11566,7 +11566,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  480,
         "description":  "A must-have for any Bloopville fan. This touch led lamp features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11581,7 +11581,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  398,
         "description":  "Add some Bloop to your life with this neon shoulder bag. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11596,7 +11596,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  387,
         "description":  "Meet Bumble - this vintage enamel pin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11611,7 +11611,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  137,
         "description":  "Officially licensed Bloopville pajamas. kids finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11626,7 +11626,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  405,
         "description":  "Bring home Mimi in lined form! This sticky notes is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11641,7 +11641,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  17,
         "description":  "Meet Blip - this scented huggable brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11656,7 +11656,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  394,
         "description":  "Officially licensed Bloopville mug. matte finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11671,7 +11671,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  497,
         "description":  "A must-have for any Bloopville fan. This fleece blanket features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11686,7 +11686,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  18,
         "description":  "Say hello to your new favorite alarm clock! Churro shines in this rgb design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11701,7 +11701,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  99,
         "description":  "Meet Bumble - this padded duffel bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11716,7 +11716,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  339,
         "description":  "Officially licensed Bloopville replica. exclusive finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11731,7 +11731,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  287,
         "description":  "A must-have for any Bloopville fan. This summer hoodie features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11746,7 +11746,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  488,
         "description":  "Say hello to your new favorite pen set! Zip shines in this a5 design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11761,7 +11761,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  382,
         "description":  "Churro is ready for adventure in this sparkly plush. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11776,7 +11776,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  187,
         "description":  "Say hello to your new favorite backpack! Zuzu shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11791,7 +11791,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  372,
         "description":  "Sprinkle is ready for adventure in this ceramic cushion. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11806,7 +11806,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  374,
         "description":  "Bring home Blip in rgb form! This led lamp is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11821,7 +11821,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  77,
         "description":  "Add some Bloop to your life with this insulated pencil case. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11836,7 +11836,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  64,
         "description":  "Bring home Twinkle in vintage form! This figurine is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11851,7 +11851,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  351,
         "description":  "Bring home Pip in retro form! This beanie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11866,7 +11866,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  58,
         "description":  "Blip is ready for adventure in this recycled pen set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11881,7 +11881,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  25,
         "description":  "Bring home Pebble in pastel form! This pillow pet is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -11896,7 +11896,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  99,
         "description":  "The metallic notebook every Bloop fan needs. Features Sprout with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11911,7 +11911,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  152,
         "description":  "A must-have for any Bloopville fan. This cotton towel features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11926,7 +11926,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  429,
         "description":  "Meet Sprinkle - this sound-activated night light brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11941,7 +11941,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  438,
         "description":  "Add some Bloop to your life with this waterproof lunch box. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11956,7 +11956,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  21,
         "description":  "Officially licensed Bloopville mini figure. mini finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11971,7 +11971,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  356,
         "description":  "A must-have for any Bloopville fan. This graphic cap features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -11986,7 +11986,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  179,
         "description":  "Officially licensed Bloopville folder. kraft finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12001,7 +12001,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  23,
         "description":  "Officially licensed Bloopville plush. giant finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12016,7 +12016,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  102,
         "description":  "A must-have for any Bloopville fan. This vinyl backpack features Sprinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12031,7 +12031,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  44,
         "description":  "The framed mug set every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12046,7 +12046,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  382,
         "description":  "Bring home Zip in bluetooth form! This wireless pad is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12061,7 +12061,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  319,
         "description":  "The canvas duffel bag every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12076,7 +12076,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  435,
         "description":  "Bring home Luna in mini form! This diorama is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12091,7 +12091,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  155,
         "description":  "Fizz is ready for adventure in this winter sweatshirt. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12106,7 +12106,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  291,
         "description":  "Bring home Mimi in pastel form! This sticky notes is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12121,7 +12121,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  488,
         "description":  "Say hello to your new favorite plushie! Fizz shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12136,7 +12136,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  458,
         "description":  "A must-have for any Bloopville fan. This metallic notebook features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12151,7 +12151,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  327,
         "description":  "Say hello to your new favorite clock! Zip shines in this minimalist design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12166,7 +12166,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  238,
         "description":  "Bring home Churro in portable form! This wireless pad is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12181,7 +12181,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  131,
         "description":  "Say hello to your new favorite shoulder bag! Zip shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12196,7 +12196,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  350,
         "description":  "A must-have for any Bloopville fan. This limited mini figure features Sprinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -12211,7 +12211,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  249,
         "description":  "Meet Zip - this winter hoodie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -12226,7 +12226,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  480,
         "description":  "Say hello to your new favorite sticky notes! Zip shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12241,7 +12241,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  418,
         "description":  "A must-have for any Bloopville fan. This scented soft toy features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12256,7 +12256,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  175,
         "description":  "Officially licensed Bloopville tote bag. limited finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12271,7 +12271,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  87,
         "description":  "Zip is ready for adventure in this fleece clock. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12286,7 +12286,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  70,
         "description":  "Add some Bloop to your life with this wireless speaker. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12301,7 +12301,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  433,
         "description":  "Officially licensed Bloopville lunch box. mini finish, premium materials, and Glimmer\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12316,7 +12316,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  409,
         "description":  "Pebble is ready for adventure in this vintage poster set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12331,7 +12331,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  88,
         "description":  "Add some Bloop to your life with this adult t-shirt. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12346,7 +12346,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  337,
         "description":  "Bring home Mochi in a5 form! This sticky notes is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12361,7 +12361,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  16,
         "description":  "Bring home Wisp in scented form! This pillow pet is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12376,7 +12376,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  68,
         "description":  "Officially licensed Bloopville pencil case. enamel finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12391,7 +12391,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  100,
         "description":  "Pebble is ready for adventure in this decorative coaster set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12406,7 +12406,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  423,
         "description":  "Say hello to your new favorite night light! Churro shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12421,7 +12421,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  425,
         "description":  "The mini shoulder bag every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12436,7 +12436,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  84,
         "description":  "Meet Nova - this exclusive statue brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12451,7 +12451,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  140,
         "description":  "The summer pajamas every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12466,7 +12466,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  261,
         "description":  "Officially licensed Bloopville pen set. spiral finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12481,7 +12481,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  148,
         "description":  "The mini snuggle pal every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12496,7 +12496,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  417,
         "description":  "Pebble is ready for adventure in this vinyl pin set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12511,7 +12511,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  84,
         "description":  "The woven rug every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12526,7 +12526,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  429,
         "description":  "The rechargeable headphones every Bloop fan needs. Features Bumble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12541,7 +12541,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  359,
         "description":  "Say hello to your new favorite lunch box! Cosmo shines in this canvas design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12556,7 +12556,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  493,
         "description":  "Say hello to your new favorite trading card! Mimi shines in this silver design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -12571,7 +12571,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  374,
         "description":  "Say hello to your new favorite pajamas! Mimi shines in this graphic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12586,7 +12586,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  108,
         "description":  "A must-have for any Bloopville fan. This lined binder features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12601,7 +12601,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  429,
         "description":  "Add some Bloop to your life with this mini snuggle pal. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12616,7 +12616,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  142,
         "description":  "The vinyl pin set every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12631,7 +12631,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  457,
         "description":  "Meet Zuzu - this woven mug set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12646,7 +12646,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  67,
         "description":  "Officially licensed Bloopville power bank. mini finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12661,7 +12661,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  433,
         "description":  "A must-have for any Bloopville fan. This leather shoulder bag features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12676,7 +12676,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  191,
         "description":  "Say hello to your new favorite poster set! Fizz shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12691,7 +12691,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  350,
         "description":  "Twinkle is ready for adventure in this summer sweatshirt. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12706,7 +12706,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  319,
         "description":  "Officially licensed Bloopville folder. a5 finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12721,7 +12721,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  350,
         "description":  "Meet Wisp - this scented stuffed animal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12736,7 +12736,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  28,
         "description":  "A must-have for any Bloopville fan. This pastel water bottle features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12751,7 +12751,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  259,
         "description":  "Pip is ready for adventure in this framed poster. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12766,7 +12766,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  146,
         "description":  "A must-have for any Bloopville fan. This smart speaker features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12781,7 +12781,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  365,
         "description":  "A must-have for any Bloopville fan. This padded wallet features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12796,7 +12796,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  329,
         "description":  "Add some Bloop to your life with this silver art print. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -12811,7 +12811,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  412,
         "description":  "The adult scarf every Bloop fan needs. Features Sprout with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12826,7 +12826,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  17,
         "description":  "A must-have for any Bloopville fan. This pastel bookmark features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12841,7 +12841,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  140,
         "description":  "Say hello to your new favorite huggable! Luna shines in this giant design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12856,7 +12856,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  191,
         "description":  "Say hello to your new favorite sticker pack! Cosmo shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12871,7 +12871,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  469,
         "description":  "Officially licensed Bloopville cushion. minimalist finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12886,7 +12886,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  402,
         "description":  "Say hello to your new favorite charger! Blip shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12901,7 +12901,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  115,
         "description":  "Meet Luna - this neon backpack brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12916,7 +12916,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  246,
         "description":  "The numbered trading card every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12931,7 +12931,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  199,
         "description":  "A must-have for any Bloopville fan. This pastel scarf features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12946,7 +12946,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  70,
         "description":  "Officially licensed Bloopville planner. a4 finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -12961,7 +12961,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  157,
         "description":  "Pip is ready for adventure in this collector plush. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12976,7 +12976,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  473,
         "description":  "A must-have for any Bloopville fan. This glitter notebook features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -12991,7 +12991,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  465,
         "description":  "Add some Bloop to your life with this cozy cushion. Features Twinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13006,7 +13006,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  316,
         "description":  "A must-have for any Bloopville fan. This bluetooth headphones features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13021,7 +13021,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  497,
         "description":  "The mini wallet every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13036,7 +13036,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  460,
         "description":  "Wisp is ready for adventure in this silver mini figure. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13051,7 +13051,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  457,
         "description":  "Bring home Sprinkle in summer form! This socks is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -13066,7 +13066,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  193,
         "description":  "Say hello to your new favorite binder! Blip shines in this hardcover design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13081,7 +13081,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  353,
         "description":  "Wisp is ready for adventure in this sparkly soft toy. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13096,7 +13096,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  162,
         "description":  "A must-have for any Bloopville fan. This pastel pencil case features Mochi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13111,7 +13111,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  479,
         "description":  "Officially licensed Bloopville mug set. cotton finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13126,7 +13126,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  268,
         "description":  "A must-have for any Bloopville fan. This sound-activated speaker features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13141,7 +13141,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  207,
         "description":  "Say hello to your new favorite tote! Pudding shines in this kids design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -13156,7 +13156,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  430,
         "description":  "Bring home Pebble in mini form! This trading card is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13171,7 +13171,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  461,
         "description":  "Bring home Fizz in winter form! This socks is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -13186,7 +13186,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  232,
         "description":  "Bring home Mimi in gold-foil form! This binder is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13201,7 +13201,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  145,
         "description":  "Bring home Churro in deluxe form! This snuggle pal is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13216,7 +13216,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  190,
         "description":  "Nova is ready for adventure in this neon sticker pack. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13231,7 +13231,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  59,
         "description":  "Say hello to your new favorite clock! Cosmo shines in this woven design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13246,7 +13246,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  39,
         "description":  "A must-have for any Bloopville fan. This portable charger features Glimmer in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13261,7 +13261,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  343,
         "description":  "Add some Bloop to your life with this leather laptop sleeve. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13276,7 +13276,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  261,
         "description":  "Bring home Doodle in deluxe form! This enamel pin is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13291,7 +13291,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  101,
         "description":  "Officially licensed Bloopville t-shirt. graphic finish, premium materials, and Pudding\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -13306,7 +13306,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  329,
         "description":  "Doodle is ready for adventure in this kraft planner. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13321,7 +13321,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  76,
         "description":  "The pastel cuddle buddy every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13336,7 +13336,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  206,
         "description":  "The waterproof keychain every Bloop fan needs. Features Nova with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13351,7 +13351,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  192,
         "description":  "Say hello to your new favorite rug! Glimmer shines in this cotton design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13366,7 +13366,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  340,
         "description":  "Bring home Zip in rechargeable form! This led lamp is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13381,7 +13381,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  105,
         "description":  "Cosmo is ready for adventure in this neon lunch box. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13396,7 +13396,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  497,
         "description":  "A must-have for any Bloopville fan. This gold figurine features Sprout in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13411,7 +13411,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  255,
         "description":  "Add some Bloop to your life with this summer pajamas. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13426,7 +13426,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  44,
         "description":  "Add some Bloop to your life with this hardcover washi tape. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13441,7 +13441,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  143,
         "description":  "Meet Twinkle - this collector soft toy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13456,7 +13456,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  171,
         "description":  "A must-have for any Bloopville fan. This waterproof keychain features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13471,7 +13471,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  176,
         "description":  "Say hello to your new favorite clock! Blip shines in this ceramic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13486,7 +13486,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  379,
         "description":  "The smart led lamp every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13501,7 +13501,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  401,
         "description":  "Fizz is ready for adventure in this neon travel pouch. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13516,7 +13516,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  285,
         "description":  "Add some Bloop to your life with this mini statue. Features Pip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13531,7 +13531,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  32,
         "description":  "Officially licensed Bloopville pajamas. retro finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13546,7 +13546,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  409,
         "description":  "Add some Bloop to your life with this a5 washi tape. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -13561,7 +13561,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  395,
         "description":  "Pebble is ready for adventure in this deluxe plush. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -13576,7 +13576,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  313,
         "description":  "Bring home Pebble in limited form! This tote bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13591,7 +13591,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  51,
         "description":  "Bring home Zuzu in knit form! This mug set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13606,7 +13606,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  195,
         "description":  "Bring home Bumble in smart form! This led lamp is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13621,7 +13621,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  56,
         "description":  "Bring home Churro in waterproof form! This shoulder bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13636,7 +13636,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  330,
         "description":  "Zip is ready for adventure in this signed diorama. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -13651,7 +13651,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  392,
         "description":  "A must-have for any Bloopville fan. This pastel socks features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13666,7 +13666,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  364,
         "description":  "A must-have for any Bloopville fan. This a4 sketchbook features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13681,7 +13681,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  493,
         "description":  "Nova is ready for adventure in this mini huggable. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13696,7 +13696,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  149,
         "description":  "Zip is ready for adventure in this holographic water bottle. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13711,7 +13711,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  345,
         "description":  "Meet Sprout - this woven coaster set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -13726,7 +13726,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  372,
         "description":  "The mini desk lamp every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -13741,7 +13741,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  165,
         "description":  "Say hello to your new favorite cosmetic bag! Zip shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13756,7 +13756,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  449,
         "description":  "Say hello to your new favorite replica! Bumble shines in this deluxe design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13771,7 +13771,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  66,
         "description":  "Bring home Pebble in graphic form! This jacket is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13786,7 +13786,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  128,
         "description":  "Officially licensed Bloopville journal. kraft finish, premium materials, and Pip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13801,7 +13801,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  61,
         "description":  "A must-have for any Bloopville fan. This mini pillow pet features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13816,7 +13816,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  320,
         "description":  "The glitter pencil case every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13831,7 +13831,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  264,
         "description":  "Say hello to your new favorite mug set! Fizz shines in this woven design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13846,7 +13846,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  366,
         "description":  "A must-have for any Bloopville fan. This neon projector features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13861,7 +13861,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  480,
         "description":  "Bring home Fizz in insulated form! This tote is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13876,7 +13876,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  437,
         "description":  "Say hello to your new favorite statue! Pip shines in this gold design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13891,7 +13891,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  452,
         "description":  "Add some Bloop to your life with this cropped pajamas. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13906,7 +13906,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  48,
         "description":  "Say hello to your new favorite sticky notes! Pebble shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -13921,7 +13921,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  29,
         "description":  "Say hello to your new favorite plush! Blip shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -13936,7 +13936,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  127,
         "description":  "Bring home Sprinkle in vinyl form! This water bottle is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13951,7 +13951,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  401,
         "description":  "Bring home Mochi in ceramic form! This blanket is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -13966,7 +13966,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  255,
         "description":  "Meet Sprout - this rechargeable power bank brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13981,7 +13981,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  23,
         "description":  "Say hello to your new favorite duffel bag! Mochi shines in this zip design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -13996,7 +13996,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  13,
         "description":  "Add some Bloop to your life with this limited poster set. Features Twinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14011,7 +14011,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  194,
         "description":  "Bring home Sprinkle in retro form! This hoodie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14026,7 +14026,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  18,
         "description":  "Add some Bloop to your life with this hardcover folder. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14041,7 +14041,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  484,
         "description":  "Meet Fizz - this scented cuddle buddy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14056,7 +14056,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  231,
         "description":  "Meet Bumble - this limited keychain brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14071,7 +14071,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  236,
         "description":  "A must-have for any Bloopville fan. This framed mug set features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -14086,7 +14086,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  250,
         "description":  "The neon led lamp every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14101,7 +14101,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  483,
         "description":  "A must-have for any Bloopville fan. This pastel duffel bag features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14116,7 +14116,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  118,
         "description":  "Officially licensed Bloopville statue. glow finish, premium materials, and Luna\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14131,7 +14131,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  490,
         "description":  "The oversized pajamas every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -14146,7 +14146,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  396,
         "description":  "Meet Pudding - this a5 journal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14161,7 +14161,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  294,
         "description":  "A must-have for any Bloopville fan. This deluxe soft toy features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14176,7 +14176,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  233,
         "description":  "Say hello to your new favorite pencil case! Doodle shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -14191,7 +14191,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  480,
         "description":  "Add some Bloop to your life with this knit mug set. Features Pip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14206,7 +14206,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  110,
         "description":  "Cosmo is ready for adventure in this smart headphones. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14221,7 +14221,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  475,
         "description":  "Meet Zip - this mini lunch box brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14236,7 +14236,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  106,
         "description":  "Officially licensed Bloopville mini figure. numbered finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14251,7 +14251,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  393,
         "description":  "Bring home Sprinkle in cozy form! This scarf is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14266,7 +14266,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  248,
         "description":  "Meet Blip - this kraft binder brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14281,7 +14281,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  411,
         "description":  "The sparkly stuffed animal every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14296,7 +14296,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  419,
         "description":  "Add some Bloop to your life with this metallic backpack. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14311,7 +14311,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  131,
         "description":  "Cosmo is ready for adventure in this cozy wall art. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14326,7 +14326,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  400,
         "description":  "Meet Wisp - this bluetooth night light brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -14341,7 +14341,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  248,
         "description":  "Officially licensed Bloopville shoulder bag. padded finish, premium materials, and Pudding\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14356,7 +14356,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  175,
         "description":  "Officially licensed Bloopville enamel pin. signed finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14371,7 +14371,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  64,
         "description":  "Add some Bloop to your life with this retro onesie. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -14386,7 +14386,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  258,
         "description":  "Officially licensed Bloopville sticky notes. lined finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14401,7 +14401,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  213,
         "description":  "Twinkle is ready for adventure in this mini stuffed animal. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -14416,7 +14416,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  195,
         "description":  "Bring home Blip in metallic form! This phone case is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14431,7 +14431,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  104,
         "description":  "Fizz is ready for adventure in this knit towel. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14446,7 +14446,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  129,
         "description":  "A must-have for any Bloopville fan. This rgb charger features Sprout in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14461,7 +14461,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  240,
         "description":  "Meet Mochi - this neon lunch box brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -14476,7 +14476,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  68,
         "description":  "Add some Bloop to your life with this glow replica. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -14491,7 +14491,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  430,
         "description":  "Meet Mimi - this winter hoodie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14506,7 +14506,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  178,
         "description":  "Zip is ready for adventure in this recycled washi tape. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14521,7 +14521,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  102,
         "description":  "Officially licensed Bloopville pillow pet. limited edition finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14536,7 +14536,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  385,
         "description":  "Bring home Pebble in enamel form! This tote bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14551,7 +14551,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  204,
         "description":  "Add some Bloop to your life with this framed clock. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14566,7 +14566,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  188,
         "description":  "The touch wireless pad every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14581,7 +14581,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  196,
         "description":  "Bring home Sprinkle in padded form! This laptop sleeve is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14596,7 +14596,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  345,
         "description":  "Officially licensed Bloopville poster set. glow finish, premium materials, and Pudding\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14611,7 +14611,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  122,
         "description":  "Meet Glimmer - this retro pajamas brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14626,7 +14626,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  409,
         "description":  "The recycled sketchbook every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -14641,7 +14641,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  82,
         "description":  "Bring home Pebble in deluxe form! This snuggle pal is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14656,7 +14656,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  167,
         "description":  "Zuzu is ready for adventure in this waterproof pencil case. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14671,7 +14671,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  417,
         "description":  "Meet Cosmo - this cotton rug brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -14686,7 +14686,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  175,
         "description":  "Meet Fizz - this wireless headphones brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14701,7 +14701,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  69,
         "description":  "Bumble is ready for adventure in this padded lunch box. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14716,7 +14716,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  114,
         "description":  "Add some Bloop to your life with this silver diorama. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14731,7 +14731,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  488,
         "description":  "The oversized onesie every Bloop fan needs. Features Churro with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14746,7 +14746,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  34,
         "description":  "Say hello to your new favorite washi tape! Sprinkle shines in this hardcover design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14761,7 +14761,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  287,
         "description":  "Officially licensed Bloopville plushie. limited edition finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14776,7 +14776,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  55,
         "description":  "A must-have for any Bloopville fan. This holographic phone case features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14791,7 +14791,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  221,
         "description":  "A must-have for any Bloopville fan. This knit cushion features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14806,7 +14806,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  93,
         "description":  "Officially licensed Bloopville speaker. wireless finish, premium materials, and Luna\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14821,7 +14821,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  95,
         "description":  "A must-have for any Bloopville fan. This pastel lunch box features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -14836,7 +14836,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  307,
         "description":  "The limited replica every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14851,7 +14851,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  191,
         "description":  "Meet Cosmo - this cropped jacket brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14866,7 +14866,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  10,
         "description":  "Meet Fizz - this pastel binder brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14881,7 +14881,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  221,
         "description":  "Meet Doodle - this scented stuffed animal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14896,7 +14896,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  436,
         "description":  "Pudding is ready for adventure in this vinyl notebook. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14911,7 +14911,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  152,
         "description":  "A must-have for any Bloopville fan. This cozy towel features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14926,7 +14926,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  287,
         "description":  "Say hello to your new favorite charger! Churro shines in this wireless design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14941,7 +14941,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  42,
         "description":  "Meet Luna - this canvas cosmetic bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14956,7 +14956,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  401,
         "description":  "Meet Bumble - this gold replica brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14971,7 +14971,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  128,
         "description":  "Meet Mimi - this oversized beanie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -14986,7 +14986,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  451,
         "description":  "Meet Blip - this lined bookmark brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15001,7 +15001,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  115,
         "description":  "Glimmer is ready for adventure in this glow-in-the-dark plush. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15016,7 +15016,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  307,
         "description":  "Meet Luna - this metallic keychain brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -15031,7 +15031,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  475,
         "description":  "Say hello to your new favorite cushion! Mochi shines in this canvas design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15046,7 +15046,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  286,
         "description":  "Meet Doodle - this sound-activated alarm clock brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -15061,7 +15061,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  89,
         "description":  "Bring home Fizz in waterproof form! This cosmetic bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15076,7 +15076,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  270,
         "description":  "Meet Bumble - this limited enamel pin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15091,7 +15091,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  230,
         "description":  "Glimmer is ready for adventure in this cozy sweatshirt. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -15106,7 +15106,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  382,
         "description":  "Meet Blip - this recycled journal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -15121,7 +15121,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  445,
         "description":  "Bring home Doodle in scented form! This stuffed animal is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15136,7 +15136,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  459,
         "description":  "A must-have for any Bloopville fan. This neon notebook features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15151,7 +15151,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  26,
         "description":  "Bring home Bumble in minimalist form! This rug is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15166,7 +15166,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  464,
         "description":  "The bluetooth charger every Bloop fan needs. Features Churro with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15181,7 +15181,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  347,
         "description":  "Bring home Sprout in insulated form! This duffel bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15196,7 +15196,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  35,
         "description":  "Say hello to your new favorite trading card! Zip shines in this deluxe design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15211,7 +15211,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  110,
         "description":  "Add some Bloop to your life with this cropped pajamas. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15226,7 +15226,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  291,
         "description":  "A must-have for any Bloopville fan. This spiral binder features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15241,7 +15241,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  22,
         "description":  "Add some Bloop to your life with this collector plushie. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15256,7 +15256,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  193,
         "description":  "Add some Bloop to your life with this waterproof tote bag. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15271,7 +15271,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  178,
         "description":  "The cotton wall art every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15286,7 +15286,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  490,
         "description":  "Zip is ready for adventure in this smart night light. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -15301,7 +15301,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  456,
         "description":  "A must-have for any Bloopville fan. This waterproof pencil case features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15316,7 +15316,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  269,
         "description":  "Luna is ready for adventure in this gold coin. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -15331,7 +15331,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  478,
         "description":  "Officially licensed Bloopville hoodie. summer finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15346,7 +15346,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  364,
         "description":  "A must-have for any Bloopville fan. This recycled pen set features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -15361,7 +15361,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  50,
         "description":  "Say hello to your new favorite cuddle buddy! Mimi shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15376,7 +15376,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  194,
         "description":  "The neon keychain every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15391,7 +15391,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  140,
         "description":  "Meet Blip - this woven mug set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15406,7 +15406,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  423,
         "description":  "The rechargeable headphones every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15421,7 +15421,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  232,
         "description":  "The insulated lunch box every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15436,7 +15436,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  364,
         "description":  "Meet Glimmer - this exclusive coin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15451,7 +15451,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  446,
         "description":  "Officially licensed Bloopville onesie. cozy finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15466,7 +15466,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  10,
         "description":  "Meet Pudding - this hardcover folder brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -15481,7 +15481,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  160,
         "description":  "Add some Bloop to your life with this scented plush. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15496,7 +15496,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  348,
         "description":  "Add some Bloop to your life with this vinyl notebook. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -15511,7 +15511,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  256,
         "description":  "The canvas clock every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -15526,7 +15526,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  440,
         "description":  "Meet Bumble - this rechargeable charger brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -15541,7 +15541,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  123,
         "description":  "A must-have for any Bloopville fan. This kids duffel bag features Glimmer in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15556,7 +15556,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  236,
         "description":  "Meet Twinkle - this deluxe mini figure brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -15571,7 +15571,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  472,
         "description":  "The oversized t-shirt every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15586,7 +15586,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  215,
         "description":  "A must-have for any Bloopville fan. This spiral pen set features Mochi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15601,7 +15601,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  448,
         "description":  "Say hello to your new favorite huggable! Wisp shines in this limited edition design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15616,7 +15616,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  358,
         "description":  "Fizz is ready for adventure in this limited pin set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15631,7 +15631,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  15,
         "description":  "Bring home Twinkle in woven form! This frame is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15646,7 +15646,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  303,
         "description":  "Bring home Luna in rechargeable form! This speaker is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15661,7 +15661,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  447,
         "description":  "Add some Bloop to your life with this padded tote. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15676,7 +15676,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  253,
         "description":  "A must-have for any Bloopville fan. This vintage coin features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15691,7 +15691,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  104,
         "description":  "Bring home Pudding in winter form! This t-shirt is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -15706,7 +15706,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  429,
         "description":  "Meet Bumble - this gold-foil notepad brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15721,7 +15721,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  48,
         "description":  "Add some Bloop to your life with this giant plushie. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15736,7 +15736,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  493,
         "description":  "A must-have for any Bloopville fan. This matte notebook features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -15751,7 +15751,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  472,
         "description":  "Glimmer is ready for adventure in this canvas clock. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15766,7 +15766,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  294,
         "description":  "The touch alarm clock every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15781,7 +15781,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  70,
         "description":  "Add some Bloop to your life with this canvas laptop sleeve. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15796,7 +15796,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  16,
         "description":  "The vintage poster set every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -15811,7 +15811,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  463,
         "description":  "Officially licensed Bloopville hoodie. adult finish, premium materials, and Pip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15826,7 +15826,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  140,
         "description":  "Bring home Churro in dotted form! This notepad is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -15841,7 +15841,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  165,
         "description":  "A must-have for any Bloopville fan. This scented huggable features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15856,7 +15856,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  176,
         "description":  "Bring home Sprout in neon form! This mug is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15871,7 +15871,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  249,
         "description":  "Meet Glimmer - this minimalist blanket brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15886,7 +15886,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  487,
         "description":  "Say hello to your new favorite led lamp! Wisp shines in this touch design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -15901,7 +15901,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  391,
         "description":  "The kids tote every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15916,7 +15916,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  294,
         "description":  "A must-have for any Bloopville fan. This mini replica features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15931,7 +15931,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  406,
         "description":  "Cosmo is ready for adventure in this cropped onesie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15946,7 +15946,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  34,
         "description":  "Officially licensed Bloopville sticky notes. pastel finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15961,7 +15961,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  118,
         "description":  "Add some Bloop to your life with this glow-in-the-dark snuggle pal. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15976,7 +15976,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  296,
         "description":  "Say hello to your new favorite pin set! Nova shines in this holographic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -15991,7 +15991,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  270,
         "description":  "Meet Pudding - this woven blanket brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16006,7 +16006,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  123,
         "description":  "A must-have for any Bloopville fan. This smart wireless pad features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16021,7 +16021,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  20,
         "description":  "A must-have for any Bloopville fan. This mini travel pouch features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16036,7 +16036,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  468,
         "description":  "Meet Zip - this signed diorama brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16051,7 +16051,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  371,
         "description":  "The kids hoodie every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -16066,7 +16066,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  166,
         "description":  "The gold-foil bookmark every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16081,7 +16081,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  204,
         "description":  "A must-have for any Bloopville fan. This mini soft toy features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -16096,7 +16096,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  161,
         "description":  "Pudding is ready for adventure in this pastel pencil case. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16111,7 +16111,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  325,
         "description":  "A must-have for any Bloopville fan. This framed coaster set features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16126,7 +16126,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  283,
         "description":  "Add some Bloop to your life with this sound-activated night light. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16141,7 +16141,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  324,
         "description":  "Meet Bumble - this pastel lunch box brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16156,7 +16156,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  72,
         "description":  "Bring home Zip in deluxe form! This coin is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16171,7 +16171,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  305,
         "description":  "Officially licensed Bloopville onesie. cropped finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16186,7 +16186,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  171,
         "description":  "Meet Fizz - this dotted sticky notes brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16201,7 +16201,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  460,
         "description":  "A must-have for any Bloopville fan. This pastel soft toy features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16216,7 +16216,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  283,
         "description":  "Doodle is ready for adventure in this enamel tote bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16231,7 +16231,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  95,
         "description":  "Bring home Zuzu in cozy form! This frame is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16246,7 +16246,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  189,
         "description":  "Say hello to your new favorite alarm clock! Glimmer shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16261,7 +16261,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  389,
         "description":  "Bring home Mochi in canvas form! This tote is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16276,7 +16276,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  95,
         "description":  "Say hello to your new favorite mini figure! Twinkle shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16291,7 +16291,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  296,
         "description":  "Bring home Cosmo in cropped form! This beanie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16306,7 +16306,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  80,
         "description":  "The lined washi tape every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16321,7 +16321,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  476,
         "description":  "Add some Bloop to your life with this scented stuffed animal. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16336,7 +16336,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  224,
         "description":  "A must-have for any Bloopville fan. This neon mug features Mochi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16351,7 +16351,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  417,
         "description":  "The fleece frame every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16366,7 +16366,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  253,
         "description":  "A must-have for any Bloopville fan. This bluetooth alarm clock features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16381,7 +16381,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  139,
         "description":  "Say hello to your new favorite backpack! Wisp shines in this kids design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16396,7 +16396,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  475,
         "description":  "Meet Nova - this exclusive replica brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16411,7 +16411,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  288,
         "description":  "A must-have for any Bloopville fan. This cropped hoodie features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16426,7 +16426,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  226,
         "description":  "Officially licensed Bloopville binder. dotted finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16441,7 +16441,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  313,
         "description":  "Meet Glimmer - this giant soft toy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16456,7 +16456,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  265,
         "description":  "Bring home Pudding in neon form! This pin set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16471,7 +16471,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  459,
         "description":  "Meet Wisp - this minimalist rug brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16486,7 +16486,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  498,
         "description":  "The portable led lamp every Bloop fan needs. Features Mochi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -16501,7 +16501,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  383,
         "description":  "Meet Cosmo - this leather cosmetic bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16516,7 +16516,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  351,
         "description":  "Meet Mochi - this exclusive mini figure brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16531,7 +16531,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  431,
         "description":  "A must-have for any Bloopville fan. This winter cap features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16546,7 +16546,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  64,
         "description":  "A must-have for any Bloopville fan. This a5 pen set features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16561,7 +16561,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  159,
         "description":  "Doodle is ready for adventure in this scented huggable. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16576,7 +16576,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  280,
         "description":  "Luna is ready for adventure in this limited tote bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16591,7 +16591,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  146,
         "description":  "Say hello to your new favorite clock! Wisp shines in this cotton design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16606,7 +16606,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  65,
         "description":  "A must-have for any Bloopville fan. This smart desk lamp features Sprinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16621,7 +16621,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  224,
         "description":  "Meet Sprinkle - this leather tote brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16636,7 +16636,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  388,
         "description":  "Officially licensed Bloopville poster set. deluxe finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16651,7 +16651,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  104,
         "description":  "Officially licensed Bloopville onesie. retro finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16666,7 +16666,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  201,
         "description":  "Add some Bloop to your life with this a4 bookmark. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16681,7 +16681,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  329,
         "description":  "The giant cuddle buddy every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16696,7 +16696,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  92,
         "description":  "Pudding is ready for adventure in this limited water bottle. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16711,7 +16711,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  409,
         "description":  "Meet Luna - this framed poster brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16726,7 +16726,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  138,
         "description":  "The rgb led lamp every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16741,7 +16741,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  259,
         "description":  "The insulated tote every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16756,7 +16756,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  25,
         "description":  "Officially licensed Bloopville figurine. gold finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16771,7 +16771,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  242,
         "description":  "The retro t-shirt every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16786,7 +16786,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  477,
         "description":  "Meet Fizz - this hardcover journal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16801,7 +16801,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  478,
         "description":  "Twinkle is ready for adventure in this collector stuffed animal. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16816,7 +16816,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  104,
         "description":  "Bring home Churro in waterproof form! This phone case is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16831,7 +16831,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  44,
         "description":  "Bring home Mimi in minimalist form! This blanket is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16846,7 +16846,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  282,
         "description":  "Bring home Doodle in bluetooth form! This led lamp is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16861,7 +16861,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  417,
         "description":  "Bring home Wisp in neon form! This laptop sleeve is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16876,7 +16876,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  288,
         "description":  "Officially licensed Bloopville coin. limited finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16891,7 +16891,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  274,
         "description":  "Bring home Sprinkle in kids form! This onesie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16906,7 +16906,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  103,
         "description":  "Bring home Sprinkle in spiral form! This notepad is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16921,7 +16921,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  296,
         "description":  "Officially licensed Bloopville snuggle pal. glow-in-the-dark finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -16936,7 +16936,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  46,
         "description":  "Add some Bloop to your life with this waterproof phone case. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16951,7 +16951,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  291,
         "description":  "Officially licensed Bloopville coaster set. ceramic finish, premium materials, and Zip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16966,7 +16966,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  69,
         "description":  "Add some Bloop to your life with this wireless projector. Features Zuzu in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -16981,7 +16981,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  96,
         "description":  "The mini laptop sleeve every Bloop fan needs. Features Churro with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -16996,7 +16996,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  122,
         "description":  "Churro is ready for adventure in this silver diorama. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17011,7 +17011,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  434,
         "description":  "Bring home Doodle in pastel form! This jacket is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17026,7 +17026,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  28,
         "description":  "Meet Cosmo - this lined sketchbook brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17041,7 +17041,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  153,
         "description":  "Add some Bloop to your life with this collector huggable. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17056,7 +17056,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  91,
         "description":  "Officially licensed Bloopville phone case. glitter finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17071,7 +17071,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  110,
         "description":  "Bring home Nova in ceramic form! This coaster set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17086,7 +17086,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  79,
         "description":  "Say hello to your new favorite headphones! Nova shines in this smart design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17101,7 +17101,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  463,
         "description":  "Meet Zuzu - this padded travel pouch brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17116,7 +17116,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  287,
         "description":  "The signed diorama every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17131,7 +17131,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  436,
         "description":  "A must-have for any Bloopville fan. This winter sweatshirt features Sprinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17146,7 +17146,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  250,
         "description":  "Say hello to your new favorite planner! Zuzu shines in this lined design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17161,7 +17161,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  40,
         "description":  "A must-have for any Bloopville fan. This deluxe stuffed animal features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17176,7 +17176,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  47,
         "description":  "The neon keychain every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17191,7 +17191,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  434,
         "description":  "The minimalist clock every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17206,7 +17206,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  168,
         "description":  "The touch power bank every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17221,7 +17221,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  214,
         "description":  "A must-have for any Bloopville fan. This zip wallet features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17236,7 +17236,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  234,
         "description":  "Meet Twinkle - this vintage enamel pin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17251,7 +17251,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  53,
         "description":  "A must-have for any Bloopville fan. This retro pajamas features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17266,7 +17266,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  44,
         "description":  "A must-have for any Bloopville fan. This spiral washi tape features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17281,7 +17281,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  334,
         "description":  "Add some Bloop to your life with this limited edition pillow pet. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17296,7 +17296,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  378,
         "description":  "Sprout is ready for adventure in this limited mug. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17311,7 +17311,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  166,
         "description":  "Mimi is ready for adventure in this canvas poster. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17326,7 +17326,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  454,
         "description":  "Bring home Fizz in rechargeable form! This power bank is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17341,7 +17341,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  435,
         "description":  "Add some Bloop to your life with this mini shoulder bag. Features Zuzu in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17356,7 +17356,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  414,
         "description":  "The limited statue every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17371,7 +17371,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  148,
         "description":  "Say hello to your new favorite cap! Pebble shines in this oversized design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17386,7 +17386,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  256,
         "description":  "Add some Bloop to your life with this recycled washi tape. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17401,7 +17401,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  421,
         "description":  "A must-have for any Bloopville fan. This sparkly stuffed animal features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17416,7 +17416,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  129,
         "description":  "Meet Nova - this waterproof phone case brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17431,7 +17431,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  428,
         "description":  "Meet Sprinkle - this minimalist poster brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17446,7 +17446,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  439,
         "description":  "The neon wireless pad every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17461,7 +17461,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  49,
         "description":  "The insulated wallet every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17476,7 +17476,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  196,
         "description":  "Officially licensed Bloopville statue. deluxe finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17491,7 +17491,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  11,
         "description":  "Add some Bloop to your life with this cozy socks. Features Twinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17506,7 +17506,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  331,
         "description":  "Meet Pebble - this recycled pen set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17521,7 +17521,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  435,
         "description":  "Meet Sprout - this sparkly cuddle buddy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17536,7 +17536,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  292,
         "description":  "A must-have for any Bloopville fan. This holographic phone case features Sprinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17551,7 +17551,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  228,
         "description":  "The canvas coaster set every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17566,7 +17566,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  164,
         "description":  "Churro is ready for adventure in this rechargeable alarm clock. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17581,7 +17581,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  62,
         "description":  "The pastel duffel bag every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17596,7 +17596,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  215,
         "description":  "A must-have for any Bloopville fan. This numbered statue features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17611,7 +17611,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  104,
         "description":  "Meet Cosmo - this winter hoodie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17626,7 +17626,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  461,
         "description":  "Meet Zuzu - this a5 journal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17641,7 +17641,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  24,
         "description":  "Officially licensed Bloopville cuddle buddy. glow-in-the-dark finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17656,7 +17656,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  24,
         "description":  "The pastel pencil case every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17671,7 +17671,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  301,
         "description":  "Add some Bloop to your life with this cotton frame. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17686,7 +17686,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  340,
         "description":  "Say hello to your new favorite wireless pad! Blip shines in this touch design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -17701,7 +17701,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  224,
         "description":  "Meet Sprout - this neon lunch box brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17716,7 +17716,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  231,
         "description":  "The silver coin every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17731,7 +17731,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  398,
         "description":  "Bring home Twinkle in adult form! This socks is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17746,7 +17746,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  47,
         "description":  "Bring home Pip in a4 form! This bookmark is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17761,7 +17761,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  342,
         "description":  "The limited edition pillow pet every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17776,7 +17776,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  488,
         "description":  "Officially licensed Bloopville tote bag. holographic finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -17791,7 +17791,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  315,
         "description":  "Pip is ready for adventure in this cozy mug set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17806,7 +17806,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  138,
         "description":  "Luna is ready for adventure in this mini projector. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17821,7 +17821,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  220,
         "description":  "Officially licensed Bloopville shoulder bag. waterproof finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17836,7 +17836,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  270,
         "description":  "Officially licensed Bloopville trading card. vintage finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17851,7 +17851,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  427,
         "description":  "Officially licensed Bloopville hoodie. adult finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -17866,7 +17866,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  318,
         "description":  "Add some Bloop to your life with this kraft pen set. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17881,7 +17881,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  33,
         "description":  "Meet Fizz - this collector plushie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17896,7 +17896,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  92,
         "description":  "The enamel pin set every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17911,7 +17911,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  337,
         "description":  "Officially licensed Bloopville clock. fleece finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17926,7 +17926,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  435,
         "description":  "A must-have for any Bloopville fan. This portable night light features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17941,7 +17941,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  170,
         "description":  "The insulated pencil case every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17956,7 +17956,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  159,
         "description":  "The numbered replica every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -17971,7 +17971,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  480,
         "description":  "Officially licensed Bloopville pajamas. summer finish, premium materials, and Zip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -17986,7 +17986,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  343,
         "description":  "Bring home Blip in gold-foil form! This washi tape is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18001,7 +18001,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  40,
         "description":  "The collector soft toy every Bloop fan needs. Features Sprout with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18016,7 +18016,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  201,
         "description":  "Bring home Zuzu in vinyl form! This phone case is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -18031,7 +18031,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  197,
         "description":  "A must-have for any Bloopville fan. This cotton frame features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18046,7 +18046,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  405,
         "description":  "Mochi is ready for adventure in this rechargeable alarm clock. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18061,7 +18061,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  158,
         "description":  "A must-have for any Bloopville fan. This neon laptop sleeve features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18076,7 +18076,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  16,
         "description":  "Officially licensed Bloopville diorama. numbered finish, premium materials, and Mimi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -18091,7 +18091,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  100,
         "description":  "Say hello to your new favorite scarf! Zip shines in this retro design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18106,7 +18106,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  493,
         "description":  "Bring home Doodle in dotted form! This washi tape is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18121,7 +18121,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  495,
         "description":  "Add some Bloop to your life with this deluxe pillow pet. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18136,7 +18136,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  76,
         "description":  "The waterproof phone case every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18151,7 +18151,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  446,
         "description":  "Luna is ready for adventure in this decorative mug set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18166,7 +18166,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  231,
         "description":  "Blip is ready for adventure in this touch led lamp. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -18181,7 +18181,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  228,
         "description":  "A must-have for any Bloopville fan. This neon laptop sleeve features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18196,7 +18196,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  17,
         "description":  "Luna is ready for adventure in this signed diorama. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18211,7 +18211,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  454,
         "description":  "Meet Bumble - this oversized cap brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18226,7 +18226,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  418,
         "description":  "Add some Bloop to your life with this pastel sketchbook. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -18241,7 +18241,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  289,
         "description":  "Officially licensed Bloopville cuddle buddy. limited edition finish, premium materials, and Pip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18256,7 +18256,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  67,
         "description":  "Say hello to your new favorite backpack! Pebble shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18271,7 +18271,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  112,
         "description":  "The fleece cushion every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18286,7 +18286,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  81,
         "description":  "Add some Bloop to your life with this smart wireless pad. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18301,7 +18301,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  216,
         "description":  "The kids wallet every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18316,7 +18316,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  466,
         "description":  "Say hello to your new favorite statue! Pip shines in this limited design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18331,7 +18331,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  166,
         "description":  "Officially licensed Bloopville hoodie. pastel finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -18346,7 +18346,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  89,
         "description":  "Add some Bloop to your life with this lined sticky notes. Features Twinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18361,7 +18361,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  152,
         "description":  "Meet Fizz - this scented pillow pet brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18376,7 +18376,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  50,
         "description":  "The waterproof sticker pack every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18391,7 +18391,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  244,
         "description":  "Meet Mochi - this decorative frame brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18406,7 +18406,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  491,
         "description":  "A must-have for any Bloopville fan. This smart led lamp features Mochi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -18421,7 +18421,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  214,
         "description":  "A must-have for any Bloopville fan. This zip wallet features Sprout in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18436,7 +18436,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  101,
         "description":  "Bring home Twinkle in signed form! This statue is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18451,7 +18451,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  244,
         "description":  "Officially licensed Bloopville jacket. winter finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18466,7 +18466,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  340,
         "description":  "A must-have for any Bloopville fan. This pastel pen set features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18481,7 +18481,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  34,
         "description":  "The jumbo snuggle pal every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18496,7 +18496,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  22,
         "description":  "Bring home Blip in enamel form! This tote bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -18511,7 +18511,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  479,
         "description":  "The canvas poster every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -18526,7 +18526,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  468,
         "description":  "The bluetooth led lamp every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18541,7 +18541,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  205,
         "description":  "Churro is ready for adventure in this kids laptop sleeve. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18556,7 +18556,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  61,
         "description":  "Say hello to your new favorite statue! Zuzu shines in this deluxe design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18571,7 +18571,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  491,
         "description":  "Say hello to your new favorite t-shirt! Mimi shines in this cropped design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18586,7 +18586,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  9,
         "description":  "Officially licensed Bloopville sketchbook. spiral finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -18601,7 +18601,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  64,
         "description":  "The scented plushie every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18616,7 +18616,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  321,
         "description":  "Meet Pudding - this matte phone case brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -18631,7 +18631,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  223,
         "description":  "Add some Bloop to your life with this knit clock. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18646,7 +18646,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  132,
         "description":  "Add some Bloop to your life with this rgb charger. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18661,7 +18661,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  35,
         "description":  "Luna is ready for adventure in this pastel cosmetic bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18676,7 +18676,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  256,
         "description":  "Add some Bloop to your life with this mini statue. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18691,7 +18691,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  226,
         "description":  "Say hello to your new favorite t-shirt! Zip shines in this cropped design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18706,7 +18706,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  287,
         "description":  "Meet Glimmer - this kraft sketchbook brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18721,7 +18721,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  435,
         "description":  "Bring home Pip in deluxe form! This stuffed animal is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18736,7 +18736,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  209,
         "description":  "The limited phone case every Bloop fan needs. Features Nova with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -18751,7 +18751,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  407,
         "description":  "Say hello to your new favorite cushion! Sprout shines in this knit design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18766,7 +18766,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  351,
         "description":  "Meet Blip - this sound-activated led lamp brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -18781,7 +18781,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  408,
         "description":  "Bring home Doodle in neon form! This duffel bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18796,7 +18796,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  30,
         "description":  "Bring home Wisp in gold form! This art print is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18811,7 +18811,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  168,
         "description":  "Officially licensed Bloopville socks. graphic finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18826,7 +18826,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  66,
         "description":  "A must-have for any Bloopville fan. This dotted notepad features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18841,7 +18841,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  338,
         "description":  "Bring home Churro in deluxe form! This plush is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18856,7 +18856,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  246,
         "description":  "Meet Wisp - this holographic mug brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18871,7 +18871,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  105,
         "description":  "A must-have for any Bloopville fan. This canvas coaster set features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18886,7 +18886,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  439,
         "description":  "Add some Bloop to your life with this neon charger. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18901,7 +18901,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  487,
         "description":  "Meet Mimi - this waterproof pencil case brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -18916,7 +18916,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  196,
         "description":  "Add some Bloop to your life with this limited figurine. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18931,7 +18931,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  97,
         "description":  "Add some Bloop to your life with this cropped t-shirt. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18946,7 +18946,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  205,
         "description":  "Officially licensed Bloopville planner. dotted finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18961,7 +18961,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  236,
         "description":  "The glow-in-the-dark plushie every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -18976,7 +18976,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  413,
         "description":  "Officially licensed Bloopville tote bag. pastel finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -18991,7 +18991,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  54,
         "description":  "Officially licensed Bloopville frame. decorative finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19006,7 +19006,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  446,
         "description":  "Meet Wisp - this touch led lamp brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19021,7 +19021,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  396,
         "description":  "Meet Nova - this neon travel pouch brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -19036,7 +19036,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  325,
         "description":  "A must-have for any Bloopville fan. This limited trading card features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -19051,7 +19051,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  95,
         "description":  "Bring home Mimi in adult form! This onesie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -19066,7 +19066,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  26,
         "description":  "The a5 notepad every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19081,7 +19081,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  441,
         "description":  "Say hello to your new favorite plushie! Pip shines in this scented design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19096,7 +19096,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  462,
         "description":  "Officially licensed Bloopville tote bag. metallic finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19111,7 +19111,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  95,
         "description":  "Bring home Pudding in woven form! This frame is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19126,7 +19126,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  88,
         "description":  "Add some Bloop to your life with this rechargeable charger. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19141,7 +19141,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  483,
         "description":  "Officially licensed Bloopville pencil case. kids finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -19156,7 +19156,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  332,
         "description":  "A must-have for any Bloopville fan. This vintage figurine features Glimmer in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19171,7 +19171,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  57,
         "description":  "Say hello to your new favorite t-shirt! Churro shines in this adult design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -19186,7 +19186,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  319,
         "description":  "Cosmo is ready for adventure in this lined binder. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19201,7 +19201,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  90,
         "description":  "Meet Blip - this giant plush brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19216,7 +19216,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  421,
         "description":  "Sprout is ready for adventure in this waterproof tote bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19231,7 +19231,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  329,
         "description":  "Say hello to your new favorite wall art! Mochi shines in this knit design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19246,7 +19246,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  39,
         "description":  "Bring home Pudding in touch form! This projector is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19261,7 +19261,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  32,
         "description":  "The zip lunch box every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19276,7 +19276,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  207,
         "description":  "Meet Bumble - this exclusive enamel pin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19291,7 +19291,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  56,
         "description":  "Twinkle is ready for adventure in this cozy jacket. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19306,7 +19306,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  470,
         "description":  "Add some Bloop to your life with this hardcover sketchbook. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -19321,7 +19321,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  330,
         "description":  "The pastel plushie every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -19336,7 +19336,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  203,
         "description":  "A must-have for any Bloopville fan. This matte pencil case features Glimmer in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -19351,7 +19351,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  211,
         "description":  "Say hello to your new favorite towel! Glimmer shines in this woven design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19366,7 +19366,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  310,
         "description":  "Add some Bloop to your life with this touch power bank. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19381,7 +19381,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  174,
         "description":  "Say hello to your new favorite travel pouch! Bumble shines in this insulated design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19396,7 +19396,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  307,
         "description":  "Bring home Nova in vintage form! This art print is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19411,7 +19411,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  368,
         "description":  "Officially licensed Bloopville cap. graphic finish, premium materials, and Pip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19426,7 +19426,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  231,
         "description":  "The a5 binder every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -19441,7 +19441,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  260,
         "description":  "Officially licensed Bloopville stuffed animal. pastel finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19456,7 +19456,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  398,
         "description":  "Bring home Mimi in enamel form! This pin set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19471,7 +19471,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  428,
         "description":  "The cozy poster every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19486,7 +19486,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  377,
         "description":  "Bring home Wisp in mini form! This speaker is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -19501,7 +19501,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  212,
         "description":  "Meet Wisp - this kids lunch box brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19516,7 +19516,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  342,
         "description":  "Say hello to your new favorite diorama! Doodle shines in this silver design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -19531,7 +19531,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  34,
         "description":  "Bring home Pip in pastel form! This cap is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -19546,7 +19546,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  379,
         "description":  "Officially licensed Bloopville planner. gold-foil finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19561,7 +19561,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  290,
         "description":  "Officially licensed Bloopville cuddle buddy. limited edition finish, premium materials, and Luna\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -19576,7 +19576,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  61,
         "description":  "Say hello to your new favorite mug! Blip shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19591,7 +19591,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  167,
         "description":  "Bring home Cosmo in cotton form! This poster is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19606,7 +19606,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  164,
         "description":  "Say hello to your new favorite desk lamp! Pudding shines in this wireless design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19621,7 +19621,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  306,
         "description":  "Add some Bloop to your life with this kids shoulder bag. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19636,7 +19636,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  444,
         "description":  "A must-have for any Bloopville fan. This signed mini figure features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -19651,7 +19651,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  412,
         "description":  "Blip is ready for adventure in this adult socks. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19666,7 +19666,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  5,
         "description":  "Say hello to your new favorite sketchbook! Glimmer shines in this spiral design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19681,7 +19681,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  67,
         "description":  "Say hello to your new favorite stuffed animal! Sprinkle shines in this sparkly design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19696,7 +19696,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  432,
         "description":  "The waterproof backpack every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19711,7 +19711,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  467,
         "description":  "The cozy coaster set every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19726,7 +19726,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  274,
         "description":  "Meet Zuzu - this rgb night light brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19741,7 +19741,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  450,
         "description":  "Meet Doodle - this insulated duffel bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19756,7 +19756,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  24,
         "description":  "Add some Bloop to your life with this exclusive figurine. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19771,7 +19771,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  219,
         "description":  "Meet Zip - this adult socks brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19786,7 +19786,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  289,
         "description":  "Add some Bloop to your life with this pastel pen set. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -19801,7 +19801,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  145,
         "description":  "Add some Bloop to your life with this deluxe cuddle buddy. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19816,7 +19816,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  122,
         "description":  "Add some Bloop to your life with this enamel water bottle. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19831,7 +19831,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  340,
         "description":  "Cosmo is ready for adventure in this knit clock. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19846,7 +19846,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  487,
         "description":  "Add some Bloop to your life with this neon charger. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -19861,7 +19861,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  446,
         "description":  "Say hello to your new favorite lunch box! Luna shines in this kids design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19876,7 +19876,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  153,
         "description":  "Meet Blip - this numbered coin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19891,7 +19891,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  65,
         "description":  "Churro is ready for adventure in this cozy beanie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19906,7 +19906,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  318,
         "description":  "Nova is ready for adventure in this gold-foil folder. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -19921,7 +19921,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  346,
         "description":  "Officially licensed Bloopville soft toy. collector finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19936,7 +19936,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  63,
         "description":  "Pip is ready for adventure in this metallic sticker pack. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19951,7 +19951,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  81,
         "description":  "A must-have for any Bloopville fan. This cotton clock features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19966,7 +19966,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  193,
         "description":  "Meet Mochi - this sound-activated wireless pad brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19981,7 +19981,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  227,
         "description":  "Zip is ready for adventure in this kids pencil case. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -19996,7 +19996,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  367,
         "description":  "Bring home Zip in deluxe form! This enamel pin is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20011,7 +20011,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  176,
         "description":  "Add some Bloop to your life with this adult jacket. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20026,7 +20026,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  446,
         "description":  "Bring home Doodle in hardcover form! This sticky notes is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20041,7 +20041,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  421,
         "description":  "Sprinkle is ready for adventure in this collector soft toy. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20056,7 +20056,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  458,
         "description":  "Say hello to your new favorite backpack! Pebble shines in this glitter design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20071,7 +20071,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  201,
         "description":  "Meet Doodle - this minimalist towel brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20086,7 +20086,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  140,
         "description":  "A must-have for any Bloopville fan. This wireless charger features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20101,7 +20101,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  122,
         "description":  "Add some Bloop to your life with this neon laptop sleeve. Features Pip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20116,7 +20116,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  338,
         "description":  "Add some Bloop to your life with this limited coin. Features Twinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -20131,7 +20131,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  453,
         "description":  "A must-have for any Bloopville fan. This kids onesie features Sprout in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20146,7 +20146,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  84,
         "description":  "Meet Pudding - this recycled planner brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20161,7 +20161,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  365,
         "description":  "The limited edition plushie every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20176,7 +20176,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  112,
         "description":  "The neon keychain every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20191,7 +20191,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  207,
         "description":  "The cotton towel every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20206,7 +20206,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  127,
         "description":  "Meet Pebble - this bluetooth wireless pad brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20221,7 +20221,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  174,
         "description":  "Bring home Pebble in leather form! This tote is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20236,7 +20236,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  45,
         "description":  "Add some Bloop to your life with this glow diorama. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20251,7 +20251,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  287,
         "description":  "The winter cap every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20266,7 +20266,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  40,
         "description":  "A must-have for any Bloopville fan. This spiral sticky notes features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20281,7 +20281,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  96,
         "description":  "Officially licensed Bloopville soft toy. mini finish, premium materials, and Glimmer\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20296,7 +20296,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  442,
         "description":  "Officially licensed Bloopville water bottle. holographic finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20311,7 +20311,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  254,
         "description":  "Meet Mimi - this canvas coaster set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20326,7 +20326,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  235,
         "description":  "Say hello to your new favorite night light! Cosmo shines in this bluetooth design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20341,7 +20341,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  91,
         "description":  "Officially licensed Bloopville tote. padded finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20356,7 +20356,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  199,
         "description":  "Officially licensed Bloopville coin. limited finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20371,7 +20371,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  446,
         "description":  "Bring home Mochi in graphic form! This cap is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20386,7 +20386,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  294,
         "description":  "Officially licensed Bloopville folder. lined finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20401,7 +20401,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  26,
         "description":  "Say hello to your new favorite stuffed animal! Churro shines in this deluxe design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20416,7 +20416,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  171,
         "description":  "Say hello to your new favorite tote bag! Cosmo shines in this waterproof design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20431,7 +20431,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  414,
         "description":  "Officially licensed Bloopville clock. canvas finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20446,7 +20446,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  322,
         "description":  "Add some Bloop to your life with this neon night light. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20461,7 +20461,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  210,
         "description":  "Bring home Zip in mini form! This duffel bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20476,7 +20476,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  96,
         "description":  "Say hello to your new favorite replica! Zip shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20491,7 +20491,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  483,
         "description":  "Add some Bloop to your life with this cropped onesie. Features Sprout in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20506,7 +20506,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  319,
         "description":  "Add some Bloop to your life with this recycled planner. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20521,7 +20521,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  117,
         "description":  "Officially licensed Bloopville soft toy. jumbo finish, premium materials, and Luna\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20536,7 +20536,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  357,
         "description":  "Fizz is ready for adventure in this neon sticker pack. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20551,7 +20551,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  135,
         "description":  "Meet Doodle - this fleece blanket brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20566,7 +20566,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  171,
         "description":  "Say hello to your new favorite desk lamp! Doodle shines in this smart design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20581,7 +20581,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  375,
         "description":  "Meet Pebble - this padded backpack brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20596,7 +20596,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  291,
         "description":  "Add some Bloop to your life with this deluxe figurine. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20611,7 +20611,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  296,
         "description":  "Say hello to your new favorite t-shirt! Nova shines in this winter design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20626,7 +20626,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  360,
         "description":  "Say hello to your new favorite notepad! Mochi shines in this hardcover design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20641,7 +20641,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  393,
         "description":  "Meet Wisp - this glow-in-the-dark plush brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20656,7 +20656,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  204,
         "description":  "Bring home Mochi in enamel form! This keychain is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20671,7 +20671,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  464,
         "description":  "Sprout is ready for adventure in this woven rug. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -20686,7 +20686,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  407,
         "description":  "Meet Mimi - this mini speaker brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20701,7 +20701,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  174,
         "description":  "The neon laptop sleeve every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20716,7 +20716,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  49,
         "description":  "Officially licensed Bloopville trading card. glow finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20731,7 +20731,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  443,
         "description":  "Meet Bumble - this summer pajamas brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20746,7 +20746,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  9,
         "description":  "Add some Bloop to your life with this a4 journal. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20761,7 +20761,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  286,
         "description":  "Bring home Glimmer in scented form! This soft toy is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20776,7 +20776,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  454,
         "description":  "Say hello to your new favorite pin set! Pudding shines in this limited design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20791,7 +20791,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  280,
         "description":  "Sprinkle is ready for adventure in this canvas mug set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20806,7 +20806,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  277,
         "description":  "Meet Nova - this rgb wireless pad brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20821,7 +20821,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  349,
         "description":  "Bring home Zuzu in padded form! This wallet is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -20836,7 +20836,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  90,
         "description":  "Say hello to your new favorite replica! Bumble shines in this silver design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20851,7 +20851,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  234,
         "description":  "A must-have for any Bloopville fan. This pastel socks features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20866,7 +20866,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  56,
         "description":  "Pip is ready for adventure in this a4 binder. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20881,7 +20881,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  256,
         "description":  "Meet Twinkle - this jumbo cuddle buddy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -20896,7 +20896,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  367,
         "description":  "Add some Bloop to your life with this neon phone case. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20911,7 +20911,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  413,
         "description":  "The fleece frame every Bloop fan needs. Features Churro with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20926,7 +20926,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  423,
         "description":  "Pebble is ready for adventure in this portable desk lamp. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20941,7 +20941,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  99,
         "description":  "Officially licensed Bloopville duffel bag. waterproof finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20956,7 +20956,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  94,
         "description":  "Pip is ready for adventure in this signed diorama. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20971,7 +20971,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  449,
         "description":  "A must-have for any Bloopville fan. This pastel scarf features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -20986,7 +20986,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  65,
         "description":  "Meet Luna - this spiral washi tape brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21001,7 +21001,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  391,
         "description":  "Bumble is ready for adventure in this giant stuffed animal. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -21016,7 +21016,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  150,
         "description":  "A must-have for any Bloopville fan. This enamel notebook features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21031,7 +21031,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  52,
         "description":  "Zip is ready for adventure in this knit mug set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21046,7 +21046,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  440,
         "description":  "Officially licensed Bloopville wireless pad. rechargeable finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -21061,7 +21061,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  353,
         "description":  "A must-have for any Bloopville fan. This mini tote features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21076,7 +21076,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  375,
         "description":  "A must-have for any Bloopville fan. This mini art print features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -21091,7 +21091,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  92,
         "description":  "Say hello to your new favorite onesie! Doodle shines in this summer design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21106,7 +21106,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  337,
         "description":  "Officially licensed Bloopville binder. dotted finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21121,7 +21121,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  77,
         "description":  "Meet Mochi - this scented pillow pet brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21136,7 +21136,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  219,
         "description":  "Officially licensed Bloopville keychain. matte finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21151,7 +21151,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  427,
         "description":  "Say hello to your new favorite mug set! Wisp shines in this framed design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -21166,7 +21166,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  37,
         "description":  "Say hello to your new favorite led lamp! Cosmo shines in this bluetooth design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -21181,7 +21181,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  190,
         "description":  "A must-have for any Bloopville fan. This waterproof backpack features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21196,7 +21196,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  477,
         "description":  "The vintage figurine every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21211,7 +21211,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  288,
         "description":  "A must-have for any Bloopville fan. This cropped scarf features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21226,7 +21226,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  42,
         "description":  "Pip is ready for adventure in this a4 sticky notes. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21241,7 +21241,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  313,
         "description":  "Officially licensed Bloopville plush. deluxe finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21256,7 +21256,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  295,
         "description":  "Wisp is ready for adventure in this matte pin set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21271,7 +21271,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  499,
         "description":  "Meet Fizz - this cotton blanket brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -21286,7 +21286,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  392,
         "description":  "Add some Bloop to your life with this rechargeable projector. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21301,7 +21301,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  141,
         "description":  "Bring home Cosmo in zip form! This backpack is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21316,7 +21316,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  248,
         "description":  "Pip is ready for adventure in this gold diorama. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -21331,7 +21331,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  396,
         "description":  "Meet Zuzu - this oversized cap brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21346,7 +21346,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  236,
         "description":  "Officially licensed Bloopville sticky notes. pastel finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21361,7 +21361,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  29,
         "description":  "Bumble is ready for adventure in this deluxe huggable. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21376,7 +21376,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  396,
         "description":  "Add some Bloop to your life with this waterproof pin set. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21391,7 +21391,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  244,
         "description":  "Say hello to your new favorite blanket! Pebble shines in this decorative design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21406,7 +21406,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  273,
         "description":  "A must-have for any Bloopville fan. This neon power bank features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21421,7 +21421,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  298,
         "description":  "The leather lunch box every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -21436,7 +21436,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  381,
         "description":  "Bring home Zip in glow form! This replica is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21451,7 +21451,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  185,
         "description":  "Meet Cosmo - this retro sweatshirt brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21466,7 +21466,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  331,
         "description":  "The spiral sticky notes every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21481,7 +21481,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  405,
         "description":  "The scented huggable every Bloop fan needs. Features Twinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21496,7 +21496,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  180,
         "description":  "A must-have for any Bloopville fan. This holographic tote bag features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21511,7 +21511,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  232,
         "description":  "Add some Bloop to your life with this woven towel. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -21526,7 +21526,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  170,
         "description":  "Meet Mochi - this bluetooth led lamp brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21541,7 +21541,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  407,
         "description":  "Add some Bloop to your life with this kids travel pouch. Features Twinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21556,7 +21556,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  393,
         "description":  "Meet Cosmo - this numbered mini figure brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21571,7 +21571,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  373,
         "description":  "A must-have for any Bloopville fan. This graphic hoodie features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21586,7 +21586,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  275,
         "description":  "Say hello to your new favorite folder! Pudding shines in this kraft design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21601,7 +21601,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  26,
         "description":  "Add some Bloop to your life with this collector huggable. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21616,7 +21616,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  109,
         "description":  "Say hello to your new favorite tote bag! Luna shines in this holographic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21631,7 +21631,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  447,
         "description":  "Meet Sprinkle - this woven rug brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21646,7 +21646,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  452,
         "description":  "The portable headphones every Bloop fan needs. Features Sprout with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -21661,7 +21661,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  417,
         "description":  "Say hello to your new favorite cosmetic bag! Glimmer shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21676,7 +21676,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  157,
         "description":  "Say hello to your new favorite art print! Sprinkle shines in this signed design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21691,7 +21691,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  121,
         "description":  "Glimmer is ready for adventure in this retro beanie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21706,7 +21706,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  476,
         "description":  "Officially licensed Bloopville bookmark. recycled finish, premium materials, and Glimmer\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -21721,7 +21721,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  64,
         "description":  "Add some Bloop to your life with this sparkly pillow pet. Features Twinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21736,7 +21736,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  429,
         "description":  "The matte mug every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21751,7 +21751,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  417,
         "description":  "Say hello to your new favorite towel! Nova shines in this cozy design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -21766,7 +21766,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  145,
         "description":  "A must-have for any Bloopville fan. This rechargeable projector features Cosmo in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21781,7 +21781,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  24,
         "description":  "Bring home Nova in kids form! This backpack is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21796,7 +21796,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  383,
         "description":  "Meet Zuzu - this gold coin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21811,7 +21811,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  106,
         "description":  "Zuzu is ready for adventure in this oversized onesie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -21826,7 +21826,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  455,
         "description":  "Fizz is ready for adventure in this lined pen set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21841,7 +21841,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  105,
         "description":  "Meet Mochi - this giant plush brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21856,7 +21856,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  139,
         "description":  "Say hello to your new favorite water bottle! Sprout shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21871,7 +21871,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  202,
         "description":  "The knit cushion every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21886,7 +21886,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  230,
         "description":  "A must-have for any Bloopville fan. This rgb night light features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21901,7 +21901,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  343,
         "description":  "Add some Bloop to your life with this waterproof cosmetic bag. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -21916,7 +21916,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  354,
         "description":  "Officially licensed Bloopville mini figure. vintage finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21931,7 +21931,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  258,
         "description":  "Meet Churro - this graphic hoodie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -21946,7 +21946,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  392,
         "description":  "Add some Bloop to your life with this spiral folder. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21961,7 +21961,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  393,
         "description":  "The mini plush every Bloop fan needs. Features Churro with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -21976,7 +21976,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  113,
         "description":  "Meet Pudding - this enamel water bottle brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -21991,7 +21991,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  318,
         "description":  "A must-have for any Bloopville fan. This cozy blanket features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22006,7 +22006,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  212,
         "description":  "Pudding is ready for adventure in this mini desk lamp. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22021,7 +22021,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  102,
         "description":  "The canvas travel pouch every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22036,7 +22036,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  231,
         "description":  "Bring home Twinkle in signed form! This figurine is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22051,7 +22051,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  436,
         "description":  "The oversized beanie every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22066,7 +22066,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  43,
         "description":  "Bring home Doodle in hardcover form! This folder is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22081,7 +22081,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  65,
         "description":  "Add some Bloop to your life with this giant snuggle pal. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22096,7 +22096,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  420,
         "description":  "The vinyl mug every Bloop fan needs. Features Mochi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22111,7 +22111,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  270,
         "description":  "Bring home Luna in framed form! This frame is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22126,7 +22126,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  158,
         "description":  "Twinkle is ready for adventure in this neon speaker. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22141,7 +22141,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  177,
         "description":  "Add some Bloop to your life with this neon pencil case. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22156,7 +22156,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  206,
         "description":  "Add some Bloop to your life with this vintage trading card. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22171,7 +22171,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  419,
         "description":  "Bring home Cosmo in cropped form! This sweatshirt is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22186,7 +22186,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  82,
         "description":  "Meet Pudding - this a5 journal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22201,7 +22201,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  153,
         "description":  "Meet Blip - this deluxe snuggle pal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22216,7 +22216,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  44,
         "description":  "Fizz is ready for adventure in this limited backpack. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22231,7 +22231,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  362,
         "description":  "Add some Bloop to your life with this minimalist coaster set. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22246,7 +22246,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  88,
         "description":  "Bring home Luna in rechargeable form! This night light is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22261,7 +22261,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  282,
         "description":  "Bring home Mochi in neon form! This shoulder bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22276,7 +22276,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  112,
         "description":  "Meet Zip - this exclusive coin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22291,7 +22291,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  283,
         "description":  "Say hello to your new favorite scarf! Wisp shines in this winter design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22306,7 +22306,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  452,
         "description":  "The pastel washi tape every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22321,7 +22321,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  312,
         "description":  "The jumbo pillow pet every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22336,7 +22336,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  141,
         "description":  "Meet Mimi - this neon mug brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22351,7 +22351,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  57,
         "description":  "The woven poster every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22366,7 +22366,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  423,
         "description":  "A must-have for any Bloopville fan. This rechargeable alarm clock features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22381,7 +22381,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  499,
         "description":  "Meet Churro - this mini cosmetic bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22396,7 +22396,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  52,
         "description":  "Add some Bloop to your life with this limited trading card. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22411,7 +22411,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  28,
         "description":  "A must-have for any Bloopville fan. This kids sweatshirt features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22426,7 +22426,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  470,
         "description":  "Say hello to your new favorite binder! Sprout shines in this dotted design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22441,7 +22441,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  165,
         "description":  "Add some Bloop to your life with this mini plush. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22456,7 +22456,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  78,
         "description":  "A must-have for any Bloopville fan. This neon backpack features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22471,7 +22471,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  345,
         "description":  "The cozy cushion every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22486,7 +22486,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  414,
         "description":  "Say hello to your new favorite power bank! Cosmo shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22501,7 +22501,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  90,
         "description":  "Meet Cosmo - this kids tote brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22516,7 +22516,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  460,
         "description":  "The numbered trading card every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22531,7 +22531,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  27,
         "description":  "A must-have for any Bloopville fan. This retro socks features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22546,7 +22546,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  331,
         "description":  "Add some Bloop to your life with this a4 bookmark. Features Zuzu in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -22561,7 +22561,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  249,
         "description":  "Bring home Bumble in giant form! This huggable is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22576,7 +22576,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  392,
         "description":  "Officially licensed Bloopville keychain. vinyl finish, premium materials, and Blip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22591,7 +22591,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  289,
         "description":  "Wisp is ready for adventure in this knit clock. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22606,7 +22606,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  229,
         "description":  "The bluetooth desk lamp every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22621,7 +22621,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  413,
         "description":  "Add some Bloop to your life with this neon tote. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22636,7 +22636,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  419,
         "description":  "Mochi is ready for adventure in this limited mini figure. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22651,7 +22651,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  350,
         "description":  "Bring home Pebble in oversized form! This onesie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22666,7 +22666,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  416,
         "description":  "Bring home Bumble in gold-foil form! This sketchbook is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22681,7 +22681,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  436,
         "description":  "Officially licensed Bloopville plushie. limited edition finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22696,7 +22696,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  30,
         "description":  "Add some Bloop to your life with this vinyl pin set. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22711,7 +22711,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  70,
         "description":  "Say hello to your new favorite blanket! Zip shines in this cozy design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22726,7 +22726,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  253,
         "description":  "The wireless projector every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22741,7 +22741,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  467,
         "description":  "A must-have for any Bloopville fan. This mini laptop sleeve features Sprinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22756,7 +22756,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  251,
         "description":  "Officially licensed Bloopville enamel pin. silver finish, premium materials, and Glimmer\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22771,7 +22771,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  408,
         "description":  "Twinkle is ready for adventure in this winter beanie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22786,7 +22786,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  5,
         "description":  "Meet Nova - this kraft binder brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22801,7 +22801,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  163,
         "description":  "Meet Sprinkle - this deluxe huggable brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22816,7 +22816,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  458,
         "description":  "The holographic sticker pack every Bloop fan needs. Features Pebble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22831,7 +22831,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  403,
         "description":  "Bring home Doodle in fleece form! This rug is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22846,7 +22846,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  92,
         "description":  "The neon alarm clock every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22861,7 +22861,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  176,
         "description":  "Pip is ready for adventure in this leather laptop sleeve. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22876,7 +22876,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  193,
         "description":  "Meet Luna - this signed poster set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22891,7 +22891,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  39,
         "description":  "Bring home Doodle in cropped form! This jacket is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22906,7 +22906,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  217,
         "description":  "Add some Bloop to your life with this pastel notepad. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22921,7 +22921,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  478,
         "description":  "Say hello to your new favorite plush! Blip shines in this limited edition design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22936,7 +22936,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  303,
         "description":  "A must-have for any Bloopville fan. This enamel pin set features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22951,7 +22951,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  25,
         "description":  "A must-have for any Bloopville fan. This minimalist frame features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -22966,7 +22966,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  112,
         "description":  "A must-have for any Bloopville fan. This smart speaker features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -22981,7 +22981,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  237,
         "description":  "A must-have for any Bloopville fan. This mini shoulder bag features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -22996,7 +22996,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  201,
         "description":  "Add some Bloop to your life with this signed poster set. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23011,7 +23011,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  444,
         "description":  "Meet Luna - this cropped pajamas brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23026,7 +23026,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  465,
         "description":  "Mochi is ready for adventure in this gold-foil sketchbook. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23041,7 +23041,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  342,
         "description":  "A must-have for any Bloopville fan. This jumbo soft toy features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23056,7 +23056,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  285,
         "description":  "Officially licensed Bloopville backpack. enamel finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23071,7 +23071,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  295,
         "description":  "Officially licensed Bloopville rug. framed finish, premium materials, and Sprout\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23086,7 +23086,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  228,
         "description":  "Doodle is ready for adventure in this smart night light. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23101,7 +23101,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  369,
         "description":  "Meet Pudding - this mini backpack brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23116,7 +23116,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  68,
         "description":  "Bring home Wisp in limited form! This replica is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23131,7 +23131,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  80,
         "description":  "The kids pajamas every Bloop fan needs. Features Churro with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23146,7 +23146,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  370,
         "description":  "Bring home Fizz in gold-foil form! This sketchbook is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23161,7 +23161,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  111,
         "description":  "Bring home Blip in jumbo form! This soft toy is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23176,7 +23176,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  20,
         "description":  "Meet Cosmo - this matte pin set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23191,7 +23191,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  284,
         "description":  "A must-have for any Bloopville fan. This framed cushion features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23206,7 +23206,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  453,
         "description":  "Meet Churro - this wireless led lamp brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23221,7 +23221,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  289,
         "description":  "Meet Doodle - this insulated lunch box brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23236,7 +23236,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  341,
         "description":  "Meet Mimi - this gold enamel pin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23251,7 +23251,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  378,
         "description":  "Say hello to your new favorite scarf! Pebble shines in this summer design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23266,7 +23266,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  166,
         "description":  "The a4 bookmark every Bloop fan needs. Features Sprout with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23281,7 +23281,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  290,
         "description":  "A must-have for any Bloopville fan. This mini huggable features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23296,7 +23296,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  192,
         "description":  "Bring home Doodle in glitter form! This water bottle is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23311,7 +23311,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  135,
         "description":  "Say hello to your new favorite towel! Glimmer shines in this canvas design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23326,7 +23326,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  351,
         "description":  "Say hello to your new favorite projector! Cosmo shines in this mini design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23341,7 +23341,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  338,
         "description":  "Meet Zuzu - this pastel lunch box brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23356,7 +23356,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  340,
         "description":  "A must-have for any Bloopville fan. This mini trading card features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23371,7 +23371,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  434,
         "description":  "Meet Fizz - this cropped socks brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23386,7 +23386,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  401,
         "description":  "The kraft washi tape every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23401,7 +23401,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  228,
         "description":  "A must-have for any Bloopville fan. This glow-in-the-dark huggable features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23416,7 +23416,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  284,
         "description":  "Glimmer is ready for adventure in this vinyl phone case. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23431,7 +23431,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  420,
         "description":  "Officially licensed Bloopville blanket. canvas finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23446,7 +23446,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  156,
         "description":  "Officially licensed Bloopville projector. mini finish, premium materials, and Pudding\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23461,7 +23461,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  275,
         "description":  "Bring home Blip in insulated form! This pencil case is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23476,7 +23476,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  202,
         "description":  "Meet Mochi - this silver enamel pin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23491,7 +23491,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  389,
         "description":  "A must-have for any Bloopville fan. This winter scarf features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23506,7 +23506,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  113,
         "description":  "Meet Mochi - this kraft washi tape brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23521,7 +23521,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  30,
         "description":  "Add some Bloop to your life with this scented huggable. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23536,7 +23536,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  354,
         "description":  "A must-have for any Bloopville fan. This enamel water bottle features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23551,7 +23551,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  322,
         "description":  "Say hello to your new favorite frame! Wisp shines in this canvas design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23566,7 +23566,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  291,
         "description":  "Officially licensed Bloopville charger. portable finish, premium materials, and Zip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23581,7 +23581,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  203,
         "description":  "The insulated backpack every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23596,7 +23596,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  390,
         "description":  "Officially licensed Bloopville mini figure. vintage finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23611,7 +23611,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  168,
         "description":  "Say hello to your new favorite scarf! Fizz shines in this retro design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23626,7 +23626,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  164,
         "description":  "Meet Pebble - this lined pen set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23641,7 +23641,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  285,
         "description":  "Cosmo is ready for adventure in this mini plush. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23656,7 +23656,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  103,
         "description":  "Meet Luna - this pastel water bottle brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23671,7 +23671,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  371,
         "description":  "Bring home Pip in decorative form! This clock is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23686,7 +23686,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  163,
         "description":  "A must-have for any Bloopville fan. This sound-activated charger features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23701,7 +23701,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  470,
         "description":  "The zip pencil case every Bloop fan needs. Features Nova with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23716,7 +23716,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  219,
         "description":  "Officially licensed Bloopville trading card. signed finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23731,7 +23731,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  73,
         "description":  "Bring home Zuzu in cozy form! This scarf is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23746,7 +23746,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  227,
         "description":  "The a5 binder every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23761,7 +23761,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  340,
         "description":  "The giant snuggle pal every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23776,7 +23776,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  480,
         "description":  "Bring home Twinkle in neon form! This mug is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23791,7 +23791,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  349,
         "description":  "Bring home Churro in cotton form! This blanket is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23806,7 +23806,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  19,
         "description":  "Say hello to your new favorite night light! Sprout shines in this wireless design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23821,7 +23821,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  6,
         "description":  "Mochi is ready for adventure in this mini tote. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23836,7 +23836,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  381,
         "description":  "Bumble is ready for adventure in this mini figurine. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23851,7 +23851,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  381,
         "description":  "Blip is ready for adventure in this cozy sweatshirt. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23866,7 +23866,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  123,
         "description":  "Sprout is ready for adventure in this hardcover planner. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23881,7 +23881,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  221,
         "description":  "Meet Doodle - this glow-in-the-dark cuddle buddy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23896,7 +23896,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  265,
         "description":  "Twinkle is ready for adventure in this glitter phone case. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23911,7 +23911,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  209,
         "description":  "Meet Sprout - this minimalist poster brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23926,7 +23926,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  315,
         "description":  "Bring home Mochi in rgb form! This charger is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -23941,7 +23941,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  435,
         "description":  "Bring home Sprinkle in padded form! This cosmetic bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23956,7 +23956,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  189,
         "description":  "A must-have for any Bloopville fan. This glow figurine features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23971,7 +23971,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  411,
         "description":  "Say hello to your new favorite jacket! Zip shines in this cozy design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -23986,7 +23986,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  135,
         "description":  "Bring home Glimmer in dotted form! This bookmark is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24001,7 +24001,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  17,
         "description":  "Pudding is ready for adventure in this glow-in-the-dark plushie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24016,7 +24016,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  168,
         "description":  "Bring home Zip in enamel form! This water bottle is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24031,7 +24031,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  301,
         "description":  "Bring home Pudding in cozy form! This cushion is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24046,7 +24046,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  430,
         "description":  "Meet Nova - this wireless night light brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24061,7 +24061,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  99,
         "description":  "A must-have for any Bloopville fan. This waterproof wallet features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24076,7 +24076,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  102,
         "description":  "Pip is ready for adventure in this mini coin. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24091,7 +24091,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  337,
         "description":  "The cropped onesie every Bloop fan needs. Features Churro with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24106,7 +24106,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  305,
         "description":  "Bring home Mimi in recycled form! This washi tape is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24121,7 +24121,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  190,
         "description":  "Officially licensed Bloopville stuffed animal. collector finish, premium materials, and Wisp\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24136,7 +24136,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  385,
         "description":  "Cosmo is ready for adventure in this pastel water bottle. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24151,7 +24151,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  472,
         "description":  "A must-have for any Bloopville fan. This canvas towel features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24166,7 +24166,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  252,
         "description":  "Officially licensed Bloopville desk lamp. smart finish, premium materials, and Pip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24181,7 +24181,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  73,
         "description":  "A must-have for any Bloopville fan. This canvas backpack features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24196,7 +24196,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  283,
         "description":  "Say hello to your new favorite trading card! Mimi shines in this vintage design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24211,7 +24211,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  250,
         "description":  "Blip is ready for adventure in this pastel sweatshirt. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24226,7 +24226,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  87,
         "description":  "Blip is ready for adventure in this lined binder. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24241,7 +24241,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  454,
         "description":  "Say hello to your new favorite snuggle pal! Pebble shines in this scented design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24256,7 +24256,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  144,
         "description":  "Say hello to your new favorite sticker pack! Doodle shines in this waterproof design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24271,7 +24271,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  135,
         "description":  "Say hello to your new favorite blanket! Twinkle shines in this ceramic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24286,7 +24286,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  409,
         "description":  "A must-have for any Bloopville fan. This smart desk lamp features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24301,7 +24301,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  310,
         "description":  "Bring home Pip in mini form! This lunch box is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24316,7 +24316,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  413,
         "description":  "Bring home Cosmo in limited form! This diorama is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24331,7 +24331,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  277,
         "description":  "The adult t-shirt every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24346,7 +24346,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  143,
         "description":  "Add some Bloop to your life with this hardcover bookmark. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24361,7 +24361,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  93,
         "description":  "Meet Doodle - this glow-in-the-dark cuddle buddy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24376,7 +24376,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  112,
         "description":  "Say hello to your new favorite mug! Luna shines in this glitter design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24391,7 +24391,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  376,
         "description":  "Say hello to your new favorite wall art! Twinkle shines in this framed design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24406,7 +24406,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  365,
         "description":  "Say hello to your new favorite projector! Pudding shines in this sound-activated design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24421,7 +24421,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  128,
         "description":  "A must-have for any Bloopville fan. This padded laptop sleeve features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24436,7 +24436,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  127,
         "description":  "Bring home Zuzu in mini form! This diorama is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24451,7 +24451,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  245,
         "description":  "Say hello to your new favorite socks! Bumble shines in this kids design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24466,7 +24466,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  272,
         "description":  "Meet Wisp - this recycled sticky notes brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24481,7 +24481,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  176,
         "description":  "Meet Nova - this sparkly snuggle pal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24496,7 +24496,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  24,
         "description":  "Officially licensed Bloopville sticker pack. waterproof finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24511,7 +24511,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  206,
         "description":  "A must-have for any Bloopville fan. This decorative mug set features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24526,7 +24526,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  441,
         "description":  "Zuzu is ready for adventure in this smart alarm clock. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24541,7 +24541,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  28,
         "description":  "Meet Blip - this leather cosmetic bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24556,7 +24556,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  492,
         "description":  "A must-have for any Bloopville fan. This deluxe figurine features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24571,7 +24571,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  363,
         "description":  "The oversized sweatshirt every Bloop fan needs. Features Mochi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24586,7 +24586,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  311,
         "description":  "A must-have for any Bloopville fan. This gold-foil pen set features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24601,7 +24601,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  359,
         "description":  "Meet Pip - this limited edition plush brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24616,7 +24616,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  422,
         "description":  "Say hello to your new favorite water bottle! Bumble shines in this holographic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24631,7 +24631,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  336,
         "description":  "Officially licensed Bloopville cushion. knit finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24646,7 +24646,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  469,
         "description":  "Say hello to your new favorite headphones! Nova shines in this rgb design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24661,7 +24661,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  122,
         "description":  "Say hello to your new favorite wallet! Blip shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24676,7 +24676,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  183,
         "description":  "A must-have for any Bloopville fan. This signed figurine features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24691,7 +24691,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  499,
         "description":  "The cozy scarf every Bloop fan needs. Features Zip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24706,7 +24706,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  264,
         "description":  "Bring home Twinkle in lined form! This journal is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24721,7 +24721,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  330,
         "description":  "Officially licensed Bloopville soft toy. collector finish, premium materials, and Mimi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24736,7 +24736,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  349,
         "description":  "Meet Fizz - this holographic pencil case brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24751,7 +24751,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  51,
         "description":  "Say hello to your new favorite rug! Blip shines in this decorative design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24766,7 +24766,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  394,
         "description":  "Bring home Pebble in sound-activated form! This led lamp is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24781,7 +24781,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  164,
         "description":  "Bring home Cosmo in canvas form! This lunch box is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24796,7 +24796,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  275,
         "description":  "Add some Bloop to your life with this gold statue. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24811,7 +24811,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  449,
         "description":  "Meet Luna - this adult onesie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -24826,7 +24826,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  143,
         "description":  "The lined planner every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24841,7 +24841,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  27,
         "description":  "Add some Bloop to your life with this jumbo stuffed animal. Features Zuzu in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24856,7 +24856,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  359,
         "description":  "Bring home Blip in neon form! This mug is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -24871,7 +24871,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  213,
         "description":  "A must-have for any Bloopville fan. This framed coaster set features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24886,7 +24886,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  283,
         "description":  "Add some Bloop to your life with this neon projector. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24901,7 +24901,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  64,
         "description":  "Bring home Zuzu in neon form! This pencil case is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24916,7 +24916,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  224,
         "description":  "The numbered statue every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24931,7 +24931,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  417,
         "description":  "Pebble is ready for adventure in this kids beanie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24946,7 +24946,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  95,
         "description":  "Bring home Pudding in hardcover form! This pen set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24961,7 +24961,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  293,
         "description":  "A must-have for any Bloopville fan. This deluxe pillow pet features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -24976,7 +24976,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  468,
         "description":  "Officially licensed Bloopville phone case. neon finish, premium materials, and Mimi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -24991,7 +24991,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  332,
         "description":  "Meet Pip - this framed cushion brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25006,7 +25006,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  430,
         "description":  "A must-have for any Bloopville fan. This mini power bank features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25021,7 +25021,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  459,
         "description":  "A must-have for any Bloopville fan. This leather lunch box features Pudding in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -25036,7 +25036,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  273,
         "description":  "A must-have for any Bloopville fan. This deluxe art print features Luna in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -25051,7 +25051,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  92,
         "description":  "Officially licensed Bloopville cap. graphic finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25066,7 +25066,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  19,
         "description":  "Say hello to your new favorite washi tape! Doodle shines in this lined design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25081,7 +25081,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  386,
         "description":  "A must-have for any Bloopville fan. This glow-in-the-dark soft toy features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25096,7 +25096,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  146,
         "description":  "The enamel sticker pack every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25111,7 +25111,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  295,
         "description":  "Bring home Blip in fleece form! This mug set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25126,7 +25126,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  188,
         "description":  "Meet Fizz - this wireless charger brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25141,7 +25141,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  131,
         "description":  "Officially licensed Bloopville laptop sleeve. mini finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25156,7 +25156,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  362,
         "description":  "Add some Bloop to your life with this silver diorama. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25171,7 +25171,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  495,
         "description":  "Add some Bloop to your life with this retro cap. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -25186,7 +25186,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  221,
         "description":  "Add some Bloop to your life with this lined sticky notes. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25201,7 +25201,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  307,
         "description":  "Officially licensed Bloopville stuffed animal. scented finish, premium materials, and Pudding\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25216,7 +25216,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  446,
         "description":  "Mimi is ready for adventure in this metallic pencil case. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25231,7 +25231,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  20,
         "description":  "A must-have for any Bloopville fan. This knit blanket features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25246,7 +25246,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  393,
         "description":  "A must-have for any Bloopville fan. This sound-activated led lamp features Mimi in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25261,7 +25261,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  39,
         "description":  "The leather pencil case every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25276,7 +25276,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  361,
         "description":  "Officially licensed Bloopville trading card. limited finish, premium materials, and Bumble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -25291,7 +25291,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  416,
         "description":  "Bumble is ready for adventure in this graphic hoodie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -25306,7 +25306,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  415,
         "description":  "Officially licensed Bloopville journal. dotted finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -25321,7 +25321,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  487,
         "description":  "Mimi is ready for adventure in this jumbo huggable. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25336,7 +25336,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  269,
         "description":  "Nova is ready for adventure in this vinyl backpack. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25351,7 +25351,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  333,
         "description":  "Doodle is ready for adventure in this decorative towel. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -25366,7 +25366,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  67,
         "description":  "Add some Bloop to your life with this rechargeable projector. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25381,7 +25381,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  9,
         "description":  "Sprout is ready for adventure in this waterproof shoulder bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25396,7 +25396,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  81,
         "description":  "Luna is ready for adventure in this vintage trading card. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25411,7 +25411,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  41,
         "description":  "Bring home Pudding in kids form! This t-shirt is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25426,7 +25426,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  391,
         "description":  "Bring home Cosmo in recycled form! This washi tape is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -25441,7 +25441,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  245,
         "description":  "Cosmo is ready for adventure in this scented stuffed animal. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -25456,7 +25456,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  164,
         "description":  "Say hello to your new favorite phone case! Pebble shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -25471,7 +25471,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  217,
         "description":  "Officially licensed Bloopville poster. minimalist finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -25486,7 +25486,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  105,
         "description":  "Sprout is ready for adventure in this portable headphones. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25501,7 +25501,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  20,
         "description":  "Officially licensed Bloopville duffel bag. canvas finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25516,7 +25516,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  489,
         "description":  "Meet Cosmo - this limited figurine brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25531,7 +25531,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  119,
         "description":  "The pastel hoodie every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25546,7 +25546,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  6,
         "description":  "Bring home Doodle in recycled form! This pen set is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25561,7 +25561,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  250,
         "description":  "Say hello to your new favorite pillow pet! Sprout shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25576,7 +25576,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  236,
         "description":  "Add some Bloop to your life with this glitter pencil case. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25591,7 +25591,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  123,
         "description":  "The cozy frame every Bloop fan needs. Features Glimmer with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25606,7 +25606,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  173,
         "description":  "Add some Bloop to your life with this rechargeable headphones. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25621,7 +25621,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  210,
         "description":  "Blip is ready for adventure in this neon lunch box. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25636,7 +25636,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  41,
         "description":  "Say hello to your new favorite statue! Zuzu shines in this glow design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25651,7 +25651,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  24,
         "description":  "Meet Wisp - this summer hoodie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25666,7 +25666,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  291,
         "description":  "Officially licensed Bloopville notepad. a5 finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25681,7 +25681,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  293,
         "description":  "Bring home Fizz in jumbo form! This huggable is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -25696,7 +25696,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  206,
         "description":  "Say hello to your new favorite sticker pack! Mimi shines in this metallic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25711,7 +25711,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  423,
         "description":  "The woven towel every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -25726,7 +25726,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  441,
         "description":  "Add some Bloop to your life with this mini speaker. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25741,7 +25741,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  465,
         "description":  "Meet Pebble - this leather wallet brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25756,7 +25756,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  262,
         "description":  "Bring home Luna in silver form! This coin is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25771,7 +25771,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  390,
         "description":  "Pebble is ready for adventure in this summer onesie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25786,7 +25786,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  256,
         "description":  "Doodle is ready for adventure in this dotted journal. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25801,7 +25801,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  153,
         "description":  "The jumbo plushie every Bloop fan needs. Features Nova with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25816,7 +25816,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  195,
         "description":  "The matte pin set every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25831,7 +25831,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  424,
         "description":  "Meet Pebble - this canvas towel brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25846,7 +25846,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  470,
         "description":  "Add some Bloop to your life with this bluetooth headphones. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25861,7 +25861,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  191,
         "description":  "Meet Mochi - this insulated wallet brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25876,7 +25876,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  342,
         "description":  "Meet Fizz - this numbered mini figure brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25891,7 +25891,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  207,
         "description":  "A must-have for any Bloopville fan. This cozy scarf features Zuzu in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25906,7 +25906,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  139,
         "description":  "A must-have for any Bloopville fan. This dotted sticky notes features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25921,7 +25921,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  188,
         "description":  "Meet Sprout - this giant pillow pet brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25936,7 +25936,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  142,
         "description":  "Officially licensed Bloopville tote bag. neon finish, premium materials, and Zip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25951,7 +25951,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  164,
         "description":  "Officially licensed Bloopville blanket. cozy finish, premium materials, and Luna\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25966,7 +25966,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  101,
         "description":  "The bluetooth speaker every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -25981,7 +25981,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  305,
         "description":  "A must-have for any Bloopville fan. This mini tote features Wisp in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -25996,7 +25996,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  219,
         "description":  "Luna is ready for adventure in this limited enamel pin. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26011,7 +26011,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  469,
         "description":  "Officially licensed Bloopville onesie. graphic finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26026,7 +26026,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  221,
         "description":  "Add some Bloop to your life with this recycled pen set. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26041,7 +26041,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  334,
         "description":  "Officially licensed Bloopville soft toy. jumbo finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26056,7 +26056,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  127,
         "description":  "Officially licensed Bloopville pencil case. pastel finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26071,7 +26071,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  198,
         "description":  "Mimi is ready for adventure in this canvas frame. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26086,7 +26086,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  204,
         "description":  "Bring home Zuzu in neon form! This power bank is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -26101,7 +26101,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  266,
         "description":  "Say hello to your new favorite travel pouch! Mochi shines in this canvas design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26116,7 +26116,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  166,
         "description":  "Wisp is ready for adventure in this vintage trading card. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26131,7 +26131,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  458,
         "description":  "The kids scarf every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26146,7 +26146,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  271,
         "description":  "Say hello to your new favorite pen set! Sprout shines in this a4 design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26161,7 +26161,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  294,
         "description":  "Meet Sprinkle - this mini soft toy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26176,7 +26176,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  499,
         "description":  "Officially licensed Bloopville backpack. vinyl finish, premium materials, and Cosmo\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26191,7 +26191,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  140,
         "description":  "Officially licensed Bloopville wall art. woven finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26206,7 +26206,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  217,
         "description":  "Officially licensed Bloopville desk lamp. neon finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26221,7 +26221,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  449,
         "description":  "Meet Glimmer - this waterproof lunch box brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26236,7 +26236,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  473,
         "description":  "Bring home Churro in deluxe form! This mini figure is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26251,7 +26251,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  177,
         "description":  "The summer scarf every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26266,7 +26266,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  83,
         "description":  "The kraft pen set every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26281,7 +26281,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  474,
         "description":  "A must-have for any Bloopville fan. This scented cuddle buddy features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26296,7 +26296,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  417,
         "description":  "Doodle is ready for adventure in this limited notebook. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26311,7 +26311,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  497,
         "description":  "Zip is ready for adventure in this cotton blanket. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26326,7 +26326,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  28,
         "description":  "Bring home Luna in portable form! This desk lamp is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26341,7 +26341,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  490,
         "description":  "Bring home Glimmer in waterproof form! This pencil case is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26356,7 +26356,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  499,
         "description":  "A must-have for any Bloopville fan. This limited coin features Luna in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26371,7 +26371,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  464,
         "description":  "Cosmo is ready for adventure in this cropped cap. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26386,7 +26386,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  189,
         "description":  "Officially licensed Bloopville planner. spiral finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26401,7 +26401,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  114,
         "description":  "Add some Bloop to your life with this deluxe huggable. Features Zip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26416,7 +26416,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  479,
         "description":  "A must-have for any Bloopville fan. This holographic mug features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -26431,7 +26431,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  195,
         "description":  "Blip is ready for adventure in this canvas wall art. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26446,7 +26446,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  186,
         "description":  "The bluetooth desk lamp every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26461,7 +26461,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  43,
         "description":  "The waterproof cosmetic bag every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26476,7 +26476,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  301,
         "description":  "Say hello to your new favorite figurine! Sprinkle shines in this glow design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26491,7 +26491,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  191,
         "description":  "Wisp is ready for adventure in this summer hoodie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26506,7 +26506,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  443,
         "description":  "A must-have for any Bloopville fan. This a4 binder features Doodle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26521,7 +26521,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  423,
         "description":  "Meet Cosmo - this collector stuffed animal brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26536,7 +26536,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  152,
         "description":  "Luna is ready for adventure in this vinyl water bottle. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26551,7 +26551,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  218,
         "description":  "The cotton blanket every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -26566,7 +26566,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  13,
         "description":  "Bring home Zip in wireless form! This night light is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26581,7 +26581,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  340,
         "description":  "The waterproof cosmetic bag every Bloop fan needs. Features Nova with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26596,7 +26596,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  468,
         "description":  "Officially licensed Bloopville mini figure. limited finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -26611,7 +26611,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  388,
         "description":  "Meet Churro - this cozy cap brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26626,7 +26626,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  496,
         "description":  "Meet Zip - this hardcover folder brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26641,7 +26641,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  394,
         "description":  "Add some Bloop to your life with this scented soft toy. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26656,7 +26656,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  237,
         "description":  "A must-have for any Bloopville fan. This limited tote bag features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26671,7 +26671,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  268,
         "description":  "A must-have for any Bloopville fan. This minimalist coaster set features Twinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26686,7 +26686,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  288,
         "description":  "Meet Blip - this portable charger brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26701,7 +26701,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  224,
         "description":  "The canvas wallet every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26716,7 +26716,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  302,
         "description":  "Add some Bloop to your life with this silver replica. Features Zuzu in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -26731,7 +26731,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  33,
         "description":  "Officially licensed Bloopville hoodie. graphic finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26746,7 +26746,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  361,
         "description":  "Bring home Sprinkle in lined form! This folder is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -26761,7 +26761,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  101,
         "description":  "Add some Bloop to your life with this scented stuffed animal. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26776,7 +26776,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  310,
         "description":  "Meet Fizz - this metallic mug brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26791,7 +26791,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  254,
         "description":  "Meet Mimi - this framed wall art brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26806,7 +26806,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  25,
         "description":  "Wisp is ready for adventure in this rgb night light. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26821,7 +26821,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  314,
         "description":  "The canvas travel pouch every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26836,7 +26836,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  254,
         "description":  "Add some Bloop to your life with this deluxe diorama. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26851,7 +26851,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  90,
         "description":  "A must-have for any Bloopville fan. This summer beanie features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26866,7 +26866,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  54,
         "description":  "Bring home Bumble in a5 form! This sketchbook is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26881,7 +26881,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  401,
         "description":  "Meet Bumble - this scented soft toy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26896,7 +26896,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  387,
         "description":  "The enamel pencil case every Bloop fan needs. Features Pudding with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26911,7 +26911,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  383,
         "description":  "Meet Nova - this cozy poster brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26926,7 +26926,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  65,
         "description":  "The touch charger every Bloop fan needs. Features Mochi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26941,7 +26941,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  333,
         "description":  "Meet Mochi - this waterproof wallet brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -26956,7 +26956,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  422,
         "description":  "Meet Churro - this silver figurine brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26971,7 +26971,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  410,
         "description":  "Bring home Sprinkle in oversized form! This hoodie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -26986,7 +26986,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  268,
         "description":  "Luna is ready for adventure in this kraft sketchbook. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27001,7 +27001,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  356,
         "description":  "Meet Wisp - this sparkly soft toy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27016,7 +27016,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  108,
         "description":  "Churro is ready for adventure in this pastel water bottle. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -27031,7 +27031,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  194,
         "description":  "Add some Bloop to your life with this canvas coaster set. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27046,7 +27046,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  107,
         "description":  "Bring home Doodle in rechargeable form! This power bank is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27061,7 +27061,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  303,
         "description":  "Meet Mochi - this kids shoulder bag brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27076,7 +27076,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  296,
         "description":  "Add some Bloop to your life with this signed replica. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27091,7 +27091,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  372,
         "description":  "Pudding is ready for adventure in this summer onesie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -27106,7 +27106,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  121,
         "description":  "The spiral folder every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27121,7 +27121,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  86,
         "description":  "Officially licensed Bloopville pillow pet. jumbo finish, premium materials, and Pip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27136,7 +27136,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  382,
         "description":  "Bring home Bumble in holographic form! This sticker pack is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27151,7 +27151,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  122,
         "description":  "Say hello to your new favorite towel! Glimmer shines in this decorative design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27166,7 +27166,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  92,
         "description":  "Officially licensed Bloopville night light. portable finish, premium materials, and Doodle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -27181,7 +27181,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  21,
         "description":  "Bring home Zip in kids form! This travel pouch is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27196,7 +27196,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  30,
         "description":  "Add some Bloop to your life with this gold trading card. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27211,7 +27211,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  361,
         "description":  "Meet Glimmer - this winter sweatshirt brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27226,7 +27226,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  142,
         "description":  "Bring home Pudding in gold-foil form! This notepad is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27241,7 +27241,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  114,
         "description":  "Say hello to your new favorite cuddle buddy! Zuzu shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27256,7 +27256,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  65,
         "description":  "Bring home Churro in waterproof form! This notebook is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27271,7 +27271,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  132,
         "description":  "A must-have for any Bloopville fan. This fleece frame features Sprout in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27286,7 +27286,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  399,
         "description":  "Officially licensed Bloopville speaker. touch finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27301,7 +27301,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  6,
         "description":  "The mini lunch box every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27316,7 +27316,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  238,
         "description":  "Meet Nova - this mini coin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -27331,7 +27331,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  90,
         "description":  "Bring home Doodle in oversized form! This t-shirt is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27346,7 +27346,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  118,
         "description":  "Meet Pudding - this a5 pen set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27361,7 +27361,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  132,
         "description":  "Bring home Cosmo in mini form! This huggable is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27376,7 +27376,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  25,
         "description":  "Say hello to your new favorite pencil case! Doodle shines in this neon design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27391,7 +27391,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  345,
         "description":  "Add some Bloop to your life with this knit coaster set. Features Bumble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27406,7 +27406,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  51,
         "description":  "Officially licensed Bloopville power bank. neon finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27421,7 +27421,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  93,
         "description":  "Officially licensed Bloopville duffel bag. zip finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27436,7 +27436,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  363,
         "description":  "Add some Bloop to your life with this mini enamel pin. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27451,7 +27451,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  465,
         "description":  "Meet Churro - this summer beanie brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27466,7 +27466,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  54,
         "description":  "Add some Bloop to your life with this gold-foil planner. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27481,7 +27481,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  221,
         "description":  "Sprinkle is ready for adventure in this collector cuddle buddy. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -27496,7 +27496,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  233,
         "description":  "Sprout is ready for adventure in this holographic mug. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -27511,7 +27511,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  354,
         "description":  "Meet Doodle - this decorative wall art brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -27526,7 +27526,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  403,
         "description":  "Bring home Zuzu in rgb form! This led lamp is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27541,7 +27541,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  236,
         "description":  "Bring home Wisp in waterproof form! This travel pouch is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -27556,7 +27556,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  14,
         "description":  "Bring home Pebble in vintage form! This trading card is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27571,7 +27571,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  229,
         "description":  "Bring home Pudding in adult form! This socks is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27586,7 +27586,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  446,
         "description":  "Bring home Pip in lined form! This washi tape is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27601,7 +27601,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  81,
         "description":  "A must-have for any Bloopville fan. This glow-in-the-dark snuggle pal features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27616,7 +27616,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  182,
         "description":  "Say hello to your new favorite phone case! Sprinkle shines in this metallic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27631,7 +27631,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  160,
         "description":  "Add some Bloop to your life with this ceramic mug set. Features Glimmer in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27646,7 +27646,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  225,
         "description":  "Pudding is ready for adventure in this portable speaker. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27661,7 +27661,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  13,
         "description":  "Say hello to your new favorite laptop sleeve! Glimmer shines in this waterproof design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27676,7 +27676,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  46,
         "description":  "Officially licensed Bloopville statue. limited finish, premium materials, and Mochi\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -27691,7 +27691,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  260,
         "description":  "Say hello to your new favorite hoodie! Sprinkle shines in this cozy design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27706,7 +27706,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  454,
         "description":  "The recycled bookmark every Bloop fan needs. Features Zuzu with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27721,7 +27721,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  331,
         "description":  "Officially licensed Bloopville plushie. mini finish, premium materials, and Nova\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27736,7 +27736,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  176,
         "description":  "The vinyl phone case every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -27751,7 +27751,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  408,
         "description":  "Say hello to your new favorite blanket! Wisp shines in this minimalist design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27766,7 +27766,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  96,
         "description":  "Bring home Nova in bluetooth form! This charger is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27781,7 +27781,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  437,
         "description":  "Say hello to your new favorite tote! Zip shines in this insulated design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27796,7 +27796,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  398,
         "description":  "Bring home Sprout in vintage form! This figurine is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27811,7 +27811,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  254,
         "description":  "Officially licensed Bloopville beanie. graphic finish, premium materials, and Luna\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -27826,7 +27826,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  145,
         "description":  "The dotted washi tape every Bloop fan needs. Features Doodle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27841,7 +27841,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  207,
         "description":  "Meet Mochi - this scented cuddle buddy brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -27856,7 +27856,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  367,
         "description":  "Officially licensed Bloopville backpack. waterproof finish, premium materials, and Glimmer\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27871,7 +27871,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  257,
         "description":  "Add some Bloop to your life with this cotton cushion. Features Doodle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -27886,7 +27886,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  195,
         "description":  "Add some Bloop to your life with this portable night light. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27901,7 +27901,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  58,
         "description":  "Mimi is ready for adventure in this kids wallet. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27916,7 +27916,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  191,
         "description":  "Meet Glimmer - this signed replica brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27931,7 +27931,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  310,
         "description":  "Say hello to your new favorite scarf! Zuzu shines in this cozy design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27946,7 +27946,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  202,
         "description":  "Meet Twinkle - this lined washi tape brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27961,7 +27961,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  353,
         "description":  "Add some Bloop to your life with this sparkly cuddle buddy. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27976,7 +27976,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  244,
         "description":  "A must-have for any Bloopville fan. This vinyl keychain features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -27991,7 +27991,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  439,
         "description":  "Add some Bloop to your life with this fleece wall art. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28006,7 +28006,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  151,
         "description":  "Nova is ready for adventure in this portable desk lamp. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28021,7 +28021,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  134,
         "description":  "Say hello to your new favorite shoulder bag! Twinkle shines in this waterproof design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28036,7 +28036,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  147,
         "description":  "Bring home Twinkle in vintage form! This replica is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28051,7 +28051,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  42,
         "description":  "Add some Bloop to your life with this summer jacket. Features Blip in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28066,7 +28066,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  343,
         "description":  "Officially licensed Bloopville notepad. recycled finish, premium materials, and Glimmer\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28081,7 +28081,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  327,
         "description":  "Say hello to your new favorite snuggle pal! Luna shines in this collector design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28096,7 +28096,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  85,
         "description":  "Bring home Fizz in enamel form! This tote bag is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28111,7 +28111,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  329,
         "description":  "Mimi is ready for adventure in this decorative clock. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28126,7 +28126,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  339,
         "description":  "A must-have for any Bloopville fan. This portable wireless pad features Blip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28141,7 +28141,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  272,
         "description":  "A must-have for any Bloopville fan. This padded travel pouch features Nova in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28156,7 +28156,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  334,
         "description":  "Meet Cosmo - this mini poster set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28171,7 +28171,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  358,
         "description":  "Add some Bloop to your life with this cozy onesie. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28186,7 +28186,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  11,
         "description":  "Say hello to your new favorite binder! Bumble shines in this hardcover design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28201,7 +28201,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  32,
         "description":  "Fizz is ready for adventure in this deluxe snuggle pal. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28216,7 +28216,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  124,
         "description":  "The matte sticker pack every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28231,7 +28231,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  36,
         "description":  "Add some Bloop to your life with this canvas wall art. Features Sprinkle in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28246,7 +28246,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  347,
         "description":  "Bring home Bumble in bluetooth form! This night light is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28261,7 +28261,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  266,
         "description":  "Officially licensed Bloopville backpack. zip finish, premium materials, and Glimmer\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28276,7 +28276,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  295,
         "description":  "Say hello to your new favorite replica! Pudding shines in this gold design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28291,7 +28291,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  231,
         "description":  "Officially licensed Bloopville jacket. graphic finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28306,7 +28306,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  364,
         "description":  "Add some Bloop to your life with this a5 bookmark. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28321,7 +28321,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  358,
         "description":  "A must-have for any Bloopville fan. This sparkly soft toy features Churro in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -28336,7 +28336,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  353,
         "description":  "Add some Bloop to your life with this holographic tote bag. Features Mimi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28351,7 +28351,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  195,
         "description":  "Bring home Nova in cozy form! This towel is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28366,7 +28366,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  465,
         "description":  "Mochi is ready for adventure in this wireless wireless pad. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28381,7 +28381,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  492,
         "description":  "A must-have for any Bloopville fan. This canvas cosmetic bag features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28396,7 +28396,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  133,
         "description":  "Say hello to your new favorite enamel pin! Nova shines in this silver design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28411,7 +28411,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  344,
         "description":  "Say hello to your new favorite cap! Nova shines in this kids design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28426,7 +28426,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  159,
         "description":  "Nova is ready for adventure in this gold-foil bookmark. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28441,7 +28441,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  162,
         "description":  "Officially licensed Bloopville plushie. giant finish, premium materials, and Fizz\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28456,7 +28456,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  195,
         "description":  "Bring home Pudding in limited form! This keychain is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28471,7 +28471,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  363,
         "description":  "A must-have for any Bloopville fan. This decorative frame features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28486,7 +28486,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  184,
         "description":  "Add some Bloop to your life with this bluetooth led lamp. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28501,7 +28501,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  376,
         "description":  "Add some Bloop to your life with this kids shoulder bag. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28516,7 +28516,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  41,
         "description":  "Officially licensed Bloopville art print. deluxe finish, premium materials, and Pebble\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28531,7 +28531,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  459,
         "description":  "Officially licensed Bloopville socks. graphic finish, premium materials, and Churro\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28546,7 +28546,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  467,
         "description":  "A must-have for any Bloopville fan. This lined planner features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28561,7 +28561,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  15,
         "description":  "Meet Glimmer - this collector pillow pet brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28576,7 +28576,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  349,
         "description":  "Fizz is ready for adventure in this neon mug. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28591,7 +28591,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  342,
         "description":  "The woven cushion every Bloop fan needs. Features Pip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28606,7 +28606,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  367,
         "description":  "Officially licensed Bloopville led lamp. wireless finish, premium materials, and Sprinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28621,7 +28621,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  168,
         "description":  "The zip travel pouch every Bloop fan needs. Features Churro with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28636,7 +28636,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  388,
         "description":  "Bring home Glimmer in numbered form! This statue is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28651,7 +28651,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  113,
         "description":  "Bring home Doodle in kids form! This pajamas is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28666,7 +28666,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  87,
         "description":  "The kraft folder every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28681,7 +28681,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  136,
         "description":  "Say hello to your new favorite stuffed animal! Twinkle shines in this deluxe design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28696,7 +28696,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  324,
         "description":  "Doodle is ready for adventure in this vinyl pencil case. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28711,7 +28711,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  53,
         "description":  "Say hello to your new favorite mug set! Twinkle shines in this canvas design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28726,7 +28726,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  89,
         "description":  "Add some Bloop to your life with this wireless led lamp. Features Pebble in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28741,7 +28741,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  75,
         "description":  "Say hello to your new favorite shoulder bag! Sprout shines in this zip design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28756,7 +28756,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  414,
         "description":  "The gold figurine every Bloop fan needs. Features Wisp with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28771,7 +28771,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  428,
         "description":  "Add some Bloop to your life with this graphic t-shirt. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28786,7 +28786,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  271,
         "description":  "Bring home Twinkle in recycled form! This journal is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28801,7 +28801,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  232,
         "description":  "Pip is ready for adventure in this mini stuffed animal. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28816,7 +28816,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  218,
         "description":  "A must-have for any Bloopville fan. This vinyl tote bag features Pip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28831,7 +28831,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  389,
         "description":  "Meet Cosmo - this decorative frame brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28846,7 +28846,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  470,
         "description":  "Bring home Mochi in wireless form! This projector is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -28861,7 +28861,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  225,
         "description":  "The leather duffel bag every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28876,7 +28876,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  78,
         "description":  "Bumble is ready for adventure in this signed poster set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28891,7 +28891,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  390,
         "description":  "Bumble is ready for adventure in this winter socks. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28906,7 +28906,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  249,
         "description":  "Say hello to your new favorite folder! Mimi shines in this lined design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28921,7 +28921,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  437,
         "description":  "Pebble is ready for adventure in this deluxe snuggle pal. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28936,7 +28936,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  498,
         "description":  "The limited notebook every Bloop fan needs. Features Sprout with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28951,7 +28951,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  44,
         "description":  "Churro is ready for adventure in this cozy mug set. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28966,7 +28966,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  247,
         "description":  "Officially licensed Bloopville power bank. rechargeable finish, premium materials, and Zip\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -28981,7 +28981,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  16,
         "description":  "Add some Bloop to your life with this pastel pencil case. Features Fizz in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -28996,7 +28996,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  22,
         "description":  "Add some Bloop to your life with this gold trading card. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29011,7 +29011,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  384,
         "description":  "Add some Bloop to your life with this retro onesie. Features Churro in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29026,7 +29026,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  395,
         "description":  "A must-have for any Bloopville fan. This spiral notepad features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29041,7 +29041,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  13,
         "description":  "The glow-in-the-dark plush every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29056,7 +29056,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  316,
         "description":  "Meet Blip - this vinyl pin set brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29071,7 +29071,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  173,
         "description":  "Say hello to your new favorite poster! Glimmer shines in this ceramic design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29086,7 +29086,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  293,
         "description":  "Say hello to your new favorite night light! Fizz shines in this rgb design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -29101,7 +29101,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  32,
         "description":  "The mini duffel bag every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29116,7 +29116,7 @@ const PRODUCTS = [
         "rating":  4.8,
         "reviews":  486,
         "description":  "Bring home Blip in vintage form! This enamel pin is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29131,7 +29131,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  346,
         "description":  "Officially licensed Bloopville beanie. oversized finish, premium materials, and Twinkle\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29146,7 +29146,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  103,
         "description":  "A must-have for any Bloopville fan. This spiral bookmark features Bumble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29161,7 +29161,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  386,
         "description":  "Add some Bloop to your life with this scented stuffed animal. Features Zuzu in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29176,7 +29176,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  475,
         "description":  "Bring home Wisp in matte form! This mug is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29191,7 +29191,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  436,
         "description":  "Meet Wisp - this decorative towel brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29206,7 +29206,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  207,
         "description":  "The wireless desk lamp every Bloop fan needs. Features Mimi with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29221,7 +29221,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  160,
         "description":  "Say hello to your new favorite tote! Pip shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29236,7 +29236,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  391,
         "description":  "Add some Bloop to your life with this gold mini figure. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29251,7 +29251,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  421,
         "description":  "Bring home Nova in winter form! This hoodie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29266,7 +29266,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  364,
         "description":  "The dotted washi tape every Bloop fan needs. Features Churro with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29281,7 +29281,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  479,
         "description":  "A must-have for any Bloopville fan. This jumbo cuddle buddy features Pebble in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29296,7 +29296,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  25,
         "description":  "Say hello to your new favorite tote bag! Pebble shines in this limited design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29311,7 +29311,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  337,
         "description":  "Bring home Luna in minimalist form! This rug is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29326,7 +29326,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  124,
         "description":  "Add some Bloop to your life with this neon night light. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29341,7 +29341,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  167,
         "description":  "Add some Bloop to your life with this padded laptop sleeve. Features Wisp in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29356,7 +29356,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  10,
         "description":  "A must-have for any Bloopville fan. This exclusive statue features Sprinkle in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29371,7 +29371,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  321,
         "description":  "Officially licensed Bloopville t-shirt. graphic finish, premium materials, and Zuzu\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29386,7 +29386,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  144,
         "description":  "Say hello to your new favorite folder! Wisp shines in this hardcover design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29401,7 +29401,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  240,
         "description":  "Say hello to your new favorite cuddle buddy! Sprout shines in this limited edition design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29416,7 +29416,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  365,
         "description":  "The neon water bottle every Bloop fan needs. Features Blip with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29431,7 +29431,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  168,
         "description":  "Add some Bloop to your life with this ceramic clock. Features Nova in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29446,7 +29446,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  243,
         "description":  "Pebble is ready for adventure in this neon wireless pad. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -29461,7 +29461,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  54,
         "description":  "Meet Wisp - this neon lunch box brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29476,7 +29476,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  125,
         "description":  "Meet Churro - this limited enamel pin brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29491,7 +29491,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  417,
         "description":  "Say hello to your new favorite sweatshirt! Zuzu shines in this summer design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29506,7 +29506,7 @@ const PRODUCTS = [
         "rating":  4.5,
         "reviews":  156,
         "description":  "Meet Mochi - this gold-foil planner brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29521,7 +29521,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  472,
         "description":  "Add some Bloop to your life with this jumbo huggable. Features Pudding in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29536,7 +29536,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  274,
         "description":  "Say hello to your new favorite phone case! Pip shines in this pastel design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29551,7 +29551,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  282,
         "description":  "Bring home Churro in woven form! This wall art is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29566,7 +29566,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  433,
         "description":  "Say hello to your new favorite wireless pad! Blip shines in this wireless design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29581,7 +29581,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  58,
         "description":  "Bring home Bumble in insulated form! This wallet is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29596,7 +29596,7 @@ const PRODUCTS = [
         "rating":  3.6,
         "reviews":  340,
         "description":  "The silver art print every Bloop fan needs. Features Luna with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29611,7 +29611,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  27,
         "description":  "Bring home Mochi in kids form! This jacket is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29626,7 +29626,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  350,
         "description":  "Add some Bloop to your life with this dotted washi tape. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -29641,7 +29641,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  208,
         "description":  "Bring home Doodle in jumbo form! This pillow pet is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29656,7 +29656,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  53,
         "description":  "The neon backpack every Bloop fan needs. Features Bumble with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29671,7 +29671,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  429,
         "description":  "Officially licensed Bloopville frame. cotton finish, premium materials, and Pudding\u0027s signature charm.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29686,7 +29686,7 @@ const PRODUCTS = [
         "rating":  4.9,
         "reviews":  91,
         "description":  "Add some Bloop to your life with this wireless desk lamp. Features Cosmo in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29701,7 +29701,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  101,
         "description":  "Fizz is ready for adventure in this kids shoulder bag. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29716,7 +29716,7 @@ const PRODUCTS = [
         "rating":  4.3,
         "reviews":  204,
         "description":  "The limited enamel pin every Bloop fan needs. Features Cosmo with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29731,7 +29731,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  180,
         "description":  "Nova is ready for adventure in this winter beanie. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29746,7 +29746,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  77,
         "description":  "Add some Bloop to your life with this gold-foil binder. Features Zuzu in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29761,7 +29761,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  202,
         "description":  "Add some Bloop to your life with this limited edition stuffed animal. Features Luna in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29776,7 +29776,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  266,
         "description":  "Doodle is ready for adventure in this pastel water bottle. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29791,7 +29791,7 @@ const PRODUCTS = [
         "rating":  4,
         "reviews":  231,
         "description":  "Bring home Churro in ceramic form! This wall art is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29806,7 +29806,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  223,
         "description":  "Say hello to your new favorite speaker! Churro shines in this rechargeable design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29821,7 +29821,7 @@ const PRODUCTS = [
         "rating":  5,
         "reviews":  473,
         "description":  "Doodle is ready for adventure in this padded travel pouch. Great quality, great vibes, great for any Bloopville collection.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Top Rated"
     },
     {
@@ -29836,7 +29836,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  213,
         "description":  "The mini statue every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29851,7 +29851,7 @@ const PRODUCTS = [
         "rating":  4.4,
         "reviews":  51,
         "description":  "Add some Bloop to your life with this retro pajamas. Features Mochi in vibrant detail. Perfect for fans of all ages.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29866,7 +29866,7 @@ const PRODUCTS = [
         "rating":  3.7,
         "reviews":  108,
         "description":  "The gold-foil bookmark every Bloop fan needs. Features Sprinkle with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29881,7 +29881,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  66,
         "description":  "The jumbo stuffed animal every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29896,7 +29896,7 @@ const PRODUCTS = [
         "rating":  3.9,
         "reviews":  203,
         "description":  "A must-have for any Bloopville fan. This enamel mug features Zip in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29911,7 +29911,7 @@ const PRODUCTS = [
         "rating":  4.6,
         "reviews":  291,
         "description":  "The fleece wall art every Bloop fan needs. Features Fizz with bright colors and sturdy craftsmanship.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29926,7 +29926,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  335,
         "description":  "Say hello to your new favorite charger! Pebble shines in this rechargeable design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29941,7 +29941,7 @@ const PRODUCTS = [
         "rating":  4.2,
         "reviews":  353,
         "description":  "Meet Bumble - this neon backpack brings a bit of Bloopville magic to your day. Made with premium materials and lots of love.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29956,7 +29956,7 @@ const PRODUCTS = [
         "rating":  3.5,
         "reviews":  344,
         "description":  "Say hello to your new favorite statue! Sprout shines in this vintage design - great for gifting or treating yourself.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  "Hot Deal"
     },
     {
@@ -29971,7 +29971,7 @@ const PRODUCTS = [
         "rating":  3.8,
         "reviews":  218,
         "description":  "Bring home Pip in retro form! This beanie is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -29986,7 +29986,7 @@ const PRODUCTS = [
         "rating":  4.7,
         "reviews":  73,
         "description":  "A must-have for any Bloopville fan. This kraft journal features Fizz in an adorable pose, perfect for collectors and kids alike.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     },
     {
@@ -30001,7 +30001,7 @@ const PRODUCTS = [
         "rating":  4.1,
         "reviews":  498,
         "description":  "Bring home Zuzu in giant form! This plush is officially licensed, built to last, and designed for daily smiles.",
-        "image": "../assets/images/mascot.svg",
+        "image": "assets/images/mascot.svg",
         "badge":  ""
     }
 ];
@@ -30021,5 +30021,6 @@ const CATEGORIES = [
 
 // Export for use
 if (typeof module !== 'undefined') module.exports = { PRODUCTS, CATEGORIES };
+
 
 
