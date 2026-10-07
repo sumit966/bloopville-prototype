@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#E32636">
+    <title>Our Story - Bloopville</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="manifest" href="../manifest.json">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+<header class="site-header">
+    <div class="container header-inner">
+        <a href="../index.html" class="logo"><span class="logo-bubble"></span> Bloopville</a>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="characters.html">Characters</a></li>
+                <li><a href="products.html">Shop</a></li>
+                <li><a href="about.html">Our Story</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="header-actions"><button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">&#x1F319;</button>
+            <button class="cart-btn" id="cartBtn">Cart <span class="cart-count" id="cartCount">0</span></button>
+        </div>
+    </div>
+</header>
+
+<section class="hero" style="padding:90px 0 150px;">
+    <div class="hero-bubbles"><span></span><span></span><span></span><span></span></div>
+    <div class="container hero-content">
+        <p class="hero-tag">Our Journey</p>
+        <h1>The Bloopville Story</h1>
+        <p class="hero-text">From a tiny spark of an idea to a universe of curious creatures.</p>
+    </div>
+    <div class="hero-wave"></div>
+</section>
+
+<section class="section">
+    <div class="container" style="max-width:820px;">
+        <h2 style="font-size:2.2rem; margin-bottom:24px;">How It All Began</h2>
+        <p style="color:#6b6b7b; font-size:1.08rem; margin-bottom:22px;">
+            Bloopville was born in 2026 with a simple mission: to spark creativity, embrace curiosity, and inspire a sense of adventure in people of all ages.
+        </p>
+        <p style="color:#6b6b7b; font-size:1.08rem; margin-bottom:22px;">
+            Our business focuses on original character creation, storytelling, and translating those personalities into a world of merchandise - plush toys, electronics, clothing, household items, and more.
+        </p>
+        <p style="color:#6b6b7b; font-size:1.08rem; margin-bottom:22px;">
+            Far away in the cosmos, on the peaceful planet of Bloopia, lives a group of adorable creatures known as the Bloops. Their harmony was shattered when a meteorite crashed, draining their planet's vital energy - the JajaBooma. Now they have traveled to Earth in search of friendship, creativity, and a way to restore their home.
+        </p>
+        <p style="color:#6b6b7b; font-size:1.08rem;">
+            Every character you meet carries a piece of that story - and a piece of our hearts. Welcome to Bloopville.
+        </p>
+    </div>
+</section>
+
+<footer class="site-footer">
+    <div class="container footer-bottom">
+        <p>&copy; 2026 Bloopville. All rights reserved.</p>
+    </div>
+</footer>
+
+<div class="cart-sidebar" id="cartSidebar">
+    <div class="cart-header"><h3>Your Cart</h3><button class="close-cart" id="closeCart">&#x2715;</button></div>
+    <div class="cart-items" id="cartItems"><p class="empty-cart">Your cart is empty</p></div>
+    <div class="cart-footer">
+        <div class="cart-total"><span>Total:</span><span id="cartTotal">.00</span></div>
+        <button class="btn btn-primary btn-full" onclick="checkout()">Checkout</button>
+    </div>
+</div>
+<div class="cart-overlay" id="cartOverlay"></div>
+
+
+
+<script src="../assets/js/main.js"></script>
+</body>
+</html>

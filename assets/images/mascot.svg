@@ -1,0 +1,56 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500' width='500' height='500'>
+  <defs>
+    <radialGradient id='bodyGrad' cx='40%' cy='35%' r='70%'>
+      <stop offset='0%' stop-color='#FF8FB8'/>
+      <stop offset='55%' stop-color='#FF5FA2'/>
+      <stop offset='100%' stop-color='#E32636'/>
+    </radialGradient>
+    <radialGradient id='bellyGrad' cx='50%' cy='45%' r='60%'>
+      <stop offset='0%' stop-color='#FFF5FA'/>
+      <stop offset='100%' stop-color='#FFD1E8'/>
+    </radialGradient>
+    <radialGradient id='glossGrad' cx='50%' cy='50%' r='50%'>
+      <stop offset='0%' stop-color='rgba(255,255,255,0.9)'/>
+      <stop offset='100%' stop-color='rgba(255,255,255,0)'/>
+    </radialGradient>
+    <radialGradient id='blushGrad' cx='50%' cy='50%' r='50%'>
+      <stop offset='0%' stop-color='rgba(255,120,150,0.7)'/>
+      <stop offset='100%' stop-color='rgba(255,120,150,0)'/>
+    </radialGradient>
+    <filter id='softShadow' x='-30%' y='-30%' width='160%' height='160%'>
+      <feGaussianBlur in='SourceAlpha' stdDeviation='10'/>
+      <feOffset dx='0' dy='10' result='offsetblur'/>
+      <feComponentTransfer><feFuncA type='linear' slope='0.25'/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in='SourceGraphic'/></feMerge>
+    </filter>
+  </defs>
+  <circle cx='250' cy='250' r='230' fill='#FFF5FA' opacity='0.7'/>
+  <circle cx='250' cy='250' r='230' fill='none' stroke='#FFD1E8' stroke-width='3' stroke-dasharray='8 8'/>
+  <ellipse cx='250' cy='410' rx='120' ry='18' fill='#E32636' opacity='0.15'/>
+  <g filter='url(#softShadow)'>
+    <path d='M 250 110 C 340 110, 400 170, 400 250 C 400 340, 340 400, 250 400 C 160 400, 100 340, 100 250 C 100 170, 160 110, 250 110 Z' fill='url(#bodyGrad)'/>
+  </g>
+  <ellipse cx='250' cy='290' rx='95' ry='85' fill='url(#bellyGrad)'/>
+  <ellipse cx='195' cy='165' rx='55' ry='35' fill='url(#glossGrad)' transform='rotate(-25 195 165)'/>
+  <circle cx='180' cy='150' r='12' fill='white' opacity='0.9'/>
+  <circle cx='168' cy='162' r='6' fill='white' opacity='0.7'/>
+  <ellipse cx='170' cy='125' rx='22' ry='28' fill='#E32636'/>
+  <ellipse cx='170' cy='128' rx='12' ry='16' fill='#FF8FB8'/>
+  <ellipse cx='330' cy='125' rx='22' ry='28' fill='#E32636'/>
+  <ellipse cx='330' cy='128' rx='12' ry='16' fill='#FF8FB8'/>
+  <ellipse cx='210' cy='245' rx='30' ry='36' fill='white'/>
+  <circle cx='218' cy='255' r='18' fill='#2D2D3A'/>
+  <circle cx='223' cy='248' r='6' fill='white'/>
+  <circle cx='213' cy='262' r='3' fill='white' opacity='0.8'/>
+  <ellipse cx='290' cy='245' rx='30' ry='36' fill='white'/>
+  <circle cx='298' cy='255' r='18' fill='#2D2D3A'/>
+  <circle cx='303' cy='248' r='6' fill='white'/>
+  <circle cx='293' cy='262' r='3' fill='white' opacity='0.8'/>
+  <ellipse cx='175' cy='310' rx='26' ry='16' fill='url(#blushGrad)'/>
+  <ellipse cx='325' cy='310' rx='26' ry='16' fill='url(#blushGrad)'/>
+  <path d='M 220 320 Q 250 355 280 320' stroke='#2D2D3A' stroke-width='6' fill='none' stroke-linecap='round'/>
+  <path d='M 240 340 Q 250 358 260 340 Z' fill='#FF5FA2'/>
+  <g transform='translate(360 170)' fill='#FFE066'><path d='M 0 -14 L 4 -4 L 14 0 L 4 4 L 0 14 L -4 4 L -14 0 L -4 -4 Z'/></g>
+  <g transform='translate(130 180) scale(0.7)' fill='#FFE066'><path d='M 0 -14 L 4 -4 L 14 0 L 4 4 L 0 14 L -4 4 L -14 0 L -4 -4 Z'/></g>
+  <g transform='translate(360 340) scale(0.9)' fill='#FF5FA2'><path d='M 0 8 C -10 -2, -16 4, -8 12 C -4 16, 0 20, 0 20 C 0 20, 4 16, 8 12 C 16 4, 10 -2, 0 8 Z'/></g>
+</svg>

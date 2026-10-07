@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#E32636">
+    <title>Characters - Bloopville</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="manifest" href="../manifest.json">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+<header class="site-header">
+    <div class="container header-inner">
+        <a href="../index.html" class="logo"><span class="logo-bubble"></span> Bloopville</a>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="characters.html">Characters</a></li>
+                <li><a href="products.html">Shop</a></li>
+                <li><a href="about.html">Our Story</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="header-actions"><button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">&#x1F319;</button>
+            <button class="cart-btn" id="cartBtn">Cart <span class="cart-count" id="cartCount">0</span></button>
+        </div>
+    </div>
+</header>
+
+<section class="hero" style="padding:90px 0 150px;">
+    <div class="hero-bubbles"><span></span><span></span><span></span><span></span></div>
+    <div class="container hero-content">
+        <p class="hero-tag">Meet the Crew</p>
+        <h1>Our Beloved Characters</h1>
+        <p class="hero-text">Each Bloop has a unique personality, story, and superpower. Discover your favorite!</p>
+    </div>
+    <div class="hero-wave"></div>
+</section>
+
+<section class="section characters-section">
+    <div class="container">
+        <div class="character-grid">
+            <div class="character-card">
+                <div class="character-img">
+                    <img src="https://picsum.photos/seed/bloop-pip/500/500" alt="Pip">
+                    <span class="character-badge">Explorer</span>
+                </div>
+                <h3>Pip the Explorer</h3>
+                <p>Always ready for a new journey, Pip carries a map and a heart full of courage.</p>
+            </div>
+            <div class="character-card">
+                <div class="character-img">
+                    <img src="https://picsum.photos/seed/bloop-luna/500/500" alt="Luna">
+                    <span class="character-badge">Dreamer</span>
+                </div>
+                <h3>Luna the Dreamer</h3>
+                <p>She paints the stars and whispers stories to the moon every night.</p>
+            </div>
+            <div class="character-card">
+                <div class="character-img">
+                    <img src="https://picsum.photos/seed/bloop-bumble/500/500" alt="Bumble">
+                    <span class="character-badge">Builder</span>
+                </div>
+                <h3>Bumble the Builder</h3>
+                <p>With a tiny hammer and big ideas, Bumble can fix anything - including friendships.</p>
+            </div>
+            <div class="character-card">
+                <div class="character-img">
+                    <img src="https://picsum.photos/seed/bloop-zip/500/500" alt="Zip">
+                    <span class="character-badge">Speedster</span>
+                </div>
+                <h3>Zip the Swift</h3>
+                <p>The fastest Bloop in the galaxy - always racing, always smiling.</p>
+            </div>
+            <div class="character-card">
+                <div class="character-img">
+                    <img src="https://picsum.photos/seed/bloop-mimi/500/500" alt="Mimi">
+                    <span class="character-badge">Artist</span>
+                </div>
+                <h3>Mimi the Artist</h3>
+                <p>Mimi turns every blank canvas into a colorful masterpiece of joy.</p>
+            </div>
+            <div class="character-card">
+                <div class="character-img">
+                    <img src="https://picsum.photos/seed/bloop-cosmo/500/500" alt="Cosmo">
+                    <span class="character-badge">Wise One</span>
+                </div>
+                <h3>Cosmo the Wise</h3>
+                <p>The eldest Bloop, Cosmo shares ancient stories and cosmic wisdom.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="site-footer">
+    <div class="container footer-bottom">
+        <p>&copy; 2026 Bloopville. All rights reserved.</p>
+    </div>
+</footer>
+
+<div class="cart-sidebar" id="cartSidebar">
+    <div class="cart-header"><h3>Your Cart</h3><button class="close-cart" id="closeCart">&#x2715;</button></div>
+    <div class="cart-items" id="cartItems"><p class="empty-cart">Your cart is empty</p></div>
+    <div class="cart-footer">
+        <div class="cart-total"><span>Total:</span><span id="cartTotal">.00</span></div>
+        <button class="btn btn-primary btn-full" onclick="checkout()">Checkout</button>
+    </div>
+</div>
+<div class="cart-overlay" id="cartOverlay"></div>
+
+
+
+<script src="../assets/js/main.js"></script>
+</body>
+</html>

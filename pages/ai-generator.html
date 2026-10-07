@@ -1,0 +1,188 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#E32636">
+    <title>AI Character Generator - Bloopville</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="manifest" href="../manifest.json">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+<header class="site-header">
+    <div class="container header-inner">
+        <a href="../index.html" class="logo"><span class="logo-bubble"></span> Bloopville</a>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="characters.html">Characters</a></li>
+                <li><a href="products.html">Shop</a></li>
+                <li><a href="about.html">Our Story</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="header-actions">
+            <button class="theme-toggle" id="themeToggle">&#x1F319;</button>
+        </div>
+    </div>
+</header>
+
+<section class="ai-tool">
+    <div class="container">
+        <div class="ai-panel">
+            <h2>🎨 AI Character Generator</h2>
+            <p style="color:#6b6b7b; margin-bottom:24px;">Generate Bloopville-style characters using AI. Describe your creature below.</p>
+
+            <div class="ai-form">
+                <div>
+                    <label>Character Description</label>
+                    <textarea id="aiPrompt" placeholder="e.g. A fluffy blue creature with big round eyes, wearing a tiny explorer hat, holding a map, cute cartoon style"></textarea>
+                </div>
+
+                <div class="ai-grid">
+                    <div>
+                        <label>Style</label>
+                        <select id="aiStyle">
+                            <option value="cute cartoon">Cute Cartoon</option>
+                            <option value="anime">Anime</option>
+                            <option value="pixar">Pixar 3D</option>
+                            <option value="watercolor">Watercolor</option>
+                            <option value="chibi">Chibi</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label>Color Mood</label>
+                        <select id="aiColor">
+                            <option value="pastel">Pastel</option>
+                            <option value="vibrant">Vibrant</option>
+                            <option value="candy">Candy</option>
+                            <option value="neon">Neon</option>
+                        </select>
+                    </div>
+                </div>
+
+                <button class="generate-btn" id="generateBtn">✨ Generate Character</button>
+            </div>
+
+            <div class="result-area" id="resultArea">
+                <p class="result-placeholder">Your AI-generated character will appear here</p>
+            </div>
+
+            <div class="ai-note">
+                <strong>💡 How to enable AI generation:</strong><br>
+                1. Get a free API key from <a href="https://stablehorde.net" target="_blank" style="color:#E32636;">StableHorde.net</a><br>
+                2. Open <code>assets/js/main.js</code> and find <code>STABLE_HORDE_API_KEY</code><br>
+                3. Replace <code>'0000000000'</code> with your key<br>
+                4. This uses the free Stable Horde community GPU cluster
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<script>
+// ============================================
+// AI IMAGE GENERATION (Stable Horde)
+// ============================================
+const STABLE_HORDE_API_KEY = '0000000000'; // Get free key at stablehorde.net
+const STABLE_HORDE_URL = 'https://stablehorde.net/api/v2';
+
+document.getElementById('generateBtn').addEventListener('click', generateCharacter);
+
+async function generateCharacter() {
+    const btn = document.getElementById('generateBtn');
+    const resultArea = document.getElementById('resultArea');
+    const prompt = document.getElementById('aiPrompt').value.trim();
+    const style = document.getElementById('aiStyle').value;
+    const color = document.getElementById('aiColor').value;
+
+    if (!prompt) {
+        showToast('Please describe your character first');
+        return;
+    }
+
+    btn.disabled = true;
+    btn.textContent = 'Generating...';
+    resultArea.innerHTML = '<div class="loading-spinner"></div>';
+
+    try {
+        // Submit generation request
+        const fullPrompt = `Cute jelly bean creature, ${prompt}, ${style} style, ${color} colors, blob shape, big eyes, adorable, character design, white background`;
+
+        const submitRes = await fetch(STABLE_HORDE_URL + '/generate/async', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'apikey': STABLE_HORDE_API_KEY,
+                'Client-Agent': 'Bloopville:1.0:unknown'
+            },
+            body: JSON.stringify({
+                prompt: fullPrompt,
+                params: {
+                    width: 512,
+                    height: 512,
+                    steps: 30,
+                    cfg_scale: 7.5,
+                    sampler_name: 'k_euler',
+                    karras: true
+                },
+                nsfw: false,
+                censor_nsfw: true,
+                models: ['stable_diffusion']
+            })
+        });
+
+        const submitData = await submitRes.json();
+
+        if (!submitData.id) {
+            throw new Error(submitData.message || 'Failed to submit');
+        }
+
+        const jobId = submitData.id;
+        console.log('Job submitted:', jobId);
+
+        // Poll for result
+        let imageUrl = null;
+        let attempts = 0;
+        const maxAttempts = 30;
+
+        while (!imageUrl && attempts < maxAttempts) {
+            await new Promise(r => setTimeout(r, 3000));
+            attempts++;
+
+            const statusRes = await fetch(STABLE_HORDE_URL + '/generate/status/' + jobId, {
+                headers: { 'apikey': STABLE_HORDE_API_KEY }
+            });
+            const statusData = await statusRes.json();
+
+            if (statusData.done && statusData.generations && statusData.generations.length > 0) {
+                imageUrl = statusData.generations[0].img;
+            } else {
+                resultArea.innerHTML = '<div class="loading-spinner"></div><p style="margin-top:16px; color:#6b6b7b;">Generating... (' + attempts + '/' + maxAttempts + ')</p>';
+            }
+        }
+
+        if (imageUrl) {
+            resultArea.innerHTML = '<img src="' + imageUrl + '" alt="AI Generated Character">';
+            showToast('Character generated! 🎉');
+        } else {
+            throw new Error('Generation timed out');
+        }
+
+    } catch (err) {
+        console.error('Generation error:', err);
+        resultArea.innerHTML = '<p style="color:#E32636; font-weight:700;">Generation failed. ' + err.message + '</p>';
+        showToast('Generation failed. Check console for details.');
+    } finally {
+        btn.disabled = false;
+        btn.textContent = '✨ Generate Character';
+    }
+}
+</script>
+
+<script src="../assets/js/main.js"></script>
+</body>
+</html>

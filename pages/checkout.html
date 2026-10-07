@@ -1,0 +1,211 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#E32636">
+    <title>Checkout - Bloopville</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="manifest" href="../manifest.json">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+<header class="site-header">
+    <div class="container header-inner">
+        <a href="../index.html" class="logo"><span class="logo-bubble"></span> Bloopville</a>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="characters.html">Characters</a></li>
+                <li><a href="products.html">Shop</a></li>
+                <li><a href="about.html">Our Story</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="header-actions">
+            <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">&#x1F319;</button>
+        </div>
+    </div>
+</header>
+
+<section class="hero" style="padding:70px 0 120px;">
+    <div class="hero-bubbles"><span></span><span></span><span></span></div>
+    <div class="container hero-content">
+        <p class="hero-tag">Secure Checkout</p>
+        <h1>Complete Your Order</h1>
+    </div>
+    <div class="hero-wave"></div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="checkout-grid" id="checkoutGrid">
+
+            <div class="checkout-form">
+                <h3>Shipping Information</h3>
+                <form id="checkoutForm">
+                    <div class="form-row">
+                        <input type="text" placeholder="First Name" required>
+                        <input type="text" placeholder="Last Name" required>
+                    </div>
+                    <div class="form-row full">
+                        <input type="email" placeholder="Email Address" required>
+                    </div>
+                    <div class="form-row full">
+                        <input type="text" placeholder="Street Address" required>
+                    </div>
+                    <div class="form-row">
+                        <input type="text" placeholder="City" required>
+                        <input type="text" placeholder="Postal Code" required>
+                    </div>
+                    <div class="form-row">
+                        <select required>
+                            <option value="">Select Country</option>
+                            <option>United States</option>
+                            <option>United Kingdom</option>
+                            <option>Canada</option>
+                            <option>Australia</option>
+                            <option>India</option>
+                            <option>Other</option>
+                        </select>
+                        <input type="text" placeholder="State / Province">
+                    </div>
+
+                    <h3 style="margin-top:32px;">Payment Details</h3>
+                    <div class="form-row full">
+                        <input type="text" placeholder="Card Number (e.g. 4242 4242 4242 4242)" required>
+                    </div>
+                    <div class="form-row">
+                        <input type="text" placeholder="MM / YY" required>
+                        <input type="text" placeholder="CVC" required>
+                    </div>
+                    <div class="form-row full">
+                        <input type="text" placeholder="Name on Card" required>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary btn-full" style="margin-top:24px;">
+                        Place Order
+                    </button>
+                </form>
+            </div>
+
+            <div class="order-summary">
+                <h3>Order Summary</h3>
+                <div id="orderItems">
+                    <p style="color:#6b6b7b;">Loading cart...</p>
+                </div>
+                <div class="order-line">
+                    <span>Subtotal</span>
+                    <span id="orderSubtotal">$0.00</span>
+                </div>
+                <div class="order-line">
+                    <span>Shipping</span>
+                    <span>Free</span>
+                </div>
+                <div class="order-line total">
+                    <span>Total</span>
+                    <span id="orderTotal">$0.00</span>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="order-success" id="orderSuccess" style="display:none;">
+            <span class="success-icon">&#x1F389;</span>
+            <h2>Order Confirmed!</h2>
+            <p>Thank you for your purchase. A confirmation email is on its way.</p>
+            <a href="../index.html" class="btn btn-primary">Back to Home</a>
+        </div>
+
+    </div>
+</section>
+
+<!-- ============ STRIPE CHECKOUT ============ -->
+<section class="checkout-stripe-section">
+    <div class="container">
+        <p>Ready to pay? Use the secure Stripe checkout below.</p>
+        <!-- 
+            INSTRUCTIONS:
+            1. Go to dashboard.stripe.com
+            2. Create a product (e.g., "Bloopville Order")
+            3. Create a payment link for that product
+            4. Replace the href below with your payment link URL
+        -->
+        <a href="https://buy.stripe.com/test_YOUR_PAYMENT_LINK_HERE" 
+           class="stripe-checkout-btn" 
+           target="_blank"
+           rel="noopener">
+            Pay with Stripe 💳
+        </a>
+    </div>
+</section>
+
+    <div class="container footer-bottom">
+        <p>&copy; 2026 Bloopville. All rights reserved.</p>
+    </div>
+</footer>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var itemsDiv = document.getElementById('orderItems');
+    if (typeof cart !== 'undefined' && cart.length === 0) {
+        itemsDiv.innerHTML = '<p style="color:#6b6b7b;">Your cart is empty.</p>';
+    } else if (typeof cart !== 'undefined') {
+        itemsDiv.innerHTML = cart.map(function(item) {
+            return '<div class="order-line"><span>' + item.name + ' x ' + item.qty + '</span><span>
+</html>
+ + (item.price * item.qty).toFixed(2) + '</span></div>';
+        }).join('');
+    }
+
+    var subtotal = (typeof cart !== 'undefined') ? cart.reduce(function(s, i) { return s + i.price * i.qty; }, 0) : 0;
+    document.getElementById('orderSubtotal').textContent = '\
+</html>
+ + subtotal.toFixed(2);
+    document.getElementById('orderTotal').textContent = '\
+</html>
+ + subtotal.toFixed(2);
+
+    document.getElementById('checkoutForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        if (typeof cart === 'undefined' || cart.length === 0) {
+            if (typeof showToast === 'function') showToast('Your cart is empty!');
+            return;
+        }
+
+        var inputs = e.target.querySelectorAll('input, select');
+        var customer = {
+            name: (inputs[0] ? inputs[0].value : '') + ' ' + (inputs[1] ? inputs[1].value : ''),
+            email: inputs[2] ? inputs[2].value : '',
+            address: inputs[3] ? inputs[3].value : '',
+            city: inputs[4] ? inputs[4].value : '',
+            country: inputs[6] ? inputs[6].value : ''
+        };
+        var total = cart.reduce(function(s, i) { return s + i.price * i.qty; }, 0);
+
+        var order = saveOrder({
+            customer: customer,
+            items: cart.map(function(i) { return { name: i.name, price: i.price, qty: i.qty }; }),
+            total: total
+        });
+
+        document.getElementById('checkoutGrid').style.display = 'none';
+        var successEl = document.getElementById('orderSuccess');
+        if (successEl) {
+            successEl.style.display = 'block';
+            successEl.innerHTML = '<span class="success-icon">&#x1F389;</span><h2>Order Confirmed!</h2><p style="font-size:1.1rem;margin:12px 0;">Order ID: <strong>' + order.id + '</strong></p><p>Thank you, ' + customer.name.trim() + '!</p><a href="track.html" class="btn btn-primary" style="margin-top:12px;">Track This Order</a> <a href="../index.html" class="btn btn-secondary" style="margin-top:12px;">Back Home</a>';
+        }
+
+        cart = [];
+        if (typeof updateCart === 'function') updateCart();
+        if (typeof showToast === 'function') showToast('Order ' + order.id + ' placed!');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+});
+</script>
+</body>
+</html>
+

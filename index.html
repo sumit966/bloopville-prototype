@@ -1,0 +1,740 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#E32636">
+    <title>Bloopville - A World of Curious Creatures</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="manifest" href="manifest.json">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+
+<!-- ============ FLASH SALE COUNTDOWN ============ -->
+<section class="flash-sale" id="flashSale">
+    <div class="container flash-sale-content">
+        <h2>Flash Sale!</h2>
+        <p>Hurry! Offer ends in:</p>
+        <div class="countdown-timer" id="flashSaleTimer">
+            <div class="countdown-block">
+                <span class="num" id="countdownDays">00</span>
+                <span class="label">Days</span>
+            </div>
+            <div class="countdown-block">
+                <span class="num" id="countdownHours">00</span>
+                <span class="label">Hours</span>
+            </div>
+            <div class="countdown-block">
+                <span class="num" id="countdownMins">00</span>
+                <span class="label">Minutes</span>
+            </div>
+            <div class="countdown-block">
+                <span class="num" id="countdownSecs">00</span>
+                <span class="label">Seconds</span>
+            </div>
+        </div>
+        <a href="pages/products.html" class="btn btn-primary">Shop the Sale</a>
+    </div>
+</section>
+
+<header class="site-header">
+    <div class="container header-inner">
+        <a href="index.html" class="logo">
+            <span class="logo-bubble"></span> Bloopville
+        </a>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="index.html" class="active">Home</a></li>
+                <li><a href="pages/characters.html">Characters</a></li>
+                <li><a href="pages/products.html">Shop</a></li>
+                <li><a href="pages/about.html">Our Story</a></li>
+                <li><a href="pages/contact.html">Contact</a></li><li><a href="pages/admin.html">Admin</a></li><li><a href="pages/track.html">Track Order</a></li>
+            </ul>
+        </nav>
+        <div class="header-actions"><button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">&#x1F319;</button>
+            <button class="cart-btn" id="cartBtn">
+                Cart <span class="cart-count" id="cartCount">0</span>
+            </button>
+        </div>
+    </div>
+</header>
+
+<section class="hero">
+    <div class="hero-bubbles">
+        <span></span><span></span><span></span><span></span><span></span><span></span>
+    </div>
+    <div class="container hero-content">
+        <p class="hero-tag">Welcome to Bloopville</p>
+        <h1>Dive into the world<br>of <span class="highlight">Curious Creatures!</span></h1>
+        <p class="hero-text">Bloopville was born to spark creativity, embrace curiosity, and inspire a sense of adventure. Meet our unique characters and bring home a little magic.</p>
+        <div class="hero-buttons">
+            <a href="pages/characters.html" class="btn btn-white">Meet the Crew</a>
+            <a href="pages/products.html" class="btn btn-outline">Shop Now</a>
+        </div>
+    </div>
+    <div class="hero-wave"></div>
+</section>
+
+<div class="section-divider"></div>`n<section class="feature-strip">
+    <div class="container feature-grid">
+        <div class="feature-item">
+            <div class="feature-icon">&#x1F381;</div>
+            <h4>Heartfelt Treasures</h4>
+            <p>Gifts that touch hearts</p>
+        </div>
+        <div class="feature-item">
+            <div class="feature-icon">&#x1F30D;</div>
+            <h4>Worldwide Shipping</h4>
+            <p>Delivered with love</p>
+        </div>
+        <div class="feature-item">
+            <div class="feature-icon">&#x1F48E;</div>
+            <h4>Premium Quality</h4>
+            <p>Made to last forever</p>
+        </div>
+        <div class="feature-item">
+            <div class="feature-icon">&#x1F4AC;</div>
+            <h4>24/7 Support</h4>
+            <p>We are here to help</p>
+        </div>
+    </div>
+</section>
+
+<section class="section characters-section reveal">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-tag">Discover Bloopville</p>
+            <h2>Explore Characters That Spark Joy</h2>
+            <p class="section-desc">Far away in the cosmos, on the peaceful planet of Bloopia, lives a group of adorable creatures. Their harmony was shattered when a meteorite crashed, draining their planet's vital energy - the JajaBooma. Now they need your help!</p>
+        </div>
+
+        <div class="character-grid">
+            <div class="character-card">
+                <div class="character-img">
+                    <img src="https://picsum.photos/seed/bloop-pip/500/500" alt="Pip">
+                    <span class="character-badge">Explorer</span>
+                </div>
+                <h3>Pip the Explorer</h3>
+                <p>Always ready for a new journey, Pip carries a map and a heart full of courage.</p>
+            </div>
+
+            <div class="character-card">
+                <div class="character-img">
+                    <img src="https://picsum.photos/seed/bloop-luna/500/500" alt="Luna">
+                    <span class="character-badge">Dreamer</span>
+                </div>
+                <h3>Luna the Dreamer</h3>
+                <p>She paints the stars and whispers stories to the moon every night.</p>
+            </div>
+
+            <div class="character-card">
+                <div class="character-img">
+                    <img src="https://picsum.photos/seed/bloop-bumble/500/500" alt="Bumble">
+                    <span class="character-badge">Builder</span>
+                </div>
+                <h3>Bumble the Builder</h3>
+                <p>With a tiny hammer and big ideas, Bumble can fix anything - including friendships.</p>
+            </div>
+
+            <div class="character-card">
+                <div class="character-img">
+                    <img src="https://picsum.photos/seed/bloop-zip/500/500" alt="Zip">
+                    <span class="character-badge">Speedster</span>
+                </div>
+                <h3>Zip the Swift</h3>
+                <p>The fastest Bloop in the galaxy - always racing, always smiling.</p>
+            </div>
+        </div>
+
+        <div class="section-cta">
+            <a href="pages/characters.html" class="btn btn-primary">View All Characters</a>
+        </div>
+    </div>
+</section>
+
+<section class="occasions-banner">
+    <div class="container occasions-inner">
+        <div class="occasions-text">
+            <p class="section-tag light">Special Occasions</p>
+            <h2>Celebrating Moments,<br>Creating Memories</h2>
+            <p>Birthdays, holidays, or just because - find the perfect Bloopville gift for every occasion.</p>
+            <a href="pages/products.html" class="btn btn-white">Shop Gifts</a>
+        </div>
+        <div class="occasions-art">
+            <div class="art-circle c1"></div>
+            <div class="art-circle c2"></div>
+            <div class="art-circle c3"></div>
+        </div>
+    </div>
+</section>
+
+<section class="section products-section reveal">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-tag">Fresh Arrivals</p>
+            <h2>Discover Our Latest Collection</h2>
+            <p class="section-desc">Plush toys, electronics, clothing, and more - bring Bloopville home.</p>
+        </div>
+
+        <div class="product-grid">
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="https://picsum.photos/seed/bloop-plush/500/500" alt="Plush"><button class="wishlist-btn" onclick="toggleWishlist(this, 'Product')" aria-label="Add to wishlist">&#x2661;</button>
+                    <span class="product-tag">New</span>
+                </div>
+                <div class="product-info">
+                    <h3>Pip Plush Toy</h3>
+                    <p class="product-category">Plush Toys</p>
+                    <p class="product-price">$24.99</p>
+                    <button class="btn btn-add" onclick="addToCart('Pip Plush Toy', 24.99)">Add to Cart</button>
+                </div>
+            </div>
+
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="https://picsum.photos/seed/bloop-light/500/500" alt="Light"><button class="wishlist-btn" onclick="toggleWishlist(this, 'Product')" aria-label="Add to wishlist">&#x2661;</button>
+                    <span class="product-tag sale">Sale</span>
+                </div>
+                <div class="product-info">
+                    <h3>Luna Night Light</h3>
+                    <p class="product-category">Electronics</p>
+                    <p class="product-price">$34.99</p>
+                    <button class="btn btn-add" onclick="addToCart('Luna Night Light', 34.99)">Add to Cart</button>
+                </div>
+            </div>
+
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="https://picsum.photos/seed/bloop-tshirt/500/500" alt="T-Shirt">
+                </div>
+                <div class="product-info">
+                    <h3>Bumble T-Shirt</h3>
+                    <p class="product-category">Clothing</p>
+                    <p class="product-price">$19.99</p>
+                    <button class="btn btn-add" onclick="addToCart('Bumble T-Shirt', 19.99)">Add to Cart</button>
+                </div>
+            </div>
+
+            <div class="product-card">
+                <div class="product-img">
+                    <img src="https://picsum.photos/seed/bloop-mug/500/500" alt="Mug">
+                </div>
+                <div class="product-info">
+                    <h3>Zip Coffee Mug</h3>
+                    <p class="product-category">Home and Living</p>
+                    <p class="product-price">$14.99</p>
+                    <button class="btn btn-add" onclick="addToCart('Zip Coffee Mug', 14.99)">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-cta">
+            <a href="pages/products.html" class="btn btn-secondary">View All Products</a>
+        </div>
+    </div>
+</section>
+
+<section class="section team-section reveal">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-tag">The Inventors of Wonder</p>
+            <h2>Meet Our Team</h2>
+            <p class="section-desc">The dreamers and doers behind Bloopville.</p>
+        </div>
+
+        <div class="team-grid">
+            <div class="team-member">
+                <div class="team-avatar" style="background:#7c5cff;">AR</div>
+                <h3>Alex Rivera</h3>
+                <p>Founder and CEO</p>
+            </div>
+            <div class="team-member">
+                <div class="team-avatar" style="background:#ff8c42;">PN</div>
+                <h3>Priya Nair</h3>
+                <p>Creative Director</p>
+            </div>
+            <div class="team-member">
+                <div class="team-avatar" style="background:#4ecdc4;">JL</div>
+                <h3>Jordan Lee</h3>
+                <p>Head of Product</p>
+            </div>
+            <div class="team-member">
+                <div class="team-avatar" style="background:#ff6b9d;">MK</div>
+                <h3>Maya Kapoor</h3>
+                <p>Lead Illustrator</p>
+            </div>
+            <div class="team-member">
+                <div class="team-avatar" style="background:#5a4ae0;">ST</div>
+                <h3>Sam Turner</h3>
+                <p>Marketing Manager</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="chat-cta">
+    <div class="container chat-inner">
+        <h2>Let's Bloop Chat Now!</h2>
+        <p>Questions about our characters or products? We would love to hear from you.</p>
+        <a href="pages/contact.html" class="btn btn-white">Talk to Us</a>
+    </div>
+</section>
+
+<!-- ============ REVIEWS ============ -->
+<section class="reviews-section reveal">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-tag">Loved by Many</p>
+            <h2>What Our Fans Say</h2>
+        </div>
+        <div class="reviews-summary">
+            <div>
+                <div class="rating-big">4.9</div>
+                <div class="rating-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</div>
+                <div class="rating-count">Based on 1,247 reviews</div>
+            </div>
+        </div>
+        <div class="reviews-grid">
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="review-avatar" style="background:#7c5cff;">SM</div>
+                    <div class="review-meta">
+                        <h4>Sarah M.</h4>
+                        <p>Verified Buyer</p>
+                    </div>
+                </div>
+                <div class="review-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</div>
+                <p class="review-text">Absolutely adorable! The plush quality is amazing and my daughter takes Pip everywhere. Will definitely buy more.</p>
+            </div>
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="review-avatar" style="background:#ff8c42;">JT</div>
+                    <div class="review-meta">
+                        <h4>James T.</h4>
+                        <p>Verified Buyer</p>
+                    </div>
+                </div>
+                <div class="review-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</div>
+                <p class="review-text">The night light is a game changer for bedtime. Luna's soft glow is perfect and the colors are so calming.</p>
+            </div>
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="review-avatar" style="background:#4ecdc4;">EP</div>
+                    <div class="review-meta">
+                        <h4>Emma P.</h4>
+                        <p>Verified Buyer</p>
+                    </div>
+                </div>
+                <div class="review-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;</div>
+                <p class="review-text">Beautiful artwork and the story behind each character is heartwarming. Shipping was fast too!</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ BEST SELLERS CAROUSEL ============ -->
+<section class="carousel-section">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-tag">Top Picks</p>
+            <h2>Best Sellers</h2>
+            <p class="section-desc">Our most loved products, chosen by the Bloopville family.</p>
+        </div>
+
+        <div class="carousel-wrapper">
+            <button class="carousel-nav prev" aria-label="Previous">&#x2039;</button>
+            <button class="carousel-nav next" aria-label="Next">&#x203A;</button>
+
+            <div class="carousel-track-container">
+                <div class="carousel-track" id="carouselTrack">
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best1/500/500" alt="Best 1">
+                            <span class="rank-badge">#1 Best Seller</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Pip Plush Toy</h3>
+                            <p class="product-price">$24.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Pip Plush Toy', 24.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best2/500/500" alt="Best 2">
+                            <span class="rank-badge">#2</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Luna Night Light</h3>
+                            <p class="product-price">$34.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Luna Night Light', 34.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best3/500/500" alt="Best 3">
+                            <span class="rank-badge">#3</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Bumble Hoodie</h3>
+                            <p class="product-price">$39.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Bumble Hoodie', 39.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best4/500/500" alt="Best 4">
+                            <span class="rank-badge">#4</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Zip Coffee Mug</h3>
+                            <p class="product-price">$14.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Zip Coffee Mug', 14.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best5/500/500" alt="Best 5">
+                            <span class="rank-badge">#5</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Sticker Pack</h3>
+                            <p class="product-price">$8.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Sticker Pack', 8.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best6/500/500" alt="Best 6">
+                            <span class="rank-badge">#6</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Cosmo Keychain</h3>
+                            <p class="product-price">$9.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Cosmo Keychain', 9.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="carousel-dots" id="carouselDots">
+                <button class="carousel-dot active"></button>
+                <button class="carousel-dot"></button>
+                <button class="carousel-dot"></button>
+                <button class="carousel-dot"></button>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ============ FAQ ============ -->
+<section class="section faq-section reveal">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-tag">Questions</p>
+            <h2>Frequently Asked</h2>
+            <p class="section-desc">Everything you need to know about Bloopville.</p>
+        </div>
+        <div class="faq-list">
+            <div class="faq-item">
+                <div class="faq-question">What makes Bloopville characters special? <span class="faq-icon">&#x2B;</span></div>
+                <div class="faq-answer"><p>Each Bloop is hand-designed with a unique personality, backstory, and superpower. We blend storytelling with premium craftsmanship to create characters you will truly love.</p></div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">How long does shipping take? <span class="faq-icon">&#x2B;</span></div>
+                <div class="faq-answer"><p>Standard shipping takes 3-5 business days within the US, and 7-14 days internationally. Express options are available at checkout.</p></div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Do you ship worldwide? <span class="faq-icon">&#x2B;</span></div>
+                <div class="faq-answer"><p>Yes! We ship to over 40 countries. Shipping rates and delivery times are calculated at checkout based on your location.</p></div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">What is your return policy? <span class="faq-icon">&#x2B;</span></div>
+                <div class="faq-answer"><p>We offer a 30-day return policy on all unused items in original packaging. Just contact us and we will send you a prepaid return label.</p></div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Are the products safe for kids? <span class="faq-icon">&#x2B;</span></div>
+                <div class="faq-answer"><p>Absolutely. All Bloopville products are tested and certified to meet or exceed international safety standards for children's products.</p></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ NEWSLETTER ============ -->
+<section class="newsletter reveal">
+    <div class="container">
+        <h2>Join the Bloopville Family</h2>
+        <p>Get 10% off your first order, plus early access to new characters and exclusive drops.</p>
+        <form class="newsletter-form" id="newsletterForm">
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+        </form>
+    </div>
+</section>
+<!-- ============ REVIEWS ============ -->
+<section class="reviews-section reveal">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-tag">Loved by Many</p>
+            <h2>What Our Fans Say</h2>
+        </div>
+        <div class="reviews-summary">
+            <div>
+                <div class="rating-big">4.9</div>
+                <div class="rating-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</div>
+                <div class="rating-count">Based on 1,247 reviews</div>
+            </div>
+        </div>
+        <div class="reviews-grid">
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="review-avatar" style="background:#7c5cff;">SM</div>
+                    <div class="review-meta">
+                        <h4>Sarah M.</h4>
+                        <p>Verified Buyer</p>
+                    </div>
+                </div>
+                <div class="review-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</div>
+                <p class="review-text">Absolutely adorable! The plush quality is amazing and my daughter takes Pip everywhere. Will definitely buy more.</p>
+            </div>
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="review-avatar" style="background:#ff8c42;">JT</div>
+                    <div class="review-meta">
+                        <h4>James T.</h4>
+                        <p>Verified Buyer</p>
+                    </div>
+                </div>
+                <div class="review-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2605;</div>
+                <p class="review-text">The night light is a game changer for bedtime. Luna's soft glow is perfect and the colors are so calming.</p>
+            </div>
+            <div class="review-card">
+                <div class="review-header">
+                    <div class="review-avatar" style="background:#4ecdc4;">EP</div>
+                    <div class="review-meta">
+                        <h4>Emma P.</h4>
+                        <p>Verified Buyer</p>
+                    </div>
+                </div>
+                <div class="review-stars">&#x2605;&#x2605;&#x2605;&#x2605;&#x2606;</div>
+                <p class="review-text">Beautiful artwork and the story behind each character is heartwarming. Shipping was fast too!</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ BEST SELLERS CAROUSEL ============ -->
+<section class="carousel-section">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-tag">Top Picks</p>
+            <h2>Best Sellers</h2>
+            <p class="section-desc">Our most loved products, chosen by the Bloopville family.</p>
+        </div>
+
+        <div class="carousel-wrapper">
+            <button class="carousel-nav prev" aria-label="Previous">&#x2039;</button>
+            <button class="carousel-nav next" aria-label="Next">&#x203A;</button>
+
+            <div class="carousel-track-container">
+                <div class="carousel-track" id="carouselTrack">
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best1/500/500" alt="Best 1">
+                            <span class="rank-badge">#1 Best Seller</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Pip Plush Toy</h3>
+                            <p class="product-price">$24.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Pip Plush Toy', 24.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best2/500/500" alt="Best 2">
+                            <span class="rank-badge">#2</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Luna Night Light</h3>
+                            <p class="product-price">$34.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Luna Night Light', 34.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best3/500/500" alt="Best 3">
+                            <span class="rank-badge">#3</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Bumble Hoodie</h3>
+                            <p class="product-price">$39.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Bumble Hoodie', 39.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best4/500/500" alt="Best 4">
+                            <span class="rank-badge">#4</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Zip Coffee Mug</h3>
+                            <p class="product-price">$14.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Zip Coffee Mug', 14.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best5/500/500" alt="Best 5">
+                            <span class="rank-badge">#5</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Sticker Pack</h3>
+                            <p class="product-price">$8.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Sticker Pack', 8.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item">
+                        <div class="product-img">
+                            <img src="https://picsum.photos/seed/best6/500/500" alt="Best 6">
+                            <span class="rank-badge">#6</span>
+                        </div>
+                        <div class="product-info">
+                            <h3>Cosmo Keychain</h3>
+                            <p class="product-price">$9.99</p>
+                            <button class="btn btn-add" onclick="addToCart('Cosmo Keychain', 9.99)">Add to Cart</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="carousel-dots" id="carouselDots">
+                <button class="carousel-dot active"></button>
+                <button class="carousel-dot"></button>
+                <button class="carousel-dot"></button>
+                <button class="carousel-dot"></button>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ============ FAQ ============ -->
+<section class="section faq-section reveal">
+    <div class="container">
+        <div class="section-header">
+            <p class="section-tag">Questions</p>
+            <h2>Frequently Asked</h2>
+            <p class="section-desc">Everything you need to know about Bloopville.</p>
+        </div>
+        <div class="faq-list">
+            <div class="faq-item">
+                <div class="faq-question">What makes Bloopville characters special? <span class="faq-icon">&#x2B;</span></div>
+                <div class="faq-answer"><p>Each Bloop is hand-designed with a unique personality, backstory, and superpower. We blend storytelling with premium craftsmanship to create characters you will truly love.</p></div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">How long does shipping take? <span class="faq-icon">&#x2B;</span></div>
+                <div class="faq-answer"><p>Standard shipping takes 3-5 business days within the US, and 7-14 days internationally. Express options are available at checkout.</p></div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Do you ship worldwide? <span class="faq-icon">&#x2B;</span></div>
+                <div class="faq-answer"><p>Yes! We ship to over 40 countries. Shipping rates and delivery times are calculated at checkout based on your location.</p></div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">What is your return policy? <span class="faq-icon">&#x2B;</span></div>
+                <div class="faq-answer"><p>We offer a 30-day return policy on all unused items in original packaging. Just contact us and we will send you a prepaid return label.</p></div>
+            </div>
+            <div class="faq-item">
+                <div class="faq-question">Are the products safe for kids? <span class="faq-icon">&#x2B;</span></div>
+                <div class="faq-answer"><p>Absolutely. All Bloopville products are tested and certified to meet or exceed international safety standards for children's products.</p></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ============ NEWSLETTER ============ -->
+<section class="newsletter reveal">
+    <div class="container">
+        <h2>Join the Bloopville Family</h2>
+        <p>Get 10% off your first order, plus early access to new characters and exclusive drops.</p>
+        <form class="newsletter-form" id="newsletterForm">
+            <input type="email" placeholder="Enter your email" required>
+            <button type="submit">Subscribe</button>
+        </form>
+    </div>
+</section>
+<footer class="site-footer">
+    <div class="container footer-grid">
+        <div class="footer-col">
+            <h3 class="footer-logo">Bloopville</h3>
+            <p>Sparking creativity, embracing curiosity, and inspiring adventure since 2026.</p>
+        </div>
+        <div class="footer-col">
+            <h4>Shop</h4>
+            <ul>
+                <li><a href="pages/products.html">All Products</a></li>
+                <li><a href="pages/characters.html">Characters</a></li>
+                <li><a href="#">New Arrivals</a></li>
+                <li><a href="#">Sale</a></li>
+            </ul>
+        </div>
+        <div class="footer-col">
+            <h4>Company</h4>
+            <ul>
+                <li><a href="pages/about.html">About Us</a></li>
+                <li><a href="pages/contact.html">Contact</a></li><li><a href="pages/admin.html">Admin</a></li><li><a href="pages/track.html">Track Order</a></li>
+                <li><a href="#">Careers</a></li>
+                <li><a href="#">Press</a></li>
+            </ul>
+        </div>
+        <div class="footer-col">
+            <h4>Follow Us</h4>
+            <ul>
+                <li><a href="#">Instagram</a></li>
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">TikTok</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <p>&copy; 2026 Bloopville. All rights reserved.</p>
+    </div>
+</footer>
+
+<div class="cart-sidebar" id="cartSidebar">
+    <div class="cart-header">
+        <h3>Your Cart</h3>
+        <button class="close-cart" id="closeCart">&#x2715;</button>
+    </div>
+    <div class="cart-items" id="cartItems">
+        <p class="empty-cart">Your cart is empty</p>
+    </div>
+    <div class="cart-footer">
+        <div class="cart-total">
+            <span>Total:</span>
+            <span id="cartTotal">$0.00</span>
+        </div>
+        <button class="btn btn-primary btn-full" onclick="checkout()">Checkout</button>
+    </div>
+</div>
+<div class="cart-overlay" id="cartOverlay"></div>
+
+
+
+<script src="assets/js/products-data.js"></script>`n<script src="assets/js/main.js"></script>
+</body>
+</html>
+

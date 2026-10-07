@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#E32636">
+    <title>Admin Login - Bloopville</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="manifest" href="../manifest.json">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+<div class="login-container">
+    <div class="login-card">
+        <span class="login-icon">🔐</span>
+        <h1>Admin Access</h1>
+        <p>Enter password to continue</p>
+        <form id="loginForm">
+            <input type="password" class="login-input" id="adminPassword" placeholder="Enter password" autocomplete="off">
+            <button type="submit" class="login-btn">Unlock Dashboard</button>
+            <p class="error-msg" id="errorMsg">Incorrect password. Try again.</p>
+        </form>
+    </div>
+</div>
+
+<script>
+// ============================================
+// ADMIN PASSWORD PROTECTION
+// ============================================
+// SHA-256 hash of "bloopville2026" (change this)
+// Generate new hash at: https://emn178.github.io/online-tools/sha256.html
+const ADMIN_HASH = '7f83b1657ff1fc53b92dc18148a1d65dfc2d4b1fa3d677284addd200126d9069';
+
+document.getElementById('loginForm').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const password = document.getElementById('adminPassword').value;
+    const errorMsg = document.getElementById('errorMsg');
+
+    // Hash the entered password
+    const encoder = new TextEncoder();
+    const data = encoder.encode(password);
+    const hashBuffer = await crypto.subtle.digest('SHA-256', data);
+    const hashArray = Array.from(new Uint8Array(hashBuffer));
+    const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+
+    if (hashHex === ADMIN_HASH) {
+        // Set session cookie (24 hours)
+        document.cookie = 'bloop_admin=authenticated; max-age=86400; path=/; SameSite=Strict';
+        window.location.href = 'admin.html';
+    } else {
+        errorMsg.classList.add('show');
+        document.getElementById('adminPassword').value = '';
+    }
+});
+
+// Check if already authenticated
+if (document.cookie.includes('bloop_admin=authenticated')) {
+    window.location.href = 'admin.html';
+}
+</script>
+
+<script src="../assets/js/main.js"></script>
+</body>
+</html>

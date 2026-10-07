@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#E32636">
+    <title>Track Order - Bloopville</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="manifest" href="../manifest.json">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+
+<header class="site-header">
+    <div class="container header-inner">
+        <a href="../index.html" class="logo"><span class="logo-bubble"></span> Bloopville</a>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="characters.html">Characters</a></li>
+                <li><a href="products.html">Shop</a></li>
+                <li><a href="about.html">Our Story</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="header-actions">
+            <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">&#x1F319;</button>
+            <button class="cart-btn" id="cartBtn">Cart <span class="cart-count" id="cartCount">0</span></button>
+        </div>
+    </div>
+</header>
+
+<section class="hero" style="padding:80px 0 140px;">
+    <div class="hero-bubbles"><span></span><span></span><span></span></div>
+    <div class="container hero-content">
+        <p class="hero-tag">Order Updates</p>
+        <h1>Track Your Order</h1>
+        <p class="hero-text">Enter your order number to see real-time updates.</p>
+    </div>
+    <div class="hero-wave"></div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="tracking-box">
+            <form class="tracking-form" id="trackingForm">
+                <input type="text" placeholder="Enter order number (e.g. BLV-12345)" required>
+                <button type="submit" class="btn btn-primary">Track</button>
+            </form>
+
+            <div class="tracking-timeline" id="trackingTimeline">
+                <div class="timeline-step completed">
+                    <h4>Order Placed</h4>
+                    <p>We received your order.</p>
+                    <p class="step-time">Today, 10:42 AM</p>
+                </div>
+                <div class="timeline-step completed">
+                    <h4>Processing</h4>
+                    <p>Your items are being prepared.</p>
+                    <p class="step-time">Today, 2:15 PM</p>
+                </div>
+                <div class="timeline-step current">
+                    <h4>Shipped</h4>
+                    <p>Handed to carrier. Tracking active.</p>
+                    <p class="step-time">Tomorrow</p>
+                </div>
+                <div class="timeline-step">
+                    <h4>Out for Delivery</h4>
+                    <p>Arriving soon!</p>
+                    <p class="step-time">Pending</p>
+                </div>
+                <div class="timeline-step">
+                    <h4>Delivered</h4>
+                    <p>Enjoy your Bloop!</p>
+                    <p class="step-time">Pending</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer class="site-footer">
+    <div class="container footer-bottom">
+        <p>&copy; 2026 Bloopville. All rights reserved.</p>
+    </div>
+</footer>
+
+<div class="cart-sidebar" id="cartSidebar">
+    <div class="cart-header"><h3>Your Cart</h3><button class="close-cart" id="closeCart">&#x2715;</button></div>
+    <div class="cart-items" id="cartItems"><p class="empty-cart">Your cart is empty</p></div>
+    <div class="cart-footer">
+        <div class="cart-total"><span>Total:</span><span id="cartTotal">$0.00</span></div>
+        <button class="btn btn-primary btn-full" onclick="checkout()">Checkout</button>
+    </div>
+</div>
+<div class="cart-overlay" id="cartOverlay"></div>
+
+
+
+<script src="../assets/js/main.js"></script>
+</body>
+</html>
